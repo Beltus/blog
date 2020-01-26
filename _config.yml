@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Beltus Nkwawir"
+title                    : #"BelVision"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : #"Beltus Nkwawir"
+name                     : "Beltus Nkwawir"
 description              : "This site explores concepts in the fields of machine learning, computer vision and image processing using a project-base approach"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
