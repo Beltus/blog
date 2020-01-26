@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Beltus Nkwawir"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Beltus Nkwawir"
+name                     : #"Beltus Nkwawir"
 description              : "This site explores concepts in the fields of machine learning, computer vision and image processing using a project-base approach"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Beltus Nkwawir"
   avatar           : "/images/profile_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Giving machines the opportunity to experience our world" #"Beltus spends his time trying to understand the world he lives in, then translates that to machines in a simple yet elegant way"
+  bio              : "Offers machines the opportunity to experience our world" #"Beltus spends his time trying to understand the world he lives in, then translates that to machines in a simple yet elegant way"
   location         : "Istanbul"
   email            :
   links:
