@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Beltus Nkwawir"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Beltus Nkwawir"
+description              : "This site explores concepts in the fields of machine learning, computer vision and image processing using a project-base approach"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,30 +107,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Beltus Nkwawir"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Beltus spends his time trying to understand the world he lives in, then translates that to machines in a simple yet elegant way."
+  location         : "Istanbul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:beltus.scholar@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://beltus.github.io/vision/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+       url: "https://www.linkedin.com/in/beltus/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+       url: "https://facebook.com/nkwawir.beltus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/Beltus"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://instagram.com/j_beltus"
 
 # Site Footer
 footer:
@@ -293,3 +293,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+  #_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+        layout: single
+        author_profile: true
