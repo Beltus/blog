@@ -115,22 +115,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:beltus.scholar@gmail.com
+      url: mailto:beltus.scholar@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       #url: "https://beltus.github.io/vision/"
+      url: "https://beltus.github.io/vision/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-       #url: "https://www.linkedin.com/in/beltus/"
+      url: "https://www.linkedin.com/in/beltus/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       #url: "https://facebook.com/nkwawir.beltus"
+      url: "https://facebook.com/nkwawir.beltus"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       #url: "https://github.com/Beltus"
+      url: "https://github.com/Beltus"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       #url: "https://instagram.com/j_beltus"
+      url: "https://instagram.com/j_beltus"
 
 # Site Footer
 footer:
