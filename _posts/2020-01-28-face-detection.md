@@ -13,8 +13,8 @@ header :
 #comments : true
 #toc: true
 #toc_sticky: true
-#sidebar:
-  #  nav: sidebar-sample
+sidebar:
+    nav: sidebar-sample
 ---
 
 If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
