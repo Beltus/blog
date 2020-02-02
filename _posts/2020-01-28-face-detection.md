@@ -1,18 +1,18 @@
 ---
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
-collection: tuto
-layout: single
-author_profile: false
-read_time: true
-categories: [tutorials]
+#collection: tuto
+layout: post
+#author_profile: false
+#read_time: true
+categories: computervision #[tutorials]
 excerpt : "Tutorials"
 header :
     overlay_image: "https://beltus.github.io/images/face.png"
     teaser: "https://beltus.github.io/images/face.png"
-comments : true
-toc: true
-toc_sticky: true
+#comments : true
+#toc: true
+#toc_sticky: true
 #sidebar:
   #  nav: sidebar-sample
 ---
@@ -60,20 +60,20 @@ For this project, I am using Ubuntu 18.04.3 LTS operating system with a python v
 
 # Prerequisites
 In order to use opencv library, we need to first install it by running the command below on our command terminal. Based on your operating system the command be slightly different. Just take a second and let google solve that for you.
-```
+```python
  $ sudo apt-get install python-opencv
 ```
 
 # Step 1: Import Libraries.
 Open up your IDE lets start importing some libraries.
-```
+```python
 import cv2
 import matplotlib.pyplot as plt
 ```
 The first line of code imports opencv library which will be used for face and eye detection and *matplotlib* is used to display the images.
 
 # Step 2: Initialize HAAR CASCADE Classifier.
-```
+```python
 #path to face and eye haarcascades  XML files respectively
 facePath = '/home/beltus/image/frontalFace10/haarcascade_frontalface_default.xml';
 eyePath = '/home/beltus/image/frontalEyes35x16XML/haarcascade_eye.xml'
@@ -89,7 +89,7 @@ The *cv2.CascadeClassifier()* method is used to deserialize the classifier, load
 # Step 3: Detection of Faces in Image.
 Lets first of all read in the image we will be using in our detection pipeline using opencv and display it using matplotlib
 
-```
+```python
 #reads the image
 image = cv.imread("kid.png")
 
@@ -101,7 +101,8 @@ The image is shown below
 ![image](https://beltus.github.io/vision/images/kid.png)
 
 To detect the faces in the image, we then call the *faceCascade.detectMultiScale()* method.
-```
+
+```python
 # call to the detectmultiscale function.
 face_rects = faceCascade.detectMultiScale(img , scaleFactor = 1.15, minNeighbors = 5, minSize = (20,20));
 
@@ -125,7 +126,7 @@ The *cv2.rectangle* function then draws the bounding boxes on the around the det
 #Step 4: Detection of Eyes in Image
 For the detection of eyes we focus on the regions of the image where a face has been already detected. The code snippets are well commented to explain every line of code.
 
-```
+```python
 # loop through all the detected faces
 for (x,y,w,h) in face_rects:
 
@@ -151,7 +152,8 @@ Looking closely at the final output below we see that the faces and eyes have be
 
 # Cleanup Step.
 To make things neat and clean, here is the complete code combining all the code snippets above.
-```
+
+```python
 #import libraries
 import cv2
 import matplotlib.pyplot as plt
@@ -212,7 +214,8 @@ You ready? because I am...
 # Step 5:  Detection of Faces in Video Stream
 The fact that video is a sequence of images and we have seen how to detect faces and eyes in an images, simply all we need to do is split the video stream to individual images and for each image apply our detection algorithm we have already implemented above.
 Here is the complete code for this with explicit comment easy to understand
-```
+
+```python
 #path to video file
 vidPath = '/home/beltus/Desktop/vision/images/video.mp4'
 
