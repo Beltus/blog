@@ -306,12 +306,12 @@ defaults:
       share: true
       related: true
   - scope:
-        path: ""
-        type: ml
-      values:
-        layout: single
-        author_profile: false
-        share: true
+      path: ""
+      type: ml
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
   #_pages
   - scope:
