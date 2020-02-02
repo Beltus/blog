@@ -296,3 +296,23 @@ defaults:
     values:
         layout: single
         author_profile: true
+
+
+#collections
+
+collections:
+  ip:
+    output: true
+    permalink: /:collections/:path/
+
+  cv:
+    output: true
+    permalink: /:collections/:path/
+
+  ml:
+    output: true
+    permalink: /:collections/:path/
+
+  sc:
+    output: true
+    permalink: /:collections/:path/
