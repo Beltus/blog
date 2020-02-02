@@ -1,18 +1,18 @@
 ---
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
-#collection: tuto
+collection: tuto
 layout: post
-#author_profile: false
-#read_time: true
+author_profile: false
+read_time: true
 categories: computervision #[tutorials]
 excerpt : "Tutorials"
 header :
     overlay_image: "https://beltus.github.io/images/face.png"
     teaser: "https://beltus.github.io/images/face.png"
 #comments : true
-#toc: true
-#toc_sticky: true
+toc: true
+toc_sticky: true
 sidebar:
     nav: sidebar-sample
 ---
