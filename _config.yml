@@ -204,7 +204,7 @@ collections:
   sc:
     output: true
     permalink: /:collections/:path/
-    
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -305,7 +305,13 @@ defaults:
       comments: # true
       share: true
       related: true
-
+  - scope:
+        path: ""
+        type: ml
+      values:
+        layout: single
+        author_profile: false
+        share: true
 
   #_pages
   - scope:
