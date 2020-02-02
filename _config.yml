@@ -186,7 +186,25 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+#collections
 
+collections:
+  ip:
+    output: true
+    permalink: /:collections/:path/
+
+  cv:
+    output: true
+    permalink: /:collections/:path/
+
+  ml:
+    output: true
+    permalink: /:collections/:path/
+
+  sc:
+    output: true
+    permalink: /:collections/:path/
+    
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -296,23 +314,3 @@ defaults:
     values:
         layout: single
         author_profile: true
-
-
-#collections
-
-collections:
-  ip:
-    output: true
-    permalink: /:collections/:path/
-
-  cv:
-    output: true
-    permalink: /:collections/:path/
-
-  ml:
-    output: true
-    permalink: /:collections/:path/
-
-  sc:
-    output: true
-    permalink: /:collections/:path/
