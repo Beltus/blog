@@ -4,7 +4,7 @@ permalink: /blog/
 
 author_profile: true
 title: "List of Articles Organised by Topics."
-layout_gallery:
+layouts_gallery:
   -url: https://beltus.github.io/vision/ip/
    image_path: /images/ip.jpg
   -url: https://beltus.github.io/vision/cv/
