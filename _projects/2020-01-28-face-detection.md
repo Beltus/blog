@@ -1,8 +1,9 @@
 ---
-#published: true
-title: Face and Eye Detection Using HAARCASCADE Classifier
-collection: tuto
+
 layout: post
+published: true
+title: Face and Eye Detection Using HAARCASCADE Classifier
+#collection: tuto
 author_profile: false
 #read_time: true
 categories: projects #[tutorials]
