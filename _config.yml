@@ -189,21 +189,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 #collections
 
 collections:
-  ip:
+  projects:
     output: true
-    permalink: /:collections/:path/
-
-  cv:
-    output: true
-    permalink: /:collections/:path/
-
-  ml:
-    output: true
-    permalink: /:collections/:path/
-
-  sc:
-    output: true
-    permalink: /:collections/:path/
+    permalink: /:categories/:title/
 
 # Conversion
 markdown: kramdown

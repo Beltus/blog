@@ -12,4 +12,4 @@ sidebar:
 #layout_gallery:
 ---
 
-I am excited to share with you guys computer vision techniques and projects that will definitely propel your career ladder. Feel free to check out my articles listed below with codes provided on my github page as well. 
+I am excited to share with you guys computer vision techniques and projects that will definitely propel your career ladder. Feel free to check out my articles listed below with codes provided on my github page as well.
