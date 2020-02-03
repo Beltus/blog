@@ -3,7 +3,6 @@
 layout: post
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
-#sets the authors profile info as side nav bar
 author_profile: true
 read_time: true
 categories: projects #[tutorials]
@@ -15,12 +14,6 @@ header :
 comments : true
 toc: true
 toc_sticky: true
-
-
-#sidebar:
-#  - image: "/images/profile_img.png"
-#  - description: "Fighting to give machines the opportunity to experience our world like we all do"
-#og_image: "/assets/images/blog-cover.jpg"
 ---
 
 If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
