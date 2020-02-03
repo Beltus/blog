@@ -2,8 +2,7 @@
 title: "Machine Learning"
 layout: single
 permalink: /ml/
-author_profile: true
-author_profile: False
+author_profile: true #sets the profile of the author as a side-nav bar
 header:
   image: 'https://beltus.github.io/vision/images/ml_long.jpg'
 

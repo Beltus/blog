@@ -2,8 +2,7 @@
 title: "Computer Vision"
 layout: single
 permalink: /cv/
-author_profile: true
-author_profile: False
+author_profile: true # set the authors  biography as side nav bar
 header:
   image: 'https://beltus.github.io/vision/images/cv_long.jpg'
 
