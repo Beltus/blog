@@ -15,8 +15,7 @@ header :
 comments : true
 toc: true
 toc_sticky: true
-sidebar:
-    nav: sidebar-sample
+
 
 sidebar:
   - image: "/images/profile_img.png"
