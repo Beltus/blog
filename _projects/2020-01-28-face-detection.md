@@ -3,8 +3,8 @@
 layout: post
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
-#collection: tuto
-author_profile: true #sets the authors profile info as side nav bar
+#sets the authors profile info as side nav bar
+author_profile: true
 read_time: true
 categories: projects #[tutorials]
 excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
@@ -129,7 +129,7 @@ The *cv2.rectangle* function then draws the bounding boxes on the around the det
 
 ![image](https://beltus.github.io/vision/images/kid_me.png)
 
-#Step 4: Detection of Eyes in Image
+# Step 4: Detection of Eyes in Image
 For the detection of eyes we focus on the regions of the image where a face has been already detected. The code snippets are well commented to explain every line of code.
 
 ```python
