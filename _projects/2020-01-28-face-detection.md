@@ -2,7 +2,7 @@
 #published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
 collection: tuto
-#layout: post
+layout: post
 author_profile: false
 #read_time: true
 categories: projects #[tutorials]
@@ -23,8 +23,9 @@ However, if you stick with me to the end of this article, you will learn how to 
 * Detection of faces in an image.
 * Detection of eyes in an image.
 * Detection of faces in real-time video stream
+
 <!--  Detection of eyes in real-time video stream -->
- to **build a face detection software in python using Haarcascade classifier  
+
 In this article, I will try as much as possible to keep things simple  without loss of generality because I personally do not like complex stuff and I am sure you too might not.
 
 Without taking much of you time buckle up lets get started.
