@@ -12,4 +12,15 @@ sidebar:
 #layout_gallery:
 ---
 
-After  completing a graduate course in image processing, I decided to pour out some of the main concepts I learned during this intensive yet exciting semester. This section is entirely dedicated to articles related to image processing concepts and algorithms. You will find links to all the articles I have written so far listed below. 
+After  completing a graduate course in image processing, I decided to pour out some of the main concepts I learned during this intensive yet exciting semester. This section is entirely dedicated to articles related to image processing concepts and algorithms. You will find links to all the articles I have written so far listed below.
+
+
+## Latest Image Processing Articles
+
+<div class="grid__wrapper">
+  {% assign collection = 'ip' %}
+  {% assign posts = site[collection] | reverse %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

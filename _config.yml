@@ -193,6 +193,25 @@ collections:
     output: true
     permalink: /:categories/:title/
 
+  blog:
+    output: true
+    permalink: /:categories/:title/
+
+  cv:
+    output: true
+    permalink: /:categories/:title/
+
+  ml:
+    output: true
+    permalink: /:categories/:title/
+
+  sc:
+    output: true
+    permalink: /:categories/:title/
+  ip:
+    output: true
+    permalink: /:categories/:title/
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
