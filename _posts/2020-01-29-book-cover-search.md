@@ -1,13 +1,20 @@
 ---
-published: False
-
-title: The secret of Quadrupling your Chances of Landing your Dream Scholarship.
-layout: post
-categories : scholarship
-header:
-  image: ''
+layout: single
+published: true
+title: Face and Eye Detection Using HAARCASCADE Classifier
+collection: cv
+author_profile: false
+read_time: true
+categories: [computer vision] #[tutorials]
+excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
+rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
+header :
+    overlay_image: "https://beltus.github.io/vision/images/face.png"
+    teaser: "https://beltus.github.io/vision/images/face.png"
+comments : true
+toc: true
+toc_sticky: true
 ---
-
 
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.
 Before I jump to the juicy part of this article, I will like to share this little story with you. A classmate of mine and a close friend was awarded 4 prestigious scholarships in 4 different countries over the globe in the same year, 2018. All he had was a single choice to make and of course he chose the best offer. What's interesting about this is that, his results weren't the best in class.
