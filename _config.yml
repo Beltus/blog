@@ -199,7 +199,7 @@ collections:
 
   cv:
     output: true
-    permalink: /:categories/:title/
+    permalink: /:collection/:path/
 
   ml:
     output: true
