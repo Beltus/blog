@@ -1,6 +1,4 @@
 ---
-
-layout: post
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
 author_profile: true
