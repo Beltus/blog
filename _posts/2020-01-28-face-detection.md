@@ -2,7 +2,7 @@
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
 collection: tuto
-layout: post
+layout: single
 author_profile: false
 read_time: true
 categories: [computervision] #[tutorials]
