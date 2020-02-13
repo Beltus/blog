@@ -1,22 +1,20 @@
 ---
-published: true
-title: Face and Eye Detection Using HAARCASCADE Classifier
-collection: tuto
 layout: single
+published: true
+title: How to win Scholarships
+collection: cv
 author_profile: false
 read_time: true
-categories: [computervision] #[tutorials]
-excerpt : "Tutorials"
+categories: [computer vision] #[tutorials]
+excerpt : "
+There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header :
     overlay_image: "https://beltus.github.io/vision/images/face.png"
     teaser: "https://beltus.github.io/vision/images/face.png"
-#comments : true
+comments : true
 toc: true
 toc_sticky: true
-sidebar:
-    nav: sidebar-sample
 ---
-
 If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
 rectangular boxes mysterious appear on your screen camera around all the faces in the picture, then you are not alone.
 However, if you stick with me to the end of this article, you will learn how to implement the following.
