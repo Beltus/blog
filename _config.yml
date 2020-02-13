@@ -203,7 +203,7 @@ collections:
 
   ml:
     output: true
-    permalink: /:categories/:title/
+    permalink: /:collection/:path/
 
   sc:
     output: true
