@@ -2,10 +2,10 @@
 layout: single
 published: true
 title: How to win Scholarships
-collection: cv
+collection: sc
 author_profile: false
 read_time: true
-categories: [computer vision] #[tutorials]
+categories: [Blog] #[tutorials]
 excerpt : "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header :
