@@ -210,7 +210,7 @@ collections:
     permalink: /:categories/:title/
   ip:
     output: true
-    permalink: /:categories/:title/
+    permalink: /:collection/:path/
 
 # Conversion
 markdown: kramdown
