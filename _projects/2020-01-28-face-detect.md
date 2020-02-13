@@ -1,10 +1,9 @@
 ---
-
 layout: single
 published: true
 title: Face and Eye Detection Using HAARCASCADE Classifier
 collection: cv
-author_profile: false
+author_profile: true
 read_time: true
 categories: [computer vision] #[tutorials]
 excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
@@ -16,16 +15,14 @@ comments : true
 toc: true
 toc_sticky: true
 ---
-
 If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
 rectangular boxes mysterious appear on your screen camera around all the faces in the picture, then you are not alone.
 However, if you stick with me to the end of this article, you will learn how to implement the following.
 * Detection of faces in an image.
 * Detection of eyes in an image.
 * Detection of faces in real-time video stream
-
 <!--  Detection of eyes in real-time video stream -->
-
+ to **build a face detection software in python using Haarcascade classifier  
 In this article, I will try as much as possible to keep things simple  without loss of generality because I personally do not like complex stuff and I am sure you too might not.
 
 Without taking much of you time buckle up lets get started.
@@ -123,7 +120,7 @@ The *cv2.rectangle* function then draws the bounding boxes on the around the det
 
 ![image](https://beltus.github.io/vision/images/kid_me.png)
 
-# Step 4: Detection of Eyes in Image
+#Step 4: Detection of Eyes in Image
 For the detection of eyes we focus on the regions of the image where a face has been already detected. The code snippets are well commented to explain every line of code.
 
 ```python
