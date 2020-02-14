@@ -30,7 +30,7 @@ The simplest and most straight forward scholarship applications out there you ar
 
 ## 2. Indirect Link.
 
-![](https://beltus.github.io/vision/images/p3.png)
+![](https://beltus.github.io/vision/images/p3.jpg)
 
 This type of scholarship application procedure is exactly where students get a little confused on how to go about it because it is a 2 step process.
 
