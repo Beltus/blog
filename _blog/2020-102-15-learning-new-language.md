@@ -7,7 +7,7 @@ author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt : "
-A **game-changer** for every student out there who is about beginning his quest for a scholarship."
+Some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun."
 header :
     overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/images/l0.jpg"
@@ -15,7 +15,7 @@ comments : true
 toc: true
 toc_sticky: true
 ---
-If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it does really matter which of the languages you want to learn because, this what I am to share with you applies to all languages, so stay with me a little longer.
+If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, this what I am to share with you applies to all languages, so stay with me a little longer.
 
 As an African young scholar who currently speaks and writes **English, French, and Turkish** languages and not forgetting my mother-tongue **Lamnso**, I decided to share with you some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun.
 

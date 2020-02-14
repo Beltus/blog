@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: Breaking down the scholarship Process.
+title: Breaking Down the Scholarship Process.
 collection: sc
 author_profile: true
 read_time: true
