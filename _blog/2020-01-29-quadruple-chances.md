@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt : "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header :
-    #overlay_image: "https://beltus.github.io/vision/images/s0.jpeg"
+    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/images/s0.jpeg"
 comments : true
 toc: true
@@ -21,7 +21,7 @@ toc_sticky: true
 
 Before I jump to the juicy part of this article, I will like to share this little story with you. A classmate of mine and a close friend was awarded 4 prestigious scholarships in 4 different countries over the globe in the same year, 2018. All he had was a single choice to make and of course he chose the best offer. What's interesting about this is that, his results weren't the best in class.
 
-**How is that..?** I guess the question should be, **why is that?.**
+***How is that..?*** I guess the question should be, ***why is that?.***
 
 > Applying for scholarships is like throwing a fishing hook into thehttps://maelfabien.github.io/search/ ocean expecting to catch fish. The more hooks you throw the better your chances of going home with a catch.
 
@@ -61,7 +61,7 @@ When you think about the hundreds or thousands of scholarships advertised annual
 
 ## 6. Always Stay Connected to the Source.
 
-I'm thrilled even my grand mum back in the village in Cameroon can afford internet, which makes me confidently assume as youths and students at least we too got it. Awesome! Now, manually keeping track of when scholarship applications are going to start is a hectic and tedious process. That is why I will strongly recommend that you subscribe to some great scholarship websites that send daily updates on the available scholarships, their deadlines, eligibility criteria and so on... . You will receive alerts from these sources which will permit you stay on track and not miss a single opportunity. Some of my favorite sources include [**www.scholars4dev.com**](http://www.scholars4dev.com/), [**scholarshipscorner.website**](https://scholarshipscorner.website/); [**scholarship-positions.com**](https://scholarship-positions.com/); [**opportunitydesk.org/**](https://opportunitydesk.org/)
+I'm thrilled even my grand mum back in the village in Cameroon can afford internet, which makes me confidently assume as youths and students at least we too got it. Awesome! Now, manually keeping track of when scholarship applications are going to start is a hectic and tedious process. That is why I will strongly recommend that you subscribe to some great scholarship websites that send daily updates on the available scholarships, their deadlines, eligibility criteria and so on... . You will receive alerts from these sources which will permit you stay on track and not miss a single opportunity. Some of my favorite sources include [***www.scholars4dev.com***](http://www.scholars4dev.com/), [***scholarshipscorner.website***](https://scholarshipscorner.website/); [***scholarship-positions.com***](https://scholarship-positions.com/); [***opportunitydesk.org/***](https://opportunitydesk.org/)
 
 I hope this information is helpful to you and wish you all success in pursuing your dreams. Let me know you appreciate this by hitting the clap icon below.
 
