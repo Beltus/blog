@@ -312,6 +312,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  - scope:
+      path: "img"
+    values:
+      image: true
 
   #_pages
   - scope:
