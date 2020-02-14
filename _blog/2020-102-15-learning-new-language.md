@@ -15,15 +15,15 @@ comments : true
 toc: true
 toc_sticky: true
 ---
-If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, this what I am to share with you applies to all languages, so stay with me a little longer.
+If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, what I am about to share with you applies to all languages, so stay with me a little longer.
 
-As an African young scholar who currently speaks and writes **English, French, and Turkish** languages and not forgetting my mother-tongue **Lamnso**, I decided to share with you some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun.
+As an African young scholar who currently speaks and writes **English, French, and Turkish** languages and not forgetting my dialect **Lamnso**, I decided to share with you some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun.
 
 Before we get there, here is something that I think everyone should understand before diving into this new adventure and experience.
 
-The relationship of the languages you speak and the language you want to learn plays a critical role in determining how fast and effortlessly you are going to learn the new language. Being in class with scholars from countries around the globe such as Kazakhstan, Mongolia, Iran, Russia, Egypt, Nigeria etc, the time difference in learning the Turkish language between us varied significantly. While most African students like myself struggled not only with pronunciation but with understanding the sentence structure of Turkish language which by the way, is utterly different from English and French, the others were able to express themselves comfortably within the first month of lectures. For months, we thought these students were smarter than us, which was bogus.The reason was trivial, their languages belong to the same family as the Turkish language, meaning it takes lesser time for them to learn. Check out this article on [Wikibooks:Language Learning Difficulty for English Speakers](https://en.wikibooks.org/wiki/Wikibooks:Language_Learning_Difficulty_for_English_Speakers) for more information on this.
+The relationship of the languages you speak and the language you want to learn plays a **critical role** in determining how fast and effortlessly you are going to learn the new language. Being in class with scholars from countries around the globe such as **China, India, Iran, Russia, Egypt, Nigeria** etc, the time difference in learning the Turkish language between us varied significantly. While most African students like myself struggled not only with pronunciation but with understanding the sentence structure of Turkish language which by the way, is utterly different from English and French, the others were able to express themselves comfortably within the first month of lectures. Initially, we thought these students were smarter than us, which was bogus.The reason was trivial, their languages belong to the same family as the Turkish language, meaning it takes lesser time for them to learn Turkish in particular. Check out this article on [Wikibooks:Language Learning Difficulty for English Speakers](https://en.wikibooks.org/wiki/Wikibooks:Language_Learning_Difficulty_for_English_Speakers) for more information on this.
 
-So now, with that out of the way, let's get the ball rolling...
+So now, with that out of the way, let's get the ball rolling. Below are four things you can do to minimize your learning time while having a lot of fun.  
 
 ## 1. Take a Trip.
 
@@ -41,7 +41,7 @@ We had this beautiful smart lady from Mongolia in our class who in her free-time
 
 ![](https://beltus.github.io/vision/images/l3.jpg)
 
-***Gabriel:* ***Beltus trust me. If you want to learn Turkish language so quickly get a Turkish girlfriend bro.*
+***Gabriel:*** *Beltus trust me. If you want to learn Turkish language so quickly get a Turkish girlfriend bro.*
 
 ***Me:*** *hahaahhaaa. common Gabe, stop kidding man.*
 
