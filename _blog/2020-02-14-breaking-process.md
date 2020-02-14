@@ -38,7 +38,7 @@ This type of scholarship application procedure is exactly where students get a l
 
 **Step 2:** Use the admission letter to apply for scholarship funding.
 
-Simple as that, isn't it? A good example of such type is the [***MasterCard Foundation scholarship***](https://mastercardfdn.org/all/scholars/)***.* **They award scholarships only to those students who have gained admission into partner-universities. Now, you are going to come across such types of scholarships quite a lot. So, it is required that you are proactive and send admissions applications early enough to the respective universities and departments of your choice. Immediately, you receive your admission letters, then all got to do now is go to the scholarship site and upload this together with any other required documents and you are done.
+Simple as that, isn't it? A good example of such type is the [***MasterCard Foundation scholarship***](https://mastercardfdn.org/all/scholars/). They award scholarships only to those students who have gained admission into partner-universities. Now, you are going to come across such types of scholarships quite a lot. So, it is required that you are proactive and send admissions applications early enough to the respective universities and departments of your choice. Immediately, you receive your admission letters, then all got to do now is go to the scholarship site and upload this together with any other required documents and you are done.
 
 ## Bonus Strategy.
 
