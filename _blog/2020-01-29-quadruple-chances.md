@@ -3,7 +3,7 @@ layout: single
 published: true
 title: The secret of Quadrupling your Chances of Landing your Dream Scholarship.
 collection: sc
-author_profile: false
+author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt : "
