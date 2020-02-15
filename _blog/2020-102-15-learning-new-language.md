@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: How to Quickly and Efficiently Learn a New Language?
+title: How to Quickly and Efficiently Learn a New Language.
 collection: sc
 author_profile: true
 read_time: true
