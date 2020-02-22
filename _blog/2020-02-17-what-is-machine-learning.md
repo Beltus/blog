@@ -10,7 +10,8 @@ excerpt : "It is mind-blowing and fascinating how every part of our daily lives 
 header :
     overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/images/ml.png"
-comments : true
+
+comments: true
 toc: true
 toc_sticky: true
 ---
@@ -90,7 +91,7 @@ Can't count the number of times google translate saved my life in Istanbul. It u
 
 
 ### 5. Others applications
-The list of machine learning applications is endless. So here are some other common applications Other common applications that include medical diagnosis, self-driving cars, handwriting to text conversion, speech recognition, image compression, robotics among many others.
+The list of machine learning applications is endless. So here are some other common applications Other common applications that include **medical diagnosis, self-driving cars, handwriting to text conversion, speech recognition, image compression, robotics** among many others.
 
 
 Hopefully, you enjoyed reading this article as much I did enjoy writing it. Suggestions and comments are highly appreciated.
