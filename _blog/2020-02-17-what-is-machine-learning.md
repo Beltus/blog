@@ -39,7 +39,7 @@ Just as the name machine learning suggest:
 Basically Machine learning can be categorized into supervised and unsupervised learning.
 
 ## 1 . Supervised Machine Learning.
-[](https://beltus.github.io/vision/images/super1.jpg)
+![](https://beltus.github.io/vision/images/super1.jpg)
 
 Supervised machine learning involves the training of computer system using data that is explicitly **Labeled**. Labeled data here means that the input and desired output (target) is known. The machine learning algorithm (model) learns from this labeled data through an iterative process which then enables it to perform future predictions.
 
@@ -49,7 +49,7 @@ Since this is an introduction to machine learning, I have tried to keep the expl
 
 
 ## 2. Unsupervised Machine Learning Algorithms
-[](https://beltus.github.io/vision/images/super2.jpg)
+![](https://beltus.github.io/vision/images/super2.jpg)
 
 I came up with this analogy to help you better understand unsupervised learning.
 >Think of unsupervised learning algorithm like a completely blind person that has been asked to plunge his hand into a bowl containing different types of fruits and separate these fruits into their different groups. Key point to note here is that he has no idea about the fruits. Maybe he will group them based on shape, size or whatever I don't know.
@@ -67,22 +67,22 @@ Enough about Elephants. If you are still with me, then, lets get back to some ap
 I am confident most of you are oblivious of how your day-to-day lives are being affected by machine learning driven applications. So let me shine some light on the most common applications whose backbone is machine learning.
 
 ### 1. Google Maps
-[](https://beltus.github.io/vision/images/super3.jpeg)
+![](https://beltus.github.io/vision/images/super3.jpeg)
 
 Oh the amazing google maps is the first application that comes to mind. Google Map uses Machine Learning and Big Data couple for traffic estimation.
 
 ### 2. FaceBook Face Recognition
-[](https://beltus.github.io/vision/images/super4.png)
+![](https://beltus.github.io/vision/images/super4.png)
 
 Yes facebook too!. Facebook uses machine learning for automatic friend tagging and friend suggestions. So now you know why "Estella" was suggested to you as a friend by facebook.
 
 ### 3. Online Video Streaming.
-[](https://beltus.github.io/vision/images/super5.jpg)
+![](https://beltus.github.io/vision/images/super5.jpg)
 
 If you are a fan of Netflix then you should know Netflix algorithms constantly gathers massive amounts of data about your various activities such as pause, rewind, or fast forward, the day you watch shows/movies (, date and time you watch, ratings and searches, browsing /scrolling behaviour and a lot more and by using their Recommender system, and powerful machine learning algorithms they are able to keep you glued to your screens.
 
 ### 4. Google translate.
-[](https://beltus.github.io/vision/images/super6.png)
+![](https://beltus.github.io/vision/images/super6.png)
 
 Can't count the number of times google translate saved my life in Istanbul. It uses Natural Language Processing Techniques to improve translation between text
 
