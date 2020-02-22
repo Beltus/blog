@@ -4,12 +4,14 @@ permalink: /about/
 header:
   image: "/images/greentree.jpg"
 ---
-# Meet Beltus Nkwawir
+# Hello Everyone - Meet Beltus Nkwawir
 
 I'm currently a Computer Science graduate student at Istanbul Technical University whose passion and research interests are directed towards image processing, computer vision, Machine Learning and Deep Learning. I hold a bachelors degree in Telecommunications Engineering from the University of Buea.
 
 
-I am fascinated by the concept of why humans act the way they do, so I spent most of free time reading interesting articles and books related to human psychology. I love hanging out with friends and visiting different historical touristic sites found in Turkey. As an African, I was naturally born with the rhythm of music. In solitude, music becomes my best buddy.
+I am fascinated by the concept of why humans act the way they do, so I spent most of free time reading interesting articles and books related to human psychology and self-development. I love hanging out with friends and visiting different historical touristic sites found in Turkey. As an African, I was naturally born with the rhythm of music.so in solitude, music becomes my best buddy
+
+
 
 # What Do I Write About On This site?
 My primary objective for creating this site is to have a platform where I could freely share my ideas, experiences and knowledge to hundreds and if not thousands of passionate youths out there that are self-driven and willing fight for their dreams.
