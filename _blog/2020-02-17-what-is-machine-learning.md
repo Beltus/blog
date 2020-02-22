@@ -82,7 +82,7 @@ Yes facebook too!. Facebook uses machine learning for automatic friend tagging a
 If you are a fan of Netflix then you should know Netflix algorithms constantly gathers massive amounts of data about your various activities such as pause, rewind, or fast forward, the day you watch shows/movies (, date and time you watch, ratings and searches, browsing /scrolling behaviour and a lot more and by using their Recommender system, and powerful machine learning algorithms they are able to keep you glued to your screens.
 
 ### 4. Google translate.
-![](https://beltus.github.io/vision/images/super6.png)
+![](https://beltus.github.io/vision/images/super6.jpg)
 
 Can't count the number of times google translate saved my life in Istanbul. It uses Natural Language Processing Techniques to improve translation between text
 
