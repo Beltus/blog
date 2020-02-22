@@ -36,7 +36,7 @@ Just as the name machine learning suggest:
 *Hold on guys, one step at a time. Just keep reading, we are getting there soon*
 
 
-## Machine Learning Types.
+## Machine Learning Methods.
 
 Basically Machine learning can be categorized into supervised and unsupervised learning.
 
@@ -91,7 +91,6 @@ Can't count the number of times google translate saved my life in Istanbul. It u
 
 
 ### 5. Others applications
-The list of machine learning applications is endless. So here are some other common applications Other common applications that include **medical diagnosis, self-driving cars, handwriting to text conversion, speech recognition, image compression, robotics** among many others.
-
+The list of machine learning applications is endless. So here are some other common applications that include **medical diagnosis, self-driving cars, handwriting to text conversion, speech recognition, image compression, robotics, fraud detection** among many others.
 
 Hopefully, you enjoyed reading this article as much I did enjoy writing it. Suggestions and comments are highly appreciated.
