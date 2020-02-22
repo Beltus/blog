@@ -15,7 +15,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/ml.jpg)
+![](https://beltus.github.io/vision/images/ml.png)
 It is mind-blowing and fascinating how every part of our daily lives is being affected by machine learning driven applications and most of us go by our mundane life routines oblivious to this. Yet, to the average non-computer science or tech guys, at the mention of machine learning and deep learning in a conversation, they totally zoom out to this seemingly esoteric concept.
 
 The primary objective of this article is to provide a simple explanation to the question of what machine learning is in such a way that readers including those from a non-computer science background can have a basic understanding and hopefully pique an interest in the field. Towards to end of this article I have highlighted some day-to-day applications you and I use without any clue they are powered by machine learning algorithms. You will be surprised as I was when I delved into this futuristic field, so make sure you keep reading to the end.
