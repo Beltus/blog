@@ -10,7 +10,7 @@ excerpt : "It is mind-blowing and fascinating how every part of our daily lives 
 header :
     overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/images/ml.jpg"
-comments : true
+comments: true
 toc: true
 toc_sticky: true
 ---

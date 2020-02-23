@@ -64,7 +64,7 @@ This is exactly what unsupervised learning algorithms do.
 It is worth emphasizing on that the major difference between Supervised and Unsupervised learning algorithms is the **absence of data labels in the latter**. In unsupervised learning, the learning algorithm or model is given data with no labels or targets. It's objective is to **infer patterns** in the data during training and make decisions on how to label or group them (usually with numbers 0,1,2..) based on some particular **unsupervised learning algorithm**. More information on Unsupervised learning will be shared with you soon in a separate article - [coming soon]().
 
 Too much of information to grasp. Believe me, I know. So here is a fun fact to massage your brain.
-> Elephants are the only animals one earth that can die of a heartbreak when they loose a mate. How sad and ironical. The bigger the emotionally weaker. Poor Elephants...
+> Elephants are the only animals on earth that can die of a heartbreak when they loose a mate. How sad and ironical. The bigger the emotionally weaker. Poor Elephants...
 
 Enough about Elephants. If you are still with me, then, let's get back to some applications of machine learning in our daily lives.
 
