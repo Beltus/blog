@@ -15,6 +15,8 @@ comments: true
 toc: true
 toc_sticky: true
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
 ![](https://beltus.github.io/vision/images/ml.png)
 
@@ -94,3 +96,5 @@ Can't count the number of times google translate saved my life in Istanbul. It u
 The list of machine learning applications is endless. So here are some other common applications that include **medical diagnosis, self-driving cars, handwriting to text conversion, speech recognition, image compression, robotics, fraud detection** among many others.
 
 Hopefully, you enjoyed reading this article as much I did enjoy writing it. Suggestions and comments are highly appreciated.
+
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/what-is-machine-learning/" data-width="" data-numposts="5"></div>
