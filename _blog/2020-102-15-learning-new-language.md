@@ -58,4 +58,4 @@ As a final note, learning a new language is normally a slow and gentle process t
 
 Focus on the price. Happy learning. Cheers!!!
 
-<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="450" data-numposts="10"></div>
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="550" data-numposts="10"></div>

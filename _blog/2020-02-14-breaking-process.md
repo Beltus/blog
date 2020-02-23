@@ -47,3 +47,5 @@ This strategy I'm about to propose is what I learned from my friend who got acce
 I strongly recommended that for those of you with the hunger, the passion, the drive to change your future to go out to the ocean of scholarships with everything you got and I believe you are going to catch at least one fish before the sun sets in the evening.
 
 Thanks for reading to the end. Please, any comments/suggestions are welcomed.
+
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/breaking-process/" data-width="550" data-numposts="10"></div>

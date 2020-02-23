@@ -66,3 +66,5 @@ I'm thrilled even my grand mum back in the village in Cameroon can afford intern
 I hope this information is helpful to you and wish you all success in pursuing your dreams. Let me know you appreciate this by hitting the clap icon below.
 
 > HAPPY FISHING GUYS...
+
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/quadruple-chances/" data-width="550" data-numposts="10"></div>
