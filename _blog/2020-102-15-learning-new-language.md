@@ -15,8 +15,7 @@ comments : true
 toc: true
 toc_sticky: true
 ---
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
+
 
 If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, what I am about to share with you applies to all languages, so stay with me a little longer.
 
@@ -58,6 +57,3 @@ When I asked a friend of mine from Albania who I play table tennis with, how man
 As a final note, learning a new language is normally a slow and gentle process that takes time and often should not be overly rushed. You may feel overwhelmed at the beginning but trust me, it gets easier. Hang it there and don't give up. Let the reason you decided to learn the new language be the fuel that keeps the flame of motivation going no matter how hard it might seem. Learning this new language will unlock certain parts of your brain while creating new neuro-connections which will definitely result in a smarter and better you than your old self.
 
 Focus on the price. Happy learning. Cheers!!!
-
-
-<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="" data-numposts="10"></div>
