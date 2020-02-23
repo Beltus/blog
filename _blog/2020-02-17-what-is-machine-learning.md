@@ -59,7 +59,7 @@ Since this is an introduction to machine learning, I have tried to keep the expl
 I came up with this analogy to help you better understand unsupervised learning.
 >Think of unsupervised learning algorithm like a completely blind person that has been asked to plunge his hand into a bowl containing different types of fruits and separate these fruits into their different groups. Key point to note here is that he has no idea about the fruits. Maybe he will group them based on shape, size or whatever I don't know.
 
-This is exactly what unsupervised learning algorithms do.
+Here, imagine the **blind person is the learning algorithm (model)** and the **fruits are the input data**. Whatever the results(outcome) the blind man brings forth at the end of the **exercise (training)** is left unto you the data scientist to figure out if it makes any sense to you or not. This is exactly what unsupervised learning algorithms under the hood.
 
 It is worth emphasizing on that the major difference between Supervised and Unsupervised learning algorithms is the **absence of data labels in the latter**. In unsupervised learning, the learning algorithm or model is given data with no labels or targets. It's objective is to **infer patterns** in the data during training and make decisions on how to label or group them (usually with numbers 0,1,2..) based on some particular **unsupervised learning algorithm**. More information on Unsupervised learning will be shared with you soon in a separate article - [coming soon]().
 
