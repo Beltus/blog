@@ -15,6 +15,8 @@ comments : true
 toc: true
 toc_sticky: true
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
 
 > *There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.*
@@ -66,3 +68,5 @@ I'm thrilled even my grand mum back in the village in Cameroon can afford intern
 I hope this information is helpful to you and wish you all success in pursuing your dreams. Let me know you appreciate this by hitting the clap icon below.
 
 > HAPPY FISHING GUYS...
+
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/quadruple-chances/" data-width="" data-numposts="10"></div>
