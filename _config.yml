@@ -200,6 +200,10 @@ collections:
     output: true
     permalink: /:categories/:title/
 
+  resume:
+    output: true
+    permalink: /:categories/:title/
+
   cv:
     output: true
     permalink: /:collection/:path/
