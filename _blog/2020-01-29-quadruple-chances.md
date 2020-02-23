@@ -17,7 +17,6 @@ toc_sticky: true
 ---
 
 
-
 > *There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.*
 
 Before I jump to the juicy part of this article, I will like to share this little story with you. A classmate of mine and a close friend was awarded 4 prestigious scholarships in 4 different countries over the globe in the same year, 2018. All he had was a single choice to make and of course he chose the best offer. What's interesting about this is that, his results weren't the best in class.

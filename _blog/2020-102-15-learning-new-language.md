@@ -57,3 +57,5 @@ When I asked a friend of mine from Albania who I play table tennis with, how man
 As a final note, learning a new language is normally a slow and gentle process that takes time and often should not be overly rushed. You may feel overwhelmed at the beginning but trust me, it gets easier. Hang it there and don't give up. Let the reason you decided to learn the new language be the fuel that keeps the flame of motivation going no matter how hard it might seem. Learning this new language will unlock certain parts of your brain while creating new neuro-connections which will definitely result in a smarter and better you than your old self.
 
 Focus on the price. Happy learning. Cheers!!!
+
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="450" data-numposts="10"></div>

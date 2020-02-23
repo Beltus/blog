@@ -97,4 +97,4 @@ The list of machine learning applications is endless. So here are some other com
 
 Hopefully, you enjoyed reading this article as much I did enjoy writing it. Suggestions and comments are highly appreciated.
 
-<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/what-is-machine-learning/" data-width="700" data-numposts="10"></div>
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/what-is-machine-learning/" data-width="450" data-numposts="10"></div>
