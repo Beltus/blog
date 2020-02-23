@@ -329,3 +329,10 @@ defaults:
         layout: single
         author_profile: true
         comments: true
+
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-158896408-1"
+    anonymize_ip: false # default
