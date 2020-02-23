@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "CV"
+permalink: /resume/
 header:
   image: "/images/projects.jpg"
 ---
