@@ -6,9 +6,10 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
+  - title: "Resume"
+    url: /resume/
   - title: "Search"
     url: /search/
-  - title: "CV"
-     url: /resume/
+
   # - title: "Sitemap"
   #   url: /sitemap/
