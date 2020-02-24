@@ -1,9 +1,9 @@
 ---
-layout: archive
+layout: pdf
 title: "CV"
 permalink: /resume/
 header:
   image: "/images/projects.jpg"
 ---
 
-<embed src="/assets/files/resume.pdf" width="800px" height="2100px" />
+<iframe src="https://drive.google.com/file/d/16xZI5_u6n7pWVoSHRxpO5jLuImn4xguS/preview" width="100%" height="100%"></iframe>
