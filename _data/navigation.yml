@@ -6,8 +6,8 @@ main:
     url: /blog/
   - title: "Projects"
     url: /projects/
-  - title: "Resume"
-    url: /resume/
+#  - title: "CV"
+#    url: /resume/
   - title: "Search"
     url: /search/
 
