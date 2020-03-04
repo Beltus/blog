@@ -31,7 +31,7 @@ So now, with that out of the way, let's get the ball rolling. Below are four thi
 
 ![](https://beltus.github.io/vision/images/l1.jpg)
 
-How fast do you want to learn this new language? 4 months?. 9 months? or 1 year? Then here is what you must do. Get your travel bag-pack and move to an environment where you know this language is spoken the most. You got to inundate yourself in it. You have to be in a place where almost everyone speaks this language. Everywhere you turn your ears should pick up sound waves that correspond to this alien language. This way, you will inherently force yourself to learn so fast that, your brain will have no choice but to start messing sense out of the chaos. I call this ***making use of our survival instincts***. This is precisely how I was able to fluently speak French within 4 months and the Turkish language with 7 months. I moved from my hometown-Bamenda in Cameroon to the capital city Yaounde(90% french speakers). Later I then moved to Istanbul-Turkey where I learned the Turkish language.
+How fast do you want to learn this new language? 4 months?. 9 months? or 1 year? Then here is what you must do. Get your travel bag-pack and move to an environment where you know this language is spoken the most. You got to inundate yourself in it. You have to be in a place where almost everyone speaks this language. Everywhere you turn your ears should pick up sound waves that correspond to this alien language. This way, you will inherently force yourself to learn so fast that, your brain will have no choice but to start making sense out of the chaos. I call this ***making use of our survival instincts***. This is precisely how I was able to fluently speak French within 4 months and the Turkish language with 7 months. I moved from my hometown-Bamenda in Cameroon to the capital city Yaounde(90% french speakers). Later I then moved to Istanbul-Turkey where I learned the Turkish language.
 
 ## 2. Buy a Tiny Notebook.
 
@@ -54,8 +54,19 @@ Its actually hard to admit but it turns out Gabriel was right. While I was strug
 ![](https://beltus.github.io/vision/images/l4.jpg)
 When I asked a friend of mine from Albania who I play table tennis with, how many months he attended the Turkish course to be able to speak Turkish like a native speaker, I was mind-blown by his response. He said he had never seen the four walls of a Turkish language class. He spent his time in Albania before moving to Istanbul, watching Turkish TV shows and movies and listening to some beautiful heart-touching music. I followed his foot-steps and it tremendously improved my listening and also speaking ability. You can do the same to any new language you want to learn. Watch the movies with subtitles to widen your vocabulary and at the same time, your ears will rapidly adapt to the accent of the native speakers.
 
+## 5. Download and Install Applications.
+
+![](https://beltus.github.io/vision/images/app.jpg)
+
+I was so unlucky to have come across this amazing application called [Anki](https://www.ankiapp.com/) later than sooner while watching a youtube video of Professor Trefor Bazett. He recommended this app to help memorize words in a really fun and effective way. I decided to give it a try and was mind-blown by the results. Based on my personal experience with using this app not only to improve on my turkish language skills but to also increase my english language vocabulary.  There are hundreds of apps out there such as [Duolingo](https://www.duolingo.com/) and even free video lessons for learning new languages. Explore these apps and see what works best for you then stick with that. The secret is to **HAVE FUN** while learning. Remember, language ain't mathematics.
+
+
 As a final note, learning a new language is normally a slow and gentle process that takes time and often should not be overly rushed. You may feel overwhelmed at the beginning but trust me, it gets easier. Hang it there and don't give up. Let the reason you decided to learn the new language be the fuel that keeps the flame of motivation going no matter how hard it might seem. Learning this new language will unlock certain parts of your brain while creating new neuro-connections which will definitely result in a smarter and better you than your old self.
 
 Focus on the price. Happy learning. Cheers!!!
+
+Hopefully, you enjoyed reading this article as much I did enjoy writing it. Feel free to read more articles, comment, share, make suggestions.
+
+
 
 <div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="550" data-numposts="10"></div>
