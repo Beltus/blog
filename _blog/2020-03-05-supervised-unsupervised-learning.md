@@ -160,8 +160,8 @@ I know you got it right!!
 If you enjoyed reading this article as much I did enjoy writing it, please, feel free to leave a comment, share, like, etc.
 
 ### References.
->https://beltus.github.io/vision/blog/what-is-machine-learning/
-<https://towardsdatascience.com/explaining-machine-learning-in-laymans-terms-9b92284bdad4
+<https://beltus.github.io/vision/blog/what-is-machine-learning/>
+<https://towardsdatascience.com/explaining-machine-learning-in-laymans-terms-9b92284bdad4>
 <https://www.guru99.com/unsupervised-machine-learning.html#7>
 <https://www.wikiwand.com/en/Unsupervised_learning>
 <https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14>\
