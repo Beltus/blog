@@ -157,7 +157,7 @@ This [***article***](https://beltus.github.io/vision/blog/what-is-machine-learni
 
 I know you got it right!!
 
-IF you enjoyed reading this article as much I did enjoy writing it, please, feel free to leave a comment, share, like, etc.
+If you enjoyed reading this article as much I did enjoy writing it, please, feel free to leave a comment, share, like, etc.
 
 ### References.
 >https://beltus.github.io/vision/blog/what-is-machine-learning/
