@@ -49,7 +49,7 @@ Supervised machine learning involves the training of computer system using data 
 
 It is called supervised learning because the process of an algorithm learning from the training dataset can be thought of as a **teacher supervising the learning process (student)**. Initially during training, we know the correct answers, the algorithm iteratively makes predictions on the training data and is corrected by the teacher. Learning stops when the algorithm achieves an acceptable level of performance. Supervised learning problems can be further grouped into regression and classification problems.
 
-Since this is an introduction to machine learning, I have tried to keep the explanation as simple and short as possible. However, I have dedicated a separate article to **Supervised machine learning (coming soon)**
+Since this is an introduction to machine learning, I have tried to keep the explanation as simple and short as possible. However, I have dedicated a separate article to [Supervised machine learning](https://beltus.github.io/vision/blog/supervised-unsupervised-learning/)
 
 
 ## 2. Unsupervised Machine Learning Algorithms
@@ -61,7 +61,7 @@ I came up with this analogy to help you better understand unsupervised learning.
 
 Here, imagine the **blind person is the learning algorithm (model)** and the **fruits are the input data**. Whatever the results(outcome) the blind man brings forth at the end of the **exercise (training)** is left unto you the data scientist to figure out if it makes any sense to you or not. This is exactly what unsupervised learning algorithms under the hood.
 
-It is worth emphasizing on that the major difference between Supervised and Unsupervised learning algorithms is the **absence of data labels in the latter**. In unsupervised learning, the learning algorithm or model is given data with no labels or targets. It's objective is to **infer patterns** in the data during training and make decisions on how to label or group them (usually with numbers 0,1,2..) based on some particular **unsupervised learning algorithm**. More information on Unsupervised learning will be shared with you soon in a separate article - [coming soon]().
+It is worth emphasizing on that the major difference between Supervised and Unsupervised learning algorithms is the **absence of data labels in the latter**. In unsupervised learning, the learning algorithm or model is given data with no labels or targets. It's objective is to **infer patterns** in the data during training and make decisions on how to label or group them (usually with numbers 0,1,2..) based on some particular **unsupervised learning algorithm**. In this [article](https://beltus.github.io/vision/blog/supervised-unsupervised-learning/), I have provided more information on unsupervised learning in a fun and easy to understand format.
 
 Too much of information to grasp. Believe me, I know. So here is a fun fact to massage your brain.
 > Elephants are the only animals on earth that can die of a heartbreak when they loose a mate. How sad and ironical. The bigger the emotionally weaker. Poor Elephants...

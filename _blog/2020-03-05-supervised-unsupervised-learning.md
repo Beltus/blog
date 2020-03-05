@@ -61,9 +61,9 @@ This is just to stimulate and cement the difference between Regression and Class
 
 ***Which of the following is/are classification problem(s)?***
 
->  1. Predicting the gender of a person by his/her handwriting style\
->  2. Predicting house price based on area\
->  3. Predicting whether monsoon will be normal next year\
+>  1. Predicting the gender of a person by his/her handwriting style
+>  2. Predicting house price based on area
+>  3. Predicting whether monsoon will be normal next year
 >  4.Predict the number of copies a music album will be sold next month
 
 At the end of this article, I'm going to provide the answers, so stay frosty.
@@ -74,16 +74,16 @@ The different algorithms outline below to tackle regression and classification t
 
 Staying true to my word of keeping things simple. Here is a list of the most common algorithms used to solve supervised machine learning problems based on specific characteristics of the problem.
 
-> Support Vector Machines\
-> Linear regression\
-> Logistic regression\
-> Naive Bayes\
-> Linear discriminant analysis\
-> Decision trees\
-> Random Forest\
-> K-nearest neighbor algorithm\
-> Neural Networks (Multilayer perceptron)\
-> Similarity learning
+* Support Vector Machines
+* Linear regression
+* Logistic regression
+* Naive Bayes
+* Linear discriminant analysis
+* Decision trees
+* Random Forest
+* K-nearest neighbor algorithm
+* Neural Networks (Multilayer perceptron)
+* Similarity learning
 
 For more information on the different algorithms, Check out the [***scikit-learn website***](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning) and also the reference links at the end of the article.
 
@@ -124,20 +124,18 @@ Clustering can be classified into **Exclusive Clustering, Overlapping Clustering
 
 Here are some of the most commonly used clustering algorithms in machine learning.
 
-*** Hierarchical clustering\
-* K-means clustering\
-* K-NN (k nearest neighbors)\
-* Principal Component Analysis\
-* Singular Value Decomposition\
-* Independent Component Analysis**
+* Hierarchical clustering
+* K-means clustering
+* K-NN (k nearest neighbors)
+* Principal Component Analysis
+* Singular Value Decomposition
+* Independent Component Analysis
 
 For the curious reader, please refer to the links at the end of the article for more information on these techniques.
 
 ## 2\. Association Rule Technique
 
 ![](https://cdn-images-1.medium.com/max/800/1*2uSqS4cTYNXylx5a16OjHw.png)
-
-image source: <https://medium.com/@agupta.rkl/market-basket-analysis-using-association-rule-mining-66b61c0d5f26>
 
 In association problems, the model learns ***the relationship*** between data and then comes up with certain **rules**. This unsupervised learning technique is about discovering ***interesting relationships*** between variables in large databases. For example, people that buy a new home are most likely to buy new furniture, someone who buys a toothbrush is likely to buy toothpaste, etc.
 
@@ -162,8 +160,8 @@ I know you got it right!!
 IF you enjoyed reading this article as much I did enjoy writing it, please, feel free to leave a comment, share, like, etc.
 
 ### References.
-
-* https://towardsdatascience.com/explaining-machine-learning-in-laymans-terms-9b92284bdad4
+>https://beltus.github.io/vision/blog/what-is-machine-learning/
+<https://towardsdatascience.com/explaining-machine-learning-in-laymans-terms-9b92284bdad4
 <https://www.guru99.com/unsupervised-machine-learning.html#7>
 <https://www.wikiwand.com/en/Unsupervised_learning>
 <https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14>\
