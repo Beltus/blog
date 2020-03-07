@@ -16,6 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
+![](https://beltus.github.io/vision/images/s0.jpeg)
 
 > *There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.*
 
@@ -23,7 +24,7 @@ Before I jump to the juicy part of this article, I will like to share this littl
 
 ***How is that..?*** I guess the question should be, ***why is that?.***
 
-> Applying for scholarships is like throwing a fishing hook into thehttps://maelfabien.github.io/search/ ocean expecting to catch fish. The more hooks you throw the better your chances of going home with a catch.
+> Applying for scholarships is like throwing a fishing hook into the ocean expecting to catch fish. The more hooks you throw the better your chances of going home with a catch.
 
 If you are still with me here, then below I have outlined some six main points which I am convicted will enlighten you as, someone who is trying to get better education through scholarships thereby leading to a significant increase in getting selected.
 
