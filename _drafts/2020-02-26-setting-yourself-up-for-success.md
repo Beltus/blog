@@ -1,5 +1,6 @@
 ## This article is about letting students know what they can be doing while waiting for their break.
 
+## What To Do While Applying For Scholarships.
 
 The entire internet is swamped with scholarships like bees in a hive. Every year thousands of scholarships get announced by different countries and organizations around the globe. You definitely are going to be eligible to apply for some and others are not going to be of any interest to you. applying for these scholarships is often seen by most students as a daunting task especially those who are still beginning to learn the ropes. For new beginners just entering the pursuit for an opportunity to study abroad here is a [link](https://beltus.github.io/vision/blog/breaking-process/) to help you understand the different types of scholarships and get your foot into the game as soon as possible.
 
