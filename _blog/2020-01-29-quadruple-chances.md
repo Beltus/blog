@@ -10,13 +10,13 @@ excerpt : "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header :
  overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
- teaser: "https://beltus.github.io/vision/images/s0.jpeg"
+ teaser: "https://beltus.github.io/vision/images/s0.jpg"
 comments : true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/s0.jpeg)
+![](https://beltus.github.io/vision/images/s0.jpg)
 
 > *There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.*
 
