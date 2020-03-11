@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Have you ever pondered just for a second why there are some students in your class who seem to ace every single exams? No matter how tough a course or subject is they somehow know how to figure things out so effortlessly sometimes it can be irritating expecially when you are having a tough time at the other end of the class. Yeah!! I guess we all have had such "genuises" who made use even think we are not smart enough. We start feeling dumb, intimidated and not belonging. Here is something for you
+Have you ever pondered just for a second why there are some students in your class who seem to ace every single exams? No matter how tough a course or subject is they somehow know how to figure things out so effortlessly. Sometimes you are freaking annoyed and pissed-off with your own self expecially when you are having a tough time figuring things out for yourself. Yeah!! I guess we all have had such "genuises" who made us even think we are not smart enough. We start feeling dumb, intimidated and not belonging. Here is something for you
 
-"Genuises are not born they are made"
+"Genuises are not born they are made and you can be one"
 
-In this article I will like to reach out to all those students who feel they are not intelligent enough, smart enough to pursue a career in some respectable and seemingly esoteric fields. You know what i am talking about. Engineering, Astronomy, medicine etc. Before I dive into indepth into this article I want to say **Stop telling yourself the lies today".  I will share some of the techniques high performing students use that makes them guru-like figures in the eyes of the others.
+In this article I will like to reach out to you all-students who feel they are not intelligent enough, smart enough to pursue a career in some respectable and seemingly esoteric fields. You know what i am talking about. Engineering, Astronomy, medicine etc. Before I dive right in into this article I want to say **Most of the things you have been telling yourself are lies. Just stop!!.  I will share some of the techniques high performing students use that makes them guru-like figures in the eyes of the others and what you can do to transform yourself from being a mediocre to being a regarded as a genuis in your own small world.
 
 ## Things you need to start doing to become a genuis
 
@@ -25,8 +25,9 @@ The challenge here becomes **How to find the correct technique to study each cou
 
 ## 3. Who you hanging out with?
 
-Intelligence is contagious
+Intelligence is contagious period"!! This might not be scientifically provable but this works like charm. You must have heard the phrase **You are the average of the people you hang around with you** probably a thousand times. It is an indisputable fact and smart guys know this. If your grades have been really bad for a very long time, its time to take a second critical look at yourself and those around you. Chances are that your closest friends have similar grades to you and this can be consoling believe me in the short term but its going to be poisonous to your future. Think for second, there this guy call John and he's got five friends within his closest circle. John receives a 10/20 as test grade and his friends get roughly 8/20. My question is, Do you think John is going to be happy or sad with his grades? Well from a psychological standpoint, John will definitely be happy. Now lets consider case 2 for which our dear friend John had 5 friends and he got 16/20 in a test while his friends got 20/20. Now tell me. Will John be excited about this performance? Hell No!! This forces John to be better than his friends. In this process, John develops his ability of rapid thinking, competitiveness which guarantees success in the end. Enough about John and back to you.
 
+Like Joel Osteen puts it, **If you want to soar like the eagle you got to eat like one**. Make some minor changes in your cycle of friends and slowly gravitate towards the people you think know better than you. The more time you spent around them , the sooner you start inheriting some of their most effective study habits. Remember changing your friends' cycle doesn't mean you walk up to Cathy or Fredo or whosoever your friend might be and blatantly tell them **We are done because you are so dumb!!**. No  No No No!!. That's not what I am saying. Slowly reduce the amount of unproductive time spent with such friends which gives you a little more time to be around the smart guys. Do this and soon you will be competing with the big guns of the class or wherever.
 
 
 
