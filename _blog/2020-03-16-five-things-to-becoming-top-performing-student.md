@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: Five Things To Do Be a Top-Performing Student.
+title: Five Things To Do To Become Top-Performing Student.
 collection: sc
 author_profile: true
 read_time: true
@@ -59,7 +59,7 @@ If you want to become a top-performing student, ***do not overwork your brains l
 
 Some time ago, I came across the [**pomodoro technique**](https://en.wikipedia.org/wiki/Pomodoro_Technique) that helped me maintain regular breaks in my study routine. Here is how the technique works, let's say you plan on studying for 2 hours, you begin by studying for 25 minutes called a ***pomodoro*** and then take a 5 minutes break, then another pomodoro then a break until the 2 hours is over. As for me I was mind-blown by the effectiveness of the technique. Here is a [pomodoro timer app](https://itunes.apple.com/us/app/pomodoro-time-focus-timer/id973134470?mt=12) you can try out and let me know in the comments sections below how that worked for you.
 
-### 3\. Who are you hanging out with?
+## 3\. Who are you hanging out with?
 
 ![](https://beltus.github.io/vision/images/friends.jpg)
 
