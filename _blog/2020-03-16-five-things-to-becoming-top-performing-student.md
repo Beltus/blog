@@ -20,9 +20,9 @@ toc_sticky: true
 
 > Genuises are not born they are made and you can be one
 
-Before you read the next sentence in this article, take a second and let the meaning of the quote above to sink in deep into your subconscious.
+Before you read the next sentence in this article, take a second and let the meaning of the quote above sink-in deep into your subconscious.
 
-Awesome!! Now, have you ever wondered just for a split second why some students in your class always ace every single exam? No matter how tough a course or subject is they somehow always know how to figure things out so effortlessly. Sometimes you even get freaking annoyed and pissed-off with yourself especially when you are having a tough time figuring things out yourself. I guess we all have had such **"geniuses"**. There are times your mind even starts playing tricks on you. It makes you start doubting yourself and drawing false conclusions. _Maybe I'm not smart enough, maybe I can never understand this concept, maybe...maybe... maybe...._
+Awesome!! Now, have you ever wondered just for a minute why some students in your class always ace every single exam? No matter how tough a course or subject is they somehow always know how to figure things out so effortlessly? Sometimes you even get freaking annoyed and pissed-off with yourself especially when you are having a tough time figuring things out yourself. I guess we all have had such **"geniuses"**. There are times your mind even starts playing tricks on you. It makes you start doubting yourself and drawing false conclusions. _Maybe I'm not smart enough, maybe I can never understand this concept, maybe...maybe... maybe...._
 
 In this article, I will share **five of the most effective techniques high performing students** use that makes them guru-like figures in the eyes of those around them and what you can do to transform yourself from being an average person to being regarded as a "genius" in your own small world.
 
@@ -33,25 +33,25 @@ Too much of talking, let's get down to it.
 ![](https://beltus.github.io/vision/images/dog.jpg)
 
 
-The phrase **learn how to learn** sounds so simple and almost ludicrous, right? This is the one skill top-performing students have mastered so well they just seem to anything they come across. Just think about, if you knew how to learn anything what will that make you? It is the key that opens the doors to the world of limitless acquisition of knowledge. If there is one thing I will tell any student today that is trying to create his/her path to success, is to **learn how to learn**. As a sophomore in middle school, I was frustrated by the incessant low grades I received in mathematics and physics. Thanks to my eldest sister, who sat me down and showed me how to study these subjects, that I suddenly came to realize that, you need to learn how to learn anything. Guess what? I transformed from being an average student in mathematics and physics to becoming the top in my class in almost every other subject from that moment and the classes after.
+The phrase **learn how to learn** sounds so simple and almost ludicrous, right? This is the one skill top-performing students have mastered so well they are capable of understanding anything they come across. Just think about, if you knew how to learn anything what will that make you? It is the key that opens the doors to the world of limitless acquisition of knowledge. If there is one thing I will tell any student today that is trying to create his/her path to success, is to **learn how to learn**. As a sophomore in middle school, I was frustrated by the incessant low grades I received in mathematics and physics. Thanks to my eldest sister, who pointed out what I had been consistently doing wrong. At that moment, I realized I was treating every course exactly the same. That had been my problem all along. Guess what? I transformed from being an average student in mathematics and physics to becoming the top in my class in almost every other subject from that moment and the classes after.
 
-Here is something you need to understand. Every subject you will come across has a unique technique that warrants its studying, for which if applied will guarantee total comprehension and inevitable success.
+Here is something you need to understand. Every subject you will come across has a unique technique that warrants its studying, for which if applied correctly will guarantee total comprehension and inevitable success.
 
 The challenge here becomes ***how to find the correct technique to study each course?*** Unfortunately, there isn't a single formula to do this as it all depends on the course. However, here are some the tips you can apply
 
-> * If the course includes mathematical equations you should solve lots of examples\
-> * If its only text, like literature, get a highlighter and underline important phrases\
-> * If its Programming, you will definitely need to practice on writing more codes.\
+> * If the course includes mathematical equations you should solve lots of examples
+> * If its only text, like literature, get a highlighter and underline important phrases
+> * If its Programming, you will definitely need to practice on writing more codes.
 > * Some fields of study might require you to memorize lots of words. Make the effort to learn some memorization techniques.
 
-Keynote: Evaluate the best technique on how to study whatever you want before you engaging it the studying process. You will be mindblown. 
+Keynote: Evaluate the best technique on how to study whatever you want before you engaging in the studying process. You will be mind-blown by the lightning speed you will grasp the concepts.
 
 ## 2\. Take More Frequent Breaks.
 
 ![](https://beltus.github.io/vision/images/rest.jpg)
 
 
-If there is one thing I learned the hard way, it is the significant benefit of constant breaks during study period. If you are a midnight candle burner, how is working out for you till now? How do you feel the next day in school or at work? Tired? You tell me.
+If there is one thing I learned the hard way, it is the significant benefit of constant breaks during study period. If you are a **midnight candle** burner, how is working out for you till now? How do you feel the next day in school or at work? Tired? You tell me.
 
 Everyone knows that ***the more you study the more you know***. But here is what I came to realize a little later, the ***more you study without rest the less you know.*** Irrespective of the fact that our brains are made up of approximately 80% water, always try to visualize your brain as a tough round muscle. Just like the muscles of your arms and legs, the more you exercise them the stronger and bigger they become. However, excessive muscle exercise results in muscle tear and potential damage which can lead to life-time health complications. One skill the geniuses around you have mastered is how to exercise their brains and rest them. They know exactly when to take a break and then continue studying in an efficiently stress-free way.
 
@@ -68,7 +68,7 @@ Some time ago, I came across the [**pomodoro technique**](https://en.wikipedia.o
 
  This might not be scientifically provable but this works like charm. You must have heard the phrase ***You are the average of the people you hang around with you*** probably a thousand times. It is an indisputable fact and smart guys know this. If your grades have been really bad for a very long time, its time to take a second critical look at yourself and those around you. Chances are that your closest friends have similar grades. This can be consoling in the short term but it's going to be detrimental to your future.
 
-Take, for example, there is this guy called John and he's got five friends within his closest circle. John receives a 10/20 as a test grade and his friends get roughly 8/20. My question is, do you think John is going to be happy or sad with his grades? Well, from a psychological standpoint, John will definitely be happy. Now let's consider case 2 for which our dear friend John got a 16/20 in the test while his friends got 20/20. Now tell me. Will John be excited about this performance? Hell No!! This forces John to want to be better than his friends. The more he competes the better he gets without even him noticing. 
+Take, for example, there is this guy called John and he's got five friends within his closest circle. John receives a 10/20 as a test grade and his friends get roughly 8/20. My question is, ***do you think John is going to be happy or sad with his grades?*** Well, from a psychological standpoint, John will definitely be happy. Now let's consider case 2 for which our dear friend John got a 16/20 in the test while his friends got 20/20. Now tell me. ***Will John be excited about this performance?*** Hell No!! This forces John to want to be better than his friends. The more he competes the better he gets without even him noticing. 
 
 Enough about John and back to you.
 
@@ -85,9 +85,9 @@ Remember that changing your friends' cycle doesn't mean you walk up to Cathy or 
 
 I believe with discipline all ***life battles can be won***. I have spent a lot time with students from different levels of education from undergraduate, masters through to PhD. These students I consider are top in their various classes and disciplines and one thing that is common amid them all is **discipline**. They know exactly when to hang and have some drinks, when to work on projects, when to study. One could say this is inherent in their nature, but that will be a bogus statement. This is something they had developed over the years such that it is second nature to them.
 
-This single habit of discipline is just the wall that stands in the way of you becoming the best performing student as well. You will agree with me that, the act of disciplining ourselves can be challenging especially if we had no been doing so before. Think about it, there are times it feels like there are 2 voices in your mind. One says ***let's go party*** while the other says ***you need to study man, exams are coming***. To be discipline means *being able to make the right decision the right time and follow through with execution.*
+This single habit of discipline is just the wall that stands in the way of you becoming the best performing student as well. You will agree with me that, the act of disciplining ourselves can be challenging especially if we had not been doing so before. Think about it, there are times it feels like there are 2 voices in your mind. One says ***let's go party*** while the other says ***you need to study man, exams are coming***. To be discipline means *being able to make the right decision at the right time and follow through with execution.*
 
-It is not easy to develop this skill, so start with ***little baby steps***. For example, make your bed every morning immediately you wake up. Great start don't you think? From there decided to read 5 pages of a book before going to bed and work your way up. The idea is to be consistent and don't get discouraged. Sooner or later you will be reading 50 pages.
+It is not easy to develop this skill, so start with ***little baby steps***. For example, make your bed every morning immediately you wake up. Great start don't you think? From there decide to read 5 pages of a book before going to bed and work your way up. The idea is to be consistent and don't get discouraged. Sooner or later you will be reading 50 pages.
 
  Remember that
 > Without discipline success is impossible ~ Lou Holtz
