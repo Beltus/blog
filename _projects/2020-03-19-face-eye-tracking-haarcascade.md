@@ -15,7 +15,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/eye.jpg)
+![](https://beltus.github.io/vision/images/eye_bigger.jpg)
 
 By the end of this project, you will have a cool face and eye tracking project you can be proud of.
 
