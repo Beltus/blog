@@ -21,6 +21,8 @@ Remember, if your motivation letter is boring to you, then your reader already d
 
 ## 2. Incomplete Application.
 
+Scholarship application is like a war zone. The slightest mistake and you are eliminated. That is how serious you got to take it, if you want to win the battle. Have you been ignoring filling out some fields in the scholarship applications? Next time think again before taking such chances, because 5000 students will not. In this era of artificial intelligence, everything is being automated including the initial elimination phase. Algorithms exist that help to cut-down the number of applicants and an incomplete application is the perfect criteria for elimination. For any application you fill take sometime out and complete the process. Give yourself the opportunity it deserves.
+
 
 ## 3. Not Enough applications.
 

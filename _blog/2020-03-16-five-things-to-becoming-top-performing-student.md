@@ -24,7 +24,7 @@ Before you read the next sentence in this article, take a second and let the mea
 
 Awesome!! Now, have you ever wondered just for a minute why some students in your class always ace every single exam? No matter how tough a course or subject is they somehow always know how to figure things out so effortlessly? Sometimes you even get freaking annoyed and pissed-off with yourself especially when you are having a tough time figuring things out yourself. I guess we all have had such **"geniuses"**. There are times your mind even starts playing tricks on you. It makes you start doubting yourself and drawing false conclusions. _Maybe I'm not smart enough, maybe I can never understand this concept, maybe...maybe... maybe...._
 
-In this article, I will share **five of the most effective techniques high performing students** use that makes them guru-like figures in the eyes of those around them and what you can do to transform yourself from being an average person to being regarded as a "genius" in your own small world.
+In this article, I will share **five of the most effective techniques high performing students** use that make them guru-like figures in the eyes of those around them and what you can do to transform yourself from being an average person to being regarded as a "genius" in your own small world.
 
 Too much of talking, let's get down to it.
 
@@ -51,7 +51,7 @@ Keynote: Evaluate the best technique on how to study whatever you want before yo
 ![](https://beltus.github.io/vision/images/rest.jpg)
 
 
-If there is one thing I learned the hard way, it is the significant benefit of constant breaks during study period. If you are a **midnight candle** burner, how is working out for you till now? How do you feel the next day in school or at work? Tired? You tell me.
+If there is one thing I learned the hard way, it is the significant benefit of constant breaks during study period. If you are a **midnight candle** burner, how is that working out for you till now? How do you feel the next day in school or at work? Tired? You tell me.
 
 Everyone knows that ***the more you study the more you know***. But here is what I came to realize a little later, the ***more you study without rest the less you know.*** Irrespective of the fact that our brains are made up of approximately 80% water, always try to visualize your brain as a tough round muscle. Just like the muscles of your arms and legs, the more you exercise them the stronger and bigger they become. However, excessive muscle exercise results in muscle tear and potential damage which can lead to life-time health complications. One skill the geniuses around you have mastered is how to exercise their brains and rest them. They know exactly when to take a break and then continue studying in an efficiently stress-free way.
 

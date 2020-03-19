@@ -26,7 +26,12 @@ Here is the pitfall
 
 Okay, lets get to it
 
+When I started my journey towards data science, I struggled with understanding exactly how to explore a dataset and make some meaningful, intuitive pre-analysis of the contents. Most sources online only provided incomplete or insufficient techniques. This article will give any newbie in data science an idea of the content of their dataset before proceeding ahead.
+
+## Note that, there are lots of terminologies used to describe rows and columns of a dataset. A row is called an instance, datapoint, sample, example. A column can be called a feature, attribute, predictor, etc. I might use any of these interchangeably.
+
 ## Step 1: Importing Revelant Libraries
+For dataset exploration, we need to import pandas and also numpy for some mathematical manipulations. The former with an alias of pd and latter with an alias of np.
 ```python
 import numpy as np
 from sklearn import model_selection
@@ -45,31 +50,75 @@ print(check_output(['ls', "/home/beltus/image/Data Science/datasets/"]).decode("
 
 
 ## Step 2: Load Dataset into Code File - Jupyter NoteBook(For me)
+
+After importing the pandas library, we then use it's ***.read_csv()*** to read the dataset and save it as a Dataframe object in the object ***dataset***
 ```python
 dataset = pd.read_csv("./datasets/airline-safety.csv")
 
 ```
 
-## Step 3: Display the number of Observations(Samples) and the number of Features(Attributes) In your Dataset¶
+## Step 3: Display the number of Observations(Samples) and the number of Features(Attributes) In your Dataset
+It is important to know how many datapoints are present in your dataset. This is achieved with the code block below.
 ```python
-dataset = pd.read_csv("./datasets/airline-safety.csv")
+#check number of rows and colums in the dataset
+rows, columns = dataset.shape
+print("Number of Samples or Observations: " , rows)
+print("Number of Attributes or Features" , columns)
 ```
 
 ## Step 4: Take a Quick Peak at the contents of your Dataset
+What exactly is the content of your dataset? In order to see this, you can use the Dataframe ***head()*** method. Specifying 10 means it shows the first 10 rows of your dataset.
 ```python
 pd.dataset.head(10) # List the first 10 rows of dataset
+#displays the last 10 rows of your dataset
+dataset.tail(10)
+```
+* If the dataset has a large number of columns, you won't be able to see all the rows displayed, Unless you are working with a gigantic screen. Luckily, with the code code snippet below, you can scroll along all columns.
+
+```python
+pd.set_option("display.max_columns" , None) #permits all the attributes(columns) to be displayed
+dataset.head(10)
+
 ```
 
+## Step 5: Display Basic Statistics.
+Lets take a step further into gaining some statistical insights of our dataset. The ***.describe()*** methods provides some basic statistical information such as mean, standard deviation, etc of each of the numeric columns of our Dataframe
 
-## Step 5: Load Dataset into Code File - Jupyter NoteBook(For me)
+```python
+dataset = pd.describe()
+
+```
+
+* **count** row can be especially useful as it gives a clue of any missing values in your data that could negatively affect the performance of your machine learning model.
+
+
+## Step 6: Removing Irrelevant Features(Columns)
+In building a machine learning model, some features or columns might have zero contribution to the performance of the prediction. You can eliminate any unwanted column by using the snippet below
+
+
 ```python
 dataset = pd.read_csv("./datasets/airline-safety.csv")
 
 ```
 
+## Step 7: Load Dataset into Code File - Jupyter NoteBook(For me
+
+After importing the pandas library, we then use it's ***.read_csv()*** to read the dataset and save it as a Dataframe object in the object ***dataset***
+```python
+dataset = pd.read_csv("./datasets/airline-safety.csv")
+
+```
 
 ## Step 2: Load Dataset into Code File - Jupyter NoteBook(For me)
+
+After importing the pandas library, we then use it's ***.read_csv()*** to read the dataset and save it as a Dataframe object in the object ***dataset***
 ```python
 dataset = pd.read_csv("./datasets/airline-safety.csv")
 
 ```
+
+
+
+https://realpython.com/pandas-python-explore-dataset/
+https://towardsdatascience.com/exploring-the-data-using-python-47c4bc7b8fa2
+https://towardsdatascience.com/a-gentle-introduction-to-exploratory-data-analysis-f11d843b8184
