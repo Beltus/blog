@@ -22,3 +22,8 @@ If alpha is too small, gradient descent becomes too slow, as the it takes a lot 
 Gradient descent has a cool hidden feature, as it can converge with a fixed learning rate. This is because as the algorithm processes towards a local minimum, the partial derivative terms becomes smaller and smaller and multiplied by alpha result in a small value and hence small step.
 
 This is generally called the Batch gradient descent as the algorithm uses all the training samples in every update iteration process of the model parameters
+
+* Feature scaling aims at adjusting the ranges of all features to be thesame or close to each other. This helps the gradient descent algorithm to converge much more faster and with fewer iterations and also correctly. If the range is too small. scale up and scale down otherwise.
+* Mean Normalization is technique mostly used for feature scaling i.e scaled_x = (x - x_mean)/max_x. max_x can be replaced by the (max_x - min_x) or by standard_deviation of X. All the methods work properly. So feel free to chose which soothes you.
+
+* A plot of cost function J(b) against the number of iterations is a good practical way to determine if gradient descent has converged. 
