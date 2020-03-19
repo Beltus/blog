@@ -154,7 +154,7 @@ cv2.destroyAllWindows()
 ```
 
 
-For the complete code, visit my github page.
+For the complete code, visit my [github page](https://github.com/Beltus/Computer-Vision-Projects/tree/master/EYE%20TRACKING).
 
 I hope you had fun implementing this cool project. If you have any questions, please, leave a comment below, I will be happy to help. Make sure you subscribe so you can get notified immediately I drop another fun project.
 
