@@ -19,7 +19,7 @@ toc_sticky: true
 
 By the end of this project, you will have a cool face and eye tracking project you can be proud of.
 
-![Alt Text]((https://beltus.github.io/vision/images/eye.gif)
+{% include video id="6nJH1mtJrJU" provider="youtube" %}
 
 
 In my previous article, I implemented a face detector using the famous HAARCASCADE classifier. So, this time around, I decided to spice things up a little bit by implementing a simple face and eye tracker using my webcam. For those who are unfamiliar with HAARCASCADE Classifier or OpenCV you can [click here](https://beltus.github.io/vision/project/face-detection/) for more information
@@ -27,15 +27,14 @@ In my previous article, I implemented a face detector using the famous HAARCASCA
 This project is a simple yet exciting computer vision project for any one out there wishing to get their hands dirty on some cool stuff. So, if you are as excited as I am, then lets get down to business.
 
 ## Requirements
-For this project, the core library I am using is openCV. The methods you will see shortly have been implemented in the OpenCV package. In addition, I am running my code on jupyter notebook. The code is written using python 3. Feel free to use what ever environment is suitable for you, but make sure that, opencv has been installed properly.
-[install opencv]
+For this project, the core library I am using is openCV. The methods you will see shortly have been implemented in the OpenCV package. In addition, I am running my code on jupyter notebook. The code is written using python 3. Feel free to use whatever environment is suitable for you, but make sure that, opencv has been installed properly depending on the computer system you are using.
 
 ## Step 1: Import relevant Libraries
 ```python
 import cv2
 import numpy as np
 ```
-We need access to openCV. So we import it and also numpy library is always handy for mathematical manipulations.
+We need access to openCV built-in methods, so we import it as above. Numpy library is always handy for mathematical manipulations.
 
 ## Step 2: Initialize HAAR CASCADE Classifier.
 ```python
@@ -47,19 +46,19 @@ eyePath = '/home/beltus/image/frontalEyes35x16XML/haarcascade_eye.xml'
 faceCascade = cv2.CascadeClassifier(facePath)
 eyeCascade = cv2.CascadeClassifier(eyePath)
 ```
-OpenCV has implemented the Haarcascade classifier which can be used to detect many different objects. In our case, we are interested in tracking faces and eyes. For the classifier to know what it will be classifying, we need to initialize with the correct XML serialized file. You can download the XML files from [opencv github repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
-The first 2 lines point to the directory of the XML files for both the face and eye respectively.
-The *cv2.CascadeClassifier()* method is used to deserialize the classifier, load it into memory, and allows us to detect faces and eyes in images as we will see in the next step.
+OpenCV has implemented the Haarcascade classifier which can be used to detect many different objects. In our case, we are interested in tracking faces and eyes. For the classifier to know what it will be classifying, we need to initialize it with the correct XML serialized file. You can download the XML files from this [opencv github repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+The first 2 lines point to the directory of the XML files for both the face and eye respectively that I downloaded from the link above.
+The *cv2.CascadeClassifier()* method is used to deserialize the classifier, load it into memory, and allows us to detect faces and eyes in images and videos as we will see in the next step.
 
 ## Step 3: Tracking Face and Eyes.
-The code block below is implemented based on the steps I am going to explain below. Before looking at the code, it is important to get an understanding of the flow of the project. So lets get to it.
+At the end of this step I have provided the entire code block. However, to ease understanding, I will explain sections of the code allowing you to have an in-depth feel of what is going on. So lets get to it.
 
-*  The webcam in our computers is first activated. Note you could load any video file using same function by passing the file name of the video as argument to the function below
+*  Capture Video from our WebCam. If you have a pre-recorded  video, you could load it using same function by passing the file name of the video as argument to the function like this ***cv2.VideoCapture('video_filename')***
 
 ```python
 capture = cv2.VideoCapture(0)
 ```
-*  Note that a video is simply a sequences of images called frames, displayed at a particular frame rate. So the idea is that, we are actually detecting faces and eyes in each frame in the video stream. Frames are extracted from the video with the code.
+*  It is important to know that a video is simply a sequence of images called frames, displayed at a particular frame rate. So the idea is that, we are actually detecting faces and eyes in each frame in the video stream. Frames are extracted from the video with the code.
 
 ```python
 ret, frame = capture.read()
@@ -70,22 +69,22 @@ ret, frame = capture.read()
 ```python
 resize_frame = cv2.resize(frame, None, fx = 0.5, fy = 0.5, interpolation = cv2.INTER_AREA)
 ```
-* Convert the resized frame to gray scale to increase the efficiency of HAARCASCADE classifier
+* Convert the resized frame to grayscale to increase the efficiency of HAARCASCADE classifier
 
 ```python
 gray_frame = cv2.cvtColor(resize_frame, cv2.COLOR_BGR2GRAY)
 ```
-* Detect Faces found in the gray scale frame using face HAARCASCADE classifier initialize earlier. the ***detectMultiScaler()*** method returns a list of [turples](https://www.tutorialspoint.com/python/python_tuples.htm). Each turple contains contains the (x,y) coordinates and width and height of a detected face. Click [here](https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) for more information. Play aroud with the parameters and see how that affects your classifier.
+* Wext, we detect faces found in each grayscale frame using face HAARCASCADE classifier initialized earlier. The ***detectMultiScaler()*** method returns a list of [turples](https://www.tutorialspoint.com/python/python_tuples.htm). Each turple contains the (x,y) coordinates and width and height of a detected face. Click [here](https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html) for more information. Don't forget to play around with the parameters of the function such as ***scaleFactor and minNeighbors*** in order to see how that affects your classifier.
 
 ```python
 face_rects = faceCascade.detectMultiScale(gray_frame, scaleFactor = 1.05, minNeighbors = 5 , minSize = (30,30))
 ```
-*  Eyes can only be found where there is a face, so it is smart that we try to detect eyes only in the regions of the frames where a face has been detected. For every detected face, we extract the region of the image with the face, then call our eye HAARCASCADE classifier detectMultiScale method to do its job.
+*  Eyes can only be found where there is a face, so it is smart that we try to detect eyes only in the regions of the frames where a face has been detected. For every detected face, we extract the region of the image with the face, then call our eye HAARCASCADE classifier ***detectMultiScale*** method to detect the eyes in that region.
 
 ```python
 eye_rects = eyeCascade.detectMultiScale(face, scaleFactor = 1.1 , minNeighbors = 10 , minSize = (15,15))
 ```
-*  Draw Bounding boxed around the detected faces and eyes.
+* Next we draw Bounding boxes around the detected faces and eyes.
 
 ```python
 drawFace  = cv2.rectangle(resize_frame , (fx, fy) , (fx+fw , fy + fh) , (255, 0, 0), 2)
@@ -94,7 +93,7 @@ drawEye = cv2.rectangle(resize_frame , (fx + ex , fy + ey) , (fx + ex + ew , fy 
 
 ```
 
-* Finally we can display the faces and eyes being tracked.
+* Finally we can display the faces and eyes being tracked by our code.
 
 ```python
 cv2.imshow("Tracking...", resize_frame)
