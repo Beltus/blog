@@ -26,4 +26,6 @@ This is generally called the Batch gradient descent as the algorithm uses all th
 * Feature scaling aims at adjusting the ranges of all features to be thesame or close to each other. This helps the gradient descent algorithm to converge much more faster and with fewer iterations and also correctly. If the range is too small. scale up and scale down otherwise.
 * Mean Normalization is technique mostly used for feature scaling i.e scaled_x = (x - x_mean)/max_x. max_x can be replaced by the (max_x - min_x) or by standard_deviation of X. All the methods work properly. So feel free to chose which soothes you.
 
-* A plot of cost function J(b) against the number of iterations is a good practical way to determine if gradient descent has converged. 
+* A plot of cost function J(b) against the number of iterations is a good practical way to determine if gradient descent has converged.
+
+* Normal equation is a technique used to solved for the values of the model parameters which mininizes the cost function analytically. It doesnt perform an iterative process like gradient descent. We do not choose any learning rate. For a large number of features it is computational expensive as we need to compute matrix inverse which is a quite expensive process for large matrices.In this case gradient descent is best chose.
