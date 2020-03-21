@@ -3,7 +3,6 @@ title: Machine Learning Related Articles.
 layout: single
 permalink: /ml/
 author_profile: true
-collections: ml
 header:
   image: 'https://beltus.github.io/images/ml_long.jpg'
 
