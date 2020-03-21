@@ -1,11 +1,11 @@
 ---
 title: Machine Learning
-layout: collection
+layout: single
 permalink: /ml/
 collection: ml
-
 header:
-      image: 'https://beltus.github.io/images/ml_long.jpg'
+  image: 'https://beltus.github.io/images/ml_long.jpg'
+
 entries_layout: grid
 classes: wide
 ---

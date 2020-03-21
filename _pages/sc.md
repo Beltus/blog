@@ -1,5 +1,5 @@
 ---
-title: "Scholarships"
+title: "Scholarships Related Articles"
 layout: single
 permalink: /sc/
 author_profile: true
