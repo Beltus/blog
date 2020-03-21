@@ -1,7 +1,8 @@
 ---
-title: Machine Learning
+title: Machine Learning Related Articles.
 layout: single
 permalink: /ml/
+author_profile: true
 collection: ml
 header:
   image: 'https://beltus.github.io/images/ml_long.jpg'
