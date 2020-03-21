@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "About"
 permalink: /about/
 header:
   image: "/images/greentree.jpg"
@@ -7,6 +7,10 @@ header:
 # Hello Everyone - Meet Beltus Nkwawir
 
 I'm currently a Computer Science graduate student at Istanbul Technical University whose passion and research interests are directed towards image processing, computer vision, Machine Learning and Deep Learning. I hold a bachelors degree in Telecommunications Engineering from the University of Buea.
+
+I am an aspiring writer and I currently write for some major publications such as [Towardsdatascience](https://towardsdatascience.com/). Here is a link to one of my published article on [Supervised and Unsupervised Learning](https://towardsdatascience.com/supervised-and-unsupervised-learning-for-everyone-526f9b746dd5) on medium.
+
+Most of the projects I have implemented up to date are mostly based on computer vision and machine learning, however, in the couples of weeks to come, I will include deep learning projects. I have worked on Vehicle Detection, Facial Recognition, Eye detection, Face and eye tracking application, plant classification, tactile pavement detection projects for the visually impaired among others. Here is a link to my [github page](https://github.com/Beltus).
 
 
 I am fascinated by the concept of why humans act the way they do, so I spent most of free time reading interesting articles and books related to human psychology and self-development. I love hanging out with friends and visiting different historical touristic sites found in Turkey. As an African, I was naturally born with the rhythm of music.so in solitude, music becomes my best buddy
