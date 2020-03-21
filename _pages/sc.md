@@ -17,3 +17,12 @@ Every time I stumbled across a scholarship opportunity, within the first few min
 <br>
 
 In this page, I have listed all the articles related to scholarship applications to help students who are struggling like I did which the seemingly arduous and perplexing scholarship application procedure
+
+
+<div class="grid__wrapper">
+  {% assign collection = 'sc' %}
+  {% assign posts = site[collection] | reverse %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
