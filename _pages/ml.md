@@ -5,7 +5,7 @@ permalink: /ml/
 collection: ml
 
 header:
-      overlay_image: 'https://beltus.github.io/images/ml_long.jpg'
+      image: 'https://beltus.github.io/images/ml_long.jpg'
 entries_layout: grid
 classes: wide
 ---
