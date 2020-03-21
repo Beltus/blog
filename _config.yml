@@ -318,6 +318,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      related: true
 
   # _sc
   - scope:
@@ -327,6 +328,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      related: true
   # _posts
   - scope:
       path: ""
