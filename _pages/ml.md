@@ -3,15 +3,13 @@ title: "Machine Learning Related Articles."
 layout: single
 permalink: /ml/
 author_profile: true
-header :
-    image: "https://beltus.github.io/images/ml_long.jpg"
+header:
+  image: "https://beltus.github.io/images/ml_long.jpg"
 ---
 
 Machine Learning articles can be found here with links to my Github page as well. Feel
 free to check up any topic that piques your interest in machine learning.
 
-entries_layout: grid
-classes: wide
 
 <div class="grid__wrapper">
   {% assign collection = 'ml' %}
