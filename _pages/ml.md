@@ -4,7 +4,10 @@ layout: single
 permalink: /ml/
 author_profile: true
 header:
-  image: "https://beltus.github.io/images/ml_long.jpg"
+    image: "https://beltus.github.io/images/ml_long.jpg"
+
+entries_layout: grid
+classes: wide
 ---
 
 Machine Learning articles can be found here with links to my Github page as well. Feel
