@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Related Articles.
+title: "Machine Learning Related Articles."
 layout: single
 permalink: /ml/
 author_profile: true
@@ -12,7 +12,6 @@ free to check up any topic that piques your interest in machine learning.
 
 entries_layout: grid
 classes: wide
-
 
 <div class="grid__wrapper">
   {% assign collection = 'ml' %}
