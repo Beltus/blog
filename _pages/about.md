@@ -2,7 +2,7 @@
 title: ""
 permalink: /about/
 header:
-  image: "/images/build2.jpg"
+  image: "/images/build.jpg"
 ---
 # Hello Everyone - Meet Beltus Nkwawir
 
