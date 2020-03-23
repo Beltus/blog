@@ -11,7 +11,7 @@ Your success is in the hands of others. Your network determines your networth. H
 ## Stop thinking you are not good enough to be a scholar. ## Dont sell yourself short
  This has killed more dreams than the coronavirus has killed people. Opportunities come up and you see the number to be selected then you just give up.
 
-##Focus on the Price.
+## Focus on the Price.
  the words of my aunt who is a prof at Penn state still rings in my ears as if she is whispering into them at this very moment.
 
  ##Get your travel documents set and loaded for travel.
