@@ -1,15 +1,14 @@
 ---
 layout: single
 published: true
-title: Face and Eye Detection Using HAARCASCADE Classifier
+title: Face and Eye using HAARCASCADE Classifier
 collection: cv
 author_profile: false
 read_time: true
 categories: [project] #[tutorials]
-excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
-rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
+excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
 header :
-    overlay_image: "https://beltus.github.io/vision/images/face.png"
+    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/images/face.png"
 comments : true
 toc: true
