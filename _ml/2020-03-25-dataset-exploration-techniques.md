@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/images/covid19.jpg)
+![](https://beltus.github.io/vision/images/covid19.jpg)
 
 ***COVID-19 dataset download complete!***.
 
@@ -26,7 +26,7 @@ That is exactly what I used to think when I started this long yet exciting journ
 
 I will stare at a dataset folder on my computer screen like a sheep that just lost it's sheperd. Lost, confused and utterly frustrated I find myself watching a youtube clip of **Sheldon - Big Bang Theory**.
 
-![](https://beltus.github.io/images/sheldon.jpeg)
+![](https://beltus.github.io/vision/images/sheldon.jpg)
 
 Slowly but surely mission failed.
 
