@@ -80,6 +80,7 @@ eyeCascade = cv2.CascadeClassifier(eyePath)
 ```
 We will be using pre-trained Haar cascade models of opencv, so we specify the paths to where his cascade classifiers for both the faces and the eyes
 lives using the code lines above. This classifier is serialized as an XML file. You can download the XML files from [opencv github repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+
 The *cv2.CascadeClassifier()* method is used to deserialize the classifier, load it into memory, and allows us to detect faces and eyes in images as we will see in the next step.
 
 # Step 3: Detection of Faces in Image.
