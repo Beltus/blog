@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Beltus Nkwawir"
-  avatar           : "/images/profile_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_img.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Offers machines the opportunity to experience our world" #"Beltus spends his time trying to understand the world he lives in, then translates that to machines in a simple yet elegant way"
   location         : "Istanbul"
   email            :
