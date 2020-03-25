@@ -4,7 +4,7 @@ permalink: /blog/
 author_profile: true
 title: "List of Articles"
 header:
-     image: "https://beltus.github.io/vision/images/galax_article.jpg"
+     image: "https://beltus.github.io/vision/assets/images/galax_article.jpg"
 layouts_gallery:
   - url: https://beltus.github.io/vision/ml/
     image_path: /images/ml.jpg

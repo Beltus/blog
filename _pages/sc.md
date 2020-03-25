@@ -4,7 +4,7 @@ layout: single
 permalink: /sc/
 author_profile: true
 header:
-  image: 'https://beltus.github.io/vision/images/sc_long.jpg'
+  image: 'https://beltus.github.io/vision/assets/images/sc_long.jpg'
 
 entries_layout: grid
 classes: wide
