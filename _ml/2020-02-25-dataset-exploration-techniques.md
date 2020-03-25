@@ -9,13 +9,13 @@ categories: [Blog] #[tutorials]
 excerpt : "Lets explore the COVID-19 dataset and others with interestingly simple yet powerful techniques."
 header :
     overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/covid.jpg"
+    teaser: "https://beltus.github.io/vision/images/covid19.jpg"
 
 comments: true
 toc: true
 toc_sticky: true
 ---
-![](https://beltus.github.io/images/covid.jpg)
+![](https://beltus.github.io/images/covid19.jpg)
 
 ***COVID-19 dataset download complete!***. What now? You must be thinking.
 
