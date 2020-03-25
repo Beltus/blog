@@ -9,14 +9,14 @@ categories: [Blog] #[tutorials]
 excerpt: "
 Genuises are not born they are made and you can be one."
 header:
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/man_head_down.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/man_head_down.jpg"
 comments: true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/man_head_down.jpg)
+![](https://beltus.github.io/vision/assets/images/man_head_down.jpg)
 
 > Genuises are not born they are made and you can be one
 
@@ -30,7 +30,7 @@ Too much of talking, let's get down to it.
 
 ## 1\. Learn how to Learn
 
-![](https://beltus.github.io/vision/images/dog.jpg)
+![](https://beltus.github.io/vision/assets/images/dog.jpg)
 
 
 The phrase **learn how to learn** sounds so simple and almost ludicrous, right? This is the one skill top-performing students have mastered so well they are capable of understanding anything they come across. Just think about, if you knew how to learn anything what will that make you? It is the key that opens the doors to the world of limitless acquisition of knowledge. If there is one thing I will tell any student today that is trying to create his/her path to success, is to **learn how to learn**. As a sophomore in middle school, I was frustrated by the incessant low grades I received in mathematics and physics. Thanks to my eldest sister, who pointed out what I had been consistently doing wrong. At that moment, I realized I was treating every course exactly the same. That had been my problem all along. Guess what? I transformed from being an average student in mathematics and physics to becoming the top in my class in almost every other subject from that moment and the classes after.
@@ -48,7 +48,7 @@ Keynote: Evaluate the best technique on how to study whatever you want before yo
 
 ## 2\. Take More Frequent Breaks.
 
-![](https://beltus.github.io/vision/images/rest.jpg)
+![](https://beltus.github.io/vision/assets/images/rest.jpg)
 
 
 If there is one thing I learned the hard way, it is the significant benefit of constant breaks during study period. If you are a **midnight candle** burner, how is that working out for you till now? How do you feel the next day in school or at work? Tired? You tell me.
@@ -61,7 +61,7 @@ Some time ago, I came across the [**pomodoro technique**](https://en.wikipedia.o
 
 ## 3\. Who are you hanging out with?
 
-![](https://beltus.github.io/vision/images/friends.jpg)
+![](https://beltus.github.io/vision/assets/images/friends.jpg)
 
 
 > Intelligence is contagious period!!
@@ -78,7 +78,7 @@ Remember that changing your friends' cycle doesn't mean you walk up to Cathy or 
 
 ## 4\. Discipline
 
-![](https://beltus.github.io/vision/images/discipline.jpg)
+![](https://beltus.github.io/vision/assets/images/discipline.jpg)
 
 
 > You level of success is determined by your level of discipline and perseverance
@@ -94,7 +94,7 @@ It is not easy to develop this skill, so start with ***little baby steps***. For
 
 ##  5. Read from multiple sources.
 
-![](https://beltus.github.io/vision/images/books.jpg)
+![](https://beltus.github.io/vision/assets/images/books.jpg)
 
 Thank God for the internet and especially youtube. If you are a student who only listens to what your professors say in lectures, then ***you better wake the hell up***. You know why? sooner or later you will come to realize that some professors suck at explaining complex concepts in a simple understandable way. They make trivial things seem so complicated and unnecessarily complex. Most top-performing students sometimes sit in class as a formality to satisfy attendance requirements although they still give their undivided attention to the professors. As soon as they get home, they turn on their computers and search for more lucid and explicit explanation of the same concepts. Their understanding of such a concept just quadrupled. While an average student might be struggling home going through the lecture slides and getting more confused, with a 10 minutes video the top performers are done. *Time management 101.*
 

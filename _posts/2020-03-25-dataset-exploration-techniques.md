@@ -8,15 +8,15 @@ read_time: true
 categories: [Blog] #[tutorials]
 excerpt : "Lets explore the COVID-19 dataset and others with interestingly simple yet powerful techniques."
 header :
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/covid19.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/covid19.jpg"
 
 comments: true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/covid19.jpg)
+![](https://beltus.github.io/vision/assets/images/covid19.jpg)
 
 ***COVID-19 dataset download complete!***.
 
@@ -26,7 +26,7 @@ That is exactly what I used to think when I started this long yet exciting journ
 
 I will stare at a dataset folder on my computer screen like a sheep that just lost it's sheperd. Lost, confused and utterly frustrated I find myself watching a youtube clip of **Sheldon - Big Bang Theory**.
 
-![](https://beltus.github.io/vision/images/sheldon.jpg)
+![](https://beltus.github.io/vision/assets/images/sheldon.jpg)
 
 Slowly but surely mission failed.
 
@@ -106,7 +106,7 @@ pd.dataset.head() # List the first 10 rows of dataset
 #displays the last 5 rows of your dataset
 dataset.tail()
 ```
-![](https://beltus.github.io/vision/images/cv_view.png)
+![](https://beltus.github.io/vision/assets/images/cv_view.png)
 
 You can as well specify the **number of rows** you want to display by passing the number as an argument to the functions.
 ```python
@@ -124,7 +124,7 @@ pd.set_option("display.max_columns" , None) #permits all the attributes(columns)
 dataset.head()
 
 ```
-![](https://beltus.github.io/vision/images/extend_column.png)
+![](https://beltus.github.io/vision/assets/images/extend_column.png)
 
 
 ## Display Interesting Statistical Information.
@@ -136,7 +136,7 @@ It provides some invaluable statistical information such as count, [mean](https:
 dataset = pd.describe()
 
 ```
-![](https://beltus.github.io/vision/images/describe.png)
+![](https://beltus.github.io/vision/assets/images/describe.png)
 
 
 * **count** row can be especially useful as it gives a clue of any missing values in your data that could negatively affect the performance of your machine learning model.
@@ -151,7 +151,7 @@ I dropped the **Lat** and **Long** columns in the COVID-19 dataset
 clean_dataset = dataset.drop(['Lat' , 'Long'], axis = 1)
 clean_dataset.head()
 ```
-![](https://beltus.github.io/vision/images/lat.png)
+![](https://beltus.github.io/vision/assets/images/lat.png)
 
 Note: It is good practice to assign the modified dataset to a new variable.
 
@@ -163,7 +163,7 @@ dataset.groupby('column_name').size()
 
 ```
 
-[](https://beltus.github.io/vision/images/unique.png)
+[](https://beltus.github.io/vision/assets/images/unique.png)
 
 ## Renaming Weird Column Names
 Datasets can be messy at times with wierd column names given by the creators of the datasets. You don't have to stick with these. If you dont like it, just change it like so.
@@ -177,7 +177,7 @@ dataset.columns = new_col_names
 
 ```
 
-![](https://beltus.github.io/vision/images/new_columns.png)
+![](https://beltus.github.io/vision/assets/images/new_columns.png)
 
 Sometimes, you just need to change that specific column name that sounds like gibberish to your ears. Just do this.
 
@@ -195,7 +195,7 @@ dataset["column_name"].plot.hist()
 
 ```
 
-![](https://beltus.github.io/vision/images/hist.png)
+![](https://beltus.github.io/vision/assets/images/hist.png)
 
 For demonstration purposes, I am also using the Iris dataset to show interesting plots. The link is included at the end of the article.
 
@@ -206,7 +206,7 @@ If you are curious and interested in visualizing the histogram plots of all your
 dataset.plot.hist(subplots = True, layout = (2,2) , figsize = (10,10) , bins = 20)
 
 ```
-![](https://beltus.github.io/vision/images/multiplot.png)
+![](https://beltus.github.io/vision/assets/images/multiplot.png)
 
 
 ## Bar Plot
@@ -218,14 +218,14 @@ dataset['Iris-setosa'].value_counts().sort_index().plot.bar()
 #horizontal bar chart
 dataset['Iris-setosa'].value_counts().sort_index().plot.barh()
 ```
-![](https://beltus.github.io/vision/images/barh.png)
+![](https://beltus.github.io/vision/assets/images/barh.png)
 
 ```python
 dataset.groupby('country').ConfirmedCases.mean().sorted_value(ascending=False)[:5].plot.bar()
 ```
 Here is a great example of the bar plot in the COVID-19 dataset. First group data by country, then calculate the mean of confirmed cases and sort in ascending other. Finally, plot a bar chart of the 10 countries with the most number of confirmed cases.
 
-![](https://beltus.github.io/vision/images/bar.png)
+![](https://beltus.github.io/vision/assets/images/bar.png)
 
 ## Scatter plot
 Last but far from least is the scatter plot. Generally used to show the relationship between 2 columns or feature in your dataset. Note that only numeric columns can be plotted.
@@ -236,7 +236,7 @@ Last but far from least is the scatter plot. Generally used to show the relation
 dataset.plot.scatter(x='petal width', y='petal length', title='Iris Dataset')
 
 ```
-![](https://beltus.github.io/vision/images/scatter.png)
+![](https://beltus.github.io/vision/assets/images/scatter.png)
 
 ## Other Plots
 

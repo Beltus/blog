@@ -8,14 +8,14 @@ read_time: true
 categories: [project] #[tutorials]
 excerpt : " This project is a fun and exciting computer vision project for anyone out there wishing to have a taste of what computer vision is. Who knows? Your journey might start here."
 header :
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/eye.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/eye.jpg"
 comments : true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/eye.jpg)
+![](https://beltus.github.io/vision/assets/images/eye.jpg)
 
 By the end of this project, you will have a cool face and eye tracking project you can be proud of.
 

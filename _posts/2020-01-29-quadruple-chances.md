@@ -9,14 +9,14 @@ categories: [Blog] #[tutorials]
 excerpt: "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header:
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/s0.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/s0.jpg"
 comments: true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/images/s0.jpg)
+![](https://beltus.github.io/vision/assets/images/s0.jpg)
 
 > *There are millions of fishes in the sea but not everyone who goes fishing is able to catch one.*
 
@@ -28,12 +28,12 @@ If you are still with me here, then below I have outlined some six main points w
 
 ## 1. Understanding the Process.
 
-![](https://beltus.github.io/vision/images/s1.jpeg)
+![](https://beltus.github.io/vision/assets/images/s1.jpeg)
 
 I can't tell you how many times I used to get frustrated when I started applying for a scholarship. It was quite puzzling and often led to in-completion and abandonment. The reason was simply that I could not wrap my head around the different scholarship application procedures. So I believe it is imperative to, first of all, get a holistic understanding of the different scholarship procedures so that you are not surprised at the time you begin any application. I will try to give you an overall explanation here of some common ones you might encounter out there. Some scholarships just require you to **signup and fill in your information**, answer the questions and you're done. In these types of scholarships, if you are selected you receive scholarship alongside admission to the university (e.g Turkish Government Scholarships). Other scholarships require that you **apply for admission into a university**. After receiving an admission letter from the university, you then use it to **apply for scholarship** in a completely separate and independent format. This is quite involved and many students get a little confused here. Having this in mind earlier enough you will be better prepared and equipped.
 
 ## 2. The Secret is in the Numbers.
-![](https://beltus.github.io/vision/images/people.jpg)
+![](https://beltus.github.io/vision/assets/images/people.jpg)
 
 My friend mentioned above had understood one thing. He had realized in order to significantly increase your odds of catching a fish in the ocean(scholarship), you got to throw as many hooks as you can into the sea. Applying for just one or two scholarships in an academic year is slightly ludicrous and illogical. This gives you no other options to choose from if you do not get awarded and you might just have to fritter away one whole academic year.
 
@@ -44,7 +44,7 @@ Please do not become complacent after applying for just two scholarships. Get co
 
 ## 3. Timing is Everything.
 
-![](https://beltus.github.io/vision/images/s2.jpeg)
+![](https://beltus.github.io/vision/assets/images/s2.jpeg)
 
 I will like to highlight the degree of importance of this point because I felt into this trap over and over again. Hundreds of scholarships flood the internet all through the year like clothes displayed in a local Sunday-market, however, you got to keep your ears to the ground not to miss a single opportunity for applications because that scholarship you missed could just be the life-changing opportunity you have been arduously praying or wishing for. Specifically for scholarships related to academics like **undergraduate, graduate and post-graduate scholarships,** I realized from experience that there exists a certain window for which most of these scholarships are announced. For example, roughly between the months of ***November and February*** you will notice a significant number of scholarships open, especially for the Fall semester of the coming academic year. However, you will, of course, find scholarships randomly distributed throughout the calendar. So, by keeping this in mind, you can be getting your motivation letter written and other documents ready while waiting for such hot periods.
 
@@ -54,7 +54,7 @@ Some of you might already be aware and some might not be. When applying for most
 
 ## 5. Know What You Up Against.
 
-![](https://beltus.github.io/vision/images/s3.jpeg)
+![](https://beltus.github.io/vision/assets/images/s3.jpeg)
 
 When you think about the hundreds or thousands of scholarships advertised annually in the different media platforms you might have some delusional thoughts that your chances of landing one are that high. Well, when you compare the number of applicants relative to the number to be awarded for a particular scholarship, you then realize the competition is a tight one. For example For UK-Chevening Scholarship, in 2017/18, of **65,000 applicants,** **1650 scholarships** were awarded. I am not writing this to discourage you, however, I want to create a sense of awareness of the competition which exists when you sit in front of your computer to apply for any scholarship. This means that not satisfying a single requirement for example proof of English proficiency for most scholarship applications can definitely be a filter that is used to first of all trim down the number of applications to be examined. So during the process of application every single point matters. You got to fill in everything that is asked and follow the instructions strictly as anything can be used as justification for elimination.
 
