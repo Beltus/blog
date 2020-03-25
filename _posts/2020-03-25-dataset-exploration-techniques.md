@@ -34,13 +34,13 @@ If you are new to data science, it is daunting and  overwhelming to get started 
 
 It is imperative every rookie in data science familiarize themselves with the very basic techniques of exploring dataset, because it is the fuel that powers AI.
 
-Working on a machine learning project without first of all understanding the dataset you are working with, it is like trying to build a skyscraper without a blueprint. Think about that for a second.
+Working on a machine learning project without first of all understanding the dataset you are working with, is like trying to build a skyscraper without a blueprint. Think about that for a second.
 
 In today's article, I will share a couple of basic yet powerful exploration techniques which you can apply to almost any dataset.
 
 These techniques will help you break through datasets. Not only that, you will have a holistic understanding of the dataset you are working with.
 
-These should be enough to activate the flow of dopamine in your system so that you can frictionlessly complete your machine project while having fun.
+These should be enough to activate the flow of dopamine in your system so that you can frictionlessly complete your machine learning project while having fun.
 
 
 Okay, enough of the talk. Lets get to it.
