@@ -15,9 +15,12 @@ comments: true
 toc: true
 toc_sticky: true
 ---
+
 ![](https://beltus.github.io/images/covid19.jpg)
 
-***COVID-19 dataset download complete!***. What now? You must be thinking.
+***COVID-19 dataset download complete!***.
+
+What now? You must be thinking.
 
 That is exactly what I used to think when I started this long yet exciting journey into the planet of data science.
 
@@ -239,15 +242,15 @@ dataset.plot.scatter(x='petal width', y='petal length', title='Iris Dataset')
 
 There exist other interesting plots which I decided not to cover these on this post. However, I will mention these here with appropriate links for easy exploration.
 
-######  [Line Chart](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.line.html)
+* **[Line Chart](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.line.html)**
 
-######  [Box plots](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html)
+* **[Box plots](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.boxplot.html)**
 
-###### [Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+* **[Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)**
 
-###### [Pairplot](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
+* **[Pairplot](https://seaborn.pydata.org/generated/seaborn.pairplot.html)**
 
-### Bonus Tip
+## Bonus Tip
 
 I came across this article published by towards data science written by [**Brenda Hali**](https://towardsdatascience.com/@brendahalih?source=post_page-----b71437ab26f----------------------) titled [**My Pandas Cheat Sheet**](https://towardsdatascience.com/my-pandas-cheat-sheet-b71437ab26f) and I found it very helpful. I think it contains very useful and handy pandas functions you will frequently find yourself in need of.
 
