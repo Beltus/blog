@@ -30,7 +30,7 @@ Too much of talking, let's get down to it.
 
 ## 1\. Learn how to Learn
 
-![](https://ik.imagekit.io/h5rt4jgal/dog_99KE3wXbV.jpg)
+![](https://beltus.github.io/vision/assets/images/dogc.jpg)
 
 
 The phrase **learn how to learn** sounds so simple and almost ludicrous, right? This is the one skill top-performing students have mastered so well they are capable of understanding anything they come across. Just think about, if you knew how to learn anything what will that make you? It is the key that opens the doors to the world of limitless acquisition of knowledge. If there is one thing I will tell any student today that is trying to create his/her path to success, is to **learn how to learn**. As a sophomore in middle school, I was frustrated by the incessant low grades I received in mathematics and physics. Thanks to my eldest sister, who pointed out what I had been consistently doing wrong. At that moment, I realized I was treating every course exactly the same. That had been my problem all along. Guess what? I transformed from being an average student in mathematics and physics to becoming the top in my class in almost every other subject from that moment and the classes after.
