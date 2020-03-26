@@ -10,7 +10,7 @@ excerpt: "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/school.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/school_small.jpg"
 comments: true
 toc: true
 toc_sticky: true

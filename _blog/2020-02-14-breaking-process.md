@@ -16,6 +16,8 @@ toc: true
 toc_sticky: true
 ---
 
+![](https://beltus.github.io/vision/assets/images/p1.jpeg)
+
 I get a lot of questions from friends and students when they encounter different scholarship procedures and do not know or understand how to go about the process?. This misunderstanding often leads to frustration and consequently abandonment of the application process by most prospects. The most common cause of this is because students especially those who are new to the scholarship process are not able to recognize the different scholarship types and approach these accordingly.
 
 So if you stay with me here to the end of this article, İ will share some insights that will be a **game-changer** for every student out there who is about beginning his quest for a scholarship.

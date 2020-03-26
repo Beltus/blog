@@ -10,7 +10,7 @@ excerpt: "
 Genuises are not born they are made and you can be one."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/man_head_down.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/man_head_down_small.jpg"
 comments: true
 toc: true
 toc_sticky: true

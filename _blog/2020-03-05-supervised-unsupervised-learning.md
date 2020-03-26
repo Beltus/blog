@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt : "It doesn't matter whether you are a tech-genius or a street dancer, machine learning can be understood by anyone."
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/mother_child.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/mother_child_small.jpg"
 comments : true
 toc: true
 toc_sticky: true

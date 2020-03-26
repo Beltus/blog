@@ -10,14 +10,14 @@ excerpt : "
 Some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun."
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/l0.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/scholarship_small.jpg"
 comments : true
 toc: true
 toc_sticky: true
 ---
 
 ## Introduction
-![](https://beltus.github.io/vision/assets/images/l0.jpg)
+![](https://beltus.github.io/vision/assets/images/scholarship.jpg)
 
 If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, what I am about to share with you applies to all languages, so stay with me a little longer.
 

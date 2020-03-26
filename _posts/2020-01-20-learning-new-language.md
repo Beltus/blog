@@ -10,7 +10,7 @@ excerpt : "
 Some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun."
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/scholarship.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/scholarship_small.jpg"
 comments : true
 toc: true
 toc_sticky: true
