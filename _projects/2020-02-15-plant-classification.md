@@ -17,7 +17,7 @@ toc_sticky: true
 
 ![](https://beltus.github.io/vision/assets/images/flower.jpg)
 
-I remember walking along the banks of river Bui some years ago with my friend while having a scintillating conversation. As we took a bend, we were stopped on our tracks at the sight of the most beautiful bush of flowers.
+I remember walking along the banks of river Bui some years ago with my friend while having a scintillating conversation. As we took a bend, we were stopped on our tracks at the sight of the most beautiful group of flowers.
 
 The striking thing about these flowers, wasn't their bright mesmerizing petals and pleasant smell, but the fact that, we had just studied them in class the previous week.
 
@@ -191,5 +191,5 @@ I hope you had fun implementing this cool project with me. If you have any quest
 
 Stay safe.
 
-* Link to Datasets
+* Link to [Datasets](https://github.com/Beltus/Machine-Learning)
 * For the complete code, visit my [github page](https://github.com/Beltus/Machine-Learning/tree/master/Plant-Classification).
