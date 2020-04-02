@@ -53,8 +53,12 @@ For this project, the core libraries we will use are [OpenCV](https://opencv.org
 ## Dataset Description
 The dataset is made of 234 images of four plant species - Crocus, Daisy, Pansies, and Sunflower. I also have a dataset of corresponding image mask of the plant images. You can find the link to the dataset at the end of this post.
 
+**Sample images from the Flower Dataset**
+
 ![Dataset of flowers](https://beltus.github.io/vision/assets/images/dataset_flower.png)
 
+
+**Sample Images from the Flower-Mask Dataset**
 ![Dataset of flower-masks](https://beltus.github.io/vision/assets/images/dataset_mask.png)
 
 
