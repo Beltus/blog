@@ -9,13 +9,13 @@ categories: [project] #[tutorials]
 excerpt : "What if with the snap of a finger you can determine the name of any beautiful flower? Magic right?"
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/flower_small.jpg"
+    teaser: "https://beltus.github.io/vision/assets/images/flower1_small.jpg"
 comments : true
 toc: true
 toc_sticky: true
 ---
 
-![](https://beltus.github.io/vision/assets/images/flower.jpg)
+![](https://beltus.github.io/vision/assets/images/flower1.jpg)
 
 I remember walking along the banks of river Bui some years ago with my friend while having a scintillating conversation. As we took a bend, we were stopped on our tracks at the sight of the most beautiful group of flowers.
 
