@@ -21,7 +21,7 @@ If you are stuck home like the rest of world, and sick of counting the number of
 
 Here is youtube video demonstration of our final project.
 
-{% include video id="6nJH1mtJrJU" provider="youtube" %}
+{% include video id="mpUAIeNJBGU" provider="youtube" %}
 
 If you are fired up like I am then let's do this!
 
