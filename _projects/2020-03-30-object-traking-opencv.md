@@ -1,12 +1,12 @@
 ---
 layout: single
 published: true
-title: Object Tracking OpenCV
+title: Color-Based Object Tracking with OpenCV
 collection: cv
 author_profile: false
 read_time: true
 categories: [project] #[tutorials]
-excerpt : " Tracking any object using your webcam, how cool is that. Let me show how."
+excerpt : " Learn how to track any object using your webcam or any video clip in 5 minutes."
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/assets/images/object_small.jpg"

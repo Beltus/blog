@@ -70,3 +70,78 @@ For a large number of features i.e n = 10000+ it is computational expensive as w
 If the XTX - matrix of the normal equation is non-invertible i.e it is singular or degenerate, then this implies 2 main things
 * Redundant Features - Linearly dependent Features
 * Too many features
+
+
+### WEEK THREE
+
+## Classification
+###Logistic Regression
+
+It is a classification algorithm that is based on the sigmoid or logistic function . g(z) = 1/(1+exp(-z)) whose values are squashed between 0 and 1
+
+The way our logistic function g behaves is that when its input is greater than or equal to zero, its output is greater than or equal to 0.5:
+
+In binary classification the output is either 0 or 1, so it is necessary for the hypothesis to also be within the range 0 and 1 contrast to the case of linear regression. That is why we use the logistic or sigmoid function for the hypothesis. It is then interpreted as a probability. e.g h(x) = 0.7 for a ham or spam email classification problem where 0 = ham and 1 = spam, means that, there is a probability of 0.7 the email is spam.
+
+h(x) = g(b0 + b1x1 + b2x2 + .... + bnxn)
+
+## Decision Boundaries
+It is boundary that seperates the dataset into its various classes. The decision boundary is the line that separates the area where y = 0 and where y = 1. It is created by our hypothesis function.
+
+Note that, It's properties are totally based on the model parameters(thetas) and not on the training data(X). When model parameters are calculated, the decision boundary is known. It is evaluated as z = b0x0 + b1x1 + ... + bnxn = 0 i.e setting
+* Non-linear decision boundaries can also be used in classification tasks to obtain better models
+
+## Cost Logistic regression
+
+We use a different cost function for Logistic regression as the cost function of linear regression if used will be wavy with many local optima i,e it is not a convex function
+
+## Multiclass Classification
+We use the one-vs-all(or one-vs-rest) classification technique where by we train n binary logistic classifiers for n classes in the dataset. During prediction, the input is ran across all n-classifiers. The input belongs to class whose model outputs the highest probability.
+
+##Solving the Problem of OVerfitting
+Underfitting is also called high bias occurs when we have very minimum data for training.
+Overfitting also called high-variance and occurs when we have to many features in our dataset.
+There are two main options to address the issue of overfitting:
+
+1) Reduce the number of features:
+  * Manually select which features to keep.
+  *  Use a model selection algorithm (studied later in the course).
+2) Regularization
+     * Keep all the features, but reduce the magnitude of parameters \theta_jθj.
+Regularization works well when we have a lot of slightly useful features.
+
+
+
+### WEEK 5
+
+We use the Backpropagation algorithm to calculate the gradients for each layer in a Neural Network. Back propagation comes from the fact that, we begin the algorithm by computating the gradient(error-term(delta)) of the output layer, then use the results to compute the gradient term of the previous activation layer and so on till we get to the gradient of the first hidden layer. We dont calculate the gradient of input layer.
+
+Each Delta for a particular layer is a vector of same length as number of the units in that layer, where each element of delta vector is the error of the corresponding unit in that layer.
+
+"Backpropagation" is neural-network terminology for minimizing our cost function, just like what we were doing with gradient descent in logistic and linear regression.The goal is to minimize J(THETAs)
+
+Back propagation is a method used to compute the partial derivatives of the cost function J wrt to the theta-values(model-parameters). Together with the cost function, backpropagation can then be used by gradient descent algorithm or as a parameter to the optimization minimization algorithms such as fminunc() or fmincg in Octave to evaluate the optimum thetas (model parameters). This is the training phase and results in the high performance model parameters.
+
+
+### Gradient Checking is a method that is used to verify if our implementation of backpropagation is working properly.
+We manually compute the estimate of the gradients of our cost function and then check if it is approximately equal with what the advanced Back propagation algorithm is giving.
+
+## Note  
+For neural networks we do not initialize the model parameters with zeros, as this results in the same values of the activation units for any particular hidden layer. Also, after gradient descent update of the model parameters(thetas or weights), the new updated thetas are still same for every unit of a layer, ie model is not learning. This is called symmetric weight problem
+
+For neural networks we perform Random initialization of the model parameters to avoid this draw back. This is called symmetry breaking.
+
+In training a neural network, we need to first decide on the network architecture. The network architecture is simply, the connectivity pattern between neurons, i.e the choice of the number of hidden layers to use. Note that the number of input units is the dimension of features, x(i). Also, the number of output units is determined by the number of classes for the case of a classification problem.
+
+It is also great practice to use same number of units in every hidden layer in your neural network. Default number of hidden layers is 1. The greater the hidden units the better performance of the model but increase in computational complexity,
+
+### Training a Neural Network
+
+1. Randomly initialize the weights
+2. Implement forward propagation to get hΘ(x(i)) for any x^{(i)}x(i)
+3. Implement the cost function
+4. Implement backpropagation to compute partial derivatives
+5. Use gradient checking to confirm that your backpropagation works. Then disable gradient checking.
+6. Use gradient descent or a built-in optimization function to minimize the cost function with the weights in theta.
+
+When we perform forward and back propagation, we loop on every training example:
