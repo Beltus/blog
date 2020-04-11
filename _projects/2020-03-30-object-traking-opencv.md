@@ -17,7 +17,7 @@ toc_sticky: true
 
 ![Photo by Immo Wegmann on Unsplash](https://beltus.github.io/vision/assets/images/object.jpg)
 
-If you are stuck home like the rest of world, and sick of counting the number of new corona virus cases like I am. Then it's time to a break from the chaos and apocalyptic news on social media. Join me lets build a fun computer vision object tracking application.
+If you are stuck home like the rest of world, and sick of counting the number of new corona virus cases like I am. Then it's time to take a break from the chaos and apocalyptic news on social media. Join me lets build a fun computer vision object tracking application in 5 minutes.
 
 Here is youtube video demonstration of our final project.
 
