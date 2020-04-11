@@ -144,7 +144,7 @@ cv2.destroyAllWindows()
 ```
 
 
-For the complete code, visit my [github page](https://github.com/Beltus/Computer-Vision-Projects/tree/master/EYE%20TRACKING).
+For the complete code, visit my [github page](https://github.com/Beltus/Computer-Vision-Projects/tree/master/OBJECT_DETECTION).
 
 
 ## The Takeaway
