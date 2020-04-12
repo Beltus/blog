@@ -45,7 +45,7 @@ color_lower = np.array([150 , 50 , 0] , dtype = 'uint8');
  #sets upper threshold for blue color
 color_upper = np.array([255, 150 , 100] , dtype = 'uint8');
 ```
-First we need to set the lower and upper threshold of the color of the object we want to track. In this project, I am tracking a blue object, that is why my  values for the blue color channel are much higher than the others. Here is a link to help you select color of your own object to track.
+First we need to set the lower and upper threshold of the color of the object we want to track. In this project, I am tracking a blue object, that is why my  values for the blue color channel are much higher than the others. Here is a [link](https://www.rapidtables.com/web/color/RGB_Color.html) to help you select color of your own object to track.
 
 ## Step 3: Tracking the Object.
 At the end of this step, I have provided the entire code block. However, to ease understanding, I will explain sections of the code allowing you to have an in-depth feel of what is going on. So lets get to it.
@@ -55,7 +55,7 @@ At the end of this step, I have provided the entire code block. However, to ease
 ```python
 capture = cv2.VideoCapture(0)
 ```
-*  It is important to know that a video is simply a sequence of images called frames, displayed at a particular frame rate. So the idea is that, we are actually detecting faces and eyes in each frame in the video stream. Frames are extracted from the video with the code.
+*  It is important to know that a video is simply a sequence of images called frames, displayed at a particular frame rate. So the idea is that, frames are extracted from the video and this is achieved with the code snippet below.
 
 ```python
 ret, frame = capture.read()
