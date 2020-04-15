@@ -14,7 +14,7 @@ Each value of theta(b) represents a seperate hypothesis. and for each value of t
 
 Efficient algorithms exist to help use find the values of model parameters that generates the minimum value of the cost function
 
-Gradient Descent is a general algorithm that is used to minimize any function. In linear regression we use gradient descent algorithm to automatically and simultaneauosly update the model parameters. For each update, the cost function is calculated until hopefully convergence is reached, i.e the local minimum.
+Gradient Descent is a general algorithm that is used to minimize any function. In linear regression we use gradient descent algorithm to automatically and simultaneauosly update the model parameters. For each update, the cost function is calculated until hopefully convergence is reached, i.e the global optima
 
 b0  = b0 - alpha * d/db(J(b0, b1, ... , bn))
 b1 = b1 - alpha * d/db(J(b0, b1, ... , bn))
@@ -30,7 +30,7 @@ Gradient descent has a cool hidden feature, as it can converge with a fixed lear
 
 This is generally called the Batch gradient descent as the algorithm uses all the training samples in every update iteration process of the model parameters
 
-
+1 point
 ## WEEK TWO
 
 ### Multivariate Linear Regression - Multiple Features
@@ -145,3 +145,120 @@ It is also great practice to use same number of units in every hidden layer in y
 6. Use gradient descent or a built-in optimization function to minimize the cost function with the weights in theta.
 
 When we perform forward and back propagation, we loop on every training example:
+
+
+
+
+## WEEK 6 HIGHLIGHTS
+
+
+### Debugging a Learning algorithm
+
+If your training model is not doing well on test data here is what you can do
+* Get more training examples
+* Try smaller sets of Features
+* Try getting more additional features
+* Try polynomial Features
+* Decrease or Increase the lambda of the regularized term
+
+## Evaluating a Hypothesis
+Split your data into training and test split. Train your model using the training split to obtain the optimized model parameters(thetas). Use the trained model
+parameters to evaluate the test set error(cost function J(theta)) using only the test examples- This is the case of linear regression. This is will give you an idea of the performance of your model on unseen data. Also mis-classification error is another metric that is often used to evaluate how well hypothesis is performing for the case of classification.
+
+Generally it is good practice to split data into train, validation and test set. This helps to decide which degree polynomial hypothesis model performs best in case of linear
+regression. Compute model parameters (thetas) with train set for the different degree hypothesis function, use the validation set to compute the difTo check if model is underfitting or
+ferent validation error
+(J_cv(theta)). Choose model with least cross validation error, then using the test set, compute the test error(J_test) to choose model with least error.
+
+If your trained model performance is quite low, it could be as a results of either High bias(underfitting) or high variance(Overfitting). To identify which of these your model is suffering from, check the Error on both Train and Validation set.
+If Train error and validation error is high, it implies model is underfitting(high-bias). If training error is low while validation error is high, it means model is overfiiting(high variance)
+
+High bias (underfitting): both Jtrain(Θ) and JCV(Θ) will be high. Also, JCV(Θ)≈Jtrain(Θ).
+
+High variance (overfitting): Jtrain(Θ) will be low and JCV(Θ) will be much greater than Jtrain(Θ).
+
+Use Learning curves to diagnose if your learning algorithm is suffering from a bias or variance problem,
+
+If your algorithm is suffering from high bias, increasing the training examples doesn't help reduce the training and cross validation error value.
+
+Conversely, if your learning algorithm is suffering from high variance, getting more training examples can likely help improve its performance as, Jcv(theta) will keep reducing with more training examples
+
+Our decision process can be broken down as follows:
+
+* Getting more training examples: Fixes high variance
+* Trying smaller sets of features: Fixes high variance
+* Adding features: Fixes high bias
+* Adding polynomial features: Fixes high bias
+* Decreasing λ: Fixes high bias
+* Increasing λ: Fixes high variance.
+
+Precision and recall are good evaluation metrics for classification models as it can help pinpoint the effect of skewed dataset. e.g A dataset with far greater
+negative negatives could result in a very low recall.
+
+By changing the threshold value for the hypothesis function of a logistic classifier for example i.e h(theta) > threshold , we can obtain different values for precision and recall on the cross validation set
+
+High precision and recall means learning algorithm performance is good
+## Precision
+It is a classification metric which is evaluated thus. What fraction out of the total positive predictions(TP + FP) by our model is truely positive.
+Precision = TP / (TP + FP)
+
+## Recall
+It evaluates what fraction from the actual number of positive examples in our dataset (TP + FN) is actually positive
+Recall = TP / (TP + FN)
+
+To choose which classifier is best, based on precision and recall values, we can evaluate the **Average** of precision and recall i.e (P + R) / 2. However, this is not a great way to decide which model is best as either a high precision or high recall of a particular model can lead to high average value.
+
+To solve this drawback of the average evaluation, we use the F1-Score evaluation metric which is calculated as follows;
+
+F1-Score = 2 * (PR)/ (P + R)
+
+So if either P or R is very low, F1-score will be low. A high F1 score is only achieved by P and R are relatively high. Best model has highest F1 score.
+
+
+### WEEK 7  HIGHLIGHTS
+
+Support Vector Machines.
+SVM is another interesting type of classifier similar to logistic regression wrt to cost function. SVM's don't suffer from local minima problems as it's cost function is purely convex.
+General cost function is
+
+Minimize J(theta) = C * A + B, where c is cte, just like lambda in regularized logistic regression cost function where we instead have,
+
+Minimize J(theta) = A + lambda * B
+
+The hypothesis of SVM outputs a 1 for positive class and zero for negative class directly, converse to Logistic regression which outputs a probability (0 to 1).
+
+Similarity functions for example Kernels(e.g Gaussian kernels ) can be used with SVMs to develop complex non-linear SVM models. It is based on selecting random points called landmarks on our training datasets and then, generating new features , f, based on the gaussian distribution equation
+f = exp( - (x-l).^2 / 2*(sigma).^2); where l = vector of random landmarks and x = training example.
+Based on the number of landmarks, for each training example for evaluate f, then use that in our hypothesis to train and predict our model.
+
+The idea of using kernels is just to create new features using our original training examples then train an SVM classifier using these new features instead
+of the original training dataset features.
+Landmarks are usually selected at same position as the training examples. Hence, if your training set has m examples, then you have m number of landmarks.
+This results in a new feature vector f of length m + 1 and consequently, your model will have model parameters(theta) of same size as f, i.e m + 1. This includes the
+intercept term(theta-zero). The new hypothesis becomes predict, y = 1 , if Theta' * f > 0
+
+Kernels can be used with linear regression but this is computational expensive and it is discouraged.
+
+In SVM, we have the hyperparameter,C which plays a role of C = 1 / lambda in the case of linear regression regularized cost function. This means that, if C is large, lambda is very small and hence, model parameter are penalized less, leading high complexity and therefore overfitting. If C is small, lambda becomes large, resulting in high penalization of the
+model parameters which decreases model complexity leading to underfitting.
+
+Another hyperparameter of SVMs is sigma in the gaussian kernel function. Large sigma results in a gentle sloping gaussian curve corresponding to low variance and high bias
+as the features, f vary smoothly. Small sigma, results in a more steeper gaussian function, leading to high variance and consequently low bias as the features f, vary sharply.
+
+Using SVMs with very large datasets, is computational expensive as the number of new features created using kernel equals the size of dataset examples.
+SVM with no kernel is also called a linear SVM and this is simply a standard SVM linear classifier
+
+
+For multi-classification using SVM, we use the one vs all method to distinguish between the different classes. if we have K-classes, we simply train K  SVM classifiers
+for each class by setting the corresponding class to y = 1, and the all other classes to y = 0. Prediction on an example is done by choosing SVM with the highest hypothesis value.
+
+## Logistic Regression Vs SVMs
+If the number of features, n is relatively larger than the number of training examples, m (e,g n = 10000 , m = 10 - 1000) use logistic regression or SVM with linear kernel
+
+If number of features n is small, and m is intermediate e.g (n = 1 - 1000, m = 10 - 10000), use SVM with Gaussian kernels
+
+If n is small and m is very large e.g (n = 1 -1000, m = 50000+), its smart to use logistic regression or sVM with linear kernel.
+
+For all the above cases, neural networks tend to work well. Just a little bit slower.
+
+## Week 8 Highlights
