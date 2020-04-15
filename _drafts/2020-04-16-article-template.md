@@ -1,33 +1,50 @@
 ---
-layout: archive
-permalink: /blog/
+layout: single
+published: true
+title: The secret of Quadrupling your Chances of Landing your Dream Scholarship.
+collection: sc
 author_profile: true
-title: "List of Articles"
+read_time: true
+categories: [Blog] #[tutorials]
+excerpt: "
+There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header:
-     image: "https://beltus.github.io/vision/assets/images/galax_article.jpg"
-layouts_gallery:
-  - url: https://beltus.github.io/vision/ml/
-    image_path: /assets/images/ml.jpg
-  - url: https://beltus.github.io/vision/sc/
-    image_path: /assets/images/sc.jpg
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/school_small.jpg"
+comments: true
+toc: true
+toc_sticky: true
 ---
 
-I present to you the articles I have written so far in diverse topics. For easy accessibility, the articles have been grouped into different categories - click to open any category of your choice. Take your time to explore which ever suits your needs and then come back to get some more. I hope you enjoy reading these...
+![](https://beltus.github.io/vision/assets/images/school.jpg)
 
-## Articles Grouped by Category
 
-{% include gallery id="layouts_gallery" class="full" layout="half"%}
 
-## List of all Articles
-List of all the articles in this blog is provided below.
 
-<div class="grid__wrapper">
-  {% assign collection = 'blog' %}
-  {% assign posts = site[collection] | reverse %}
-  {% for post in posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End of article template -->
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -49,3 +66,4 @@ List of all the articles in this blog is provided below.
 </div>
 
 <!--End mc_embed_signup-->
+<div class="fb-comments" data-href="https://beltus.github.io/vision/blog/quadruple-chances/" data-width="550" data-numposts="10"></div>
