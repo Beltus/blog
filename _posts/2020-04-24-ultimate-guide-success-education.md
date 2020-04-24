@@ -3,7 +3,7 @@ layout: single
 published: true
 title: The Ultimate Guide to Success in your Studies.
 collection: sc
-author_profile: true
+author_profile: false
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
