@@ -360,3 +360,4 @@ your model only when the model has a low bias. Low bias can be seen via plotting
 curves is ur model is suffering from low bias using learning curves. Then second, ask the question, what will it take to get 10-times of more data than what you currently have.
 
 Ceiling analysis use to estimate error of each block of a project pipeline
+>
