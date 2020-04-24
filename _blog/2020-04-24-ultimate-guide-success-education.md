@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: Secrets of Acing Your Scholarship Interviews.
+title: The Ultimate Guide to Success in your Studies.
 collection: sc
 author_profile: true
 read_time: true
