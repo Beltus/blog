@@ -113,7 +113,7 @@ There is fun in everything you just have to be willing to find it and when you d
 
 Make your studies a game then win the game.
 
-### 4\. The power of Team Work.
+## 4\. The power of Team Work.
 
 ![](https://cdn-images-1.medium.com/max/800/1*k4A36vOktr3fh9tQIaHbSQ.jpeg)
 
