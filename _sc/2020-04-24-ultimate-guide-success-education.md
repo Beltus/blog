@@ -1,13 +1,13 @@
 ---
 layout: single
 published: true
-title: The Ultimate Guide to Succeeding In your Studies.
+title: The Ultimate Guide to Success in your Studies.
 collection: sc
 author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
-There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
+Here is what you need to do to ensure that your success in education is guaranteed"
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*G1ifZtCS7SuhXDXoRNIUvA.jpeg"

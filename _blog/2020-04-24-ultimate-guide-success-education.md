@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: The Ultimate Guide to Succeeding In your Studies.
+title: The Ultimate Guide to Success in your Studies.
 collection: sc
 author_profile: true
 read_time: true

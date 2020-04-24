@@ -7,7 +7,7 @@ author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
-What you need to do to ensure that your success in education is guaranteed"
+Here is what you need to do to ensure that your success in education is guaranteed"
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*G1ifZtCS7SuhXDXoRNIUvA.jpeg"
