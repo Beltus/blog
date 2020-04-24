@@ -9,12 +9,14 @@ categories: [Blog] #[tutorials]
 excerpt : "
 A **game-changer** for every student out there who is about beginning his quest for a scholarship."
 header :
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/p1.jpeg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/p1.jpeg"
 comments : true
 toc: true
 toc_sticky: true
 ---
+
+![](https://beltus.github.io/vision/assets/images/p1.jpeg)
 
 I get a lot of questions from friends and students when they encounter different scholarship procedures and do not know or understand how to go about the process?. This misunderstanding often leads to frustration and consequently abandonment of the application process by most prospects. The most common cause of this is because students especially those who are new to the scholarship process are not able to recognize the different scholarship types and approach these accordingly.
 
@@ -24,13 +26,13 @@ Different countries, universities, scholarship organizations and foundations hav
 
 ## 1. Direct Link.
 
-![](https://beltus.github.io/vision/images/p2.png)
+![](https://beltus.github.io/vision/assets/images/p2.png)
 
 The simplest and most straight forward scholarship applications out there you are going to come across are those in which the ***application for the scholarship*** is directly linked with ***admission into the university of your choice***. In these types of scholarships, all you need to do is ***sign up*** to create an account and fill out the required information. If you are awarded the scholarship, you have automatically been admitted into the university. Typical examples of these type of scholarship include the [***Turkish government scholarship***](https://turkiyeburslari.gov.tr/) among others.
 
 ## 2. Indirect Link.
 
-![](https://beltus.github.io/vision/images/p3.jpg)
+![](https://beltus.github.io/vision/assets/images/p3.jpg)
 
 This type of scholarship application procedure is exactly where students get a little confused on how to go about it because it is a 2 step process.
 
@@ -46,6 +48,27 @@ This strategy I'm about to propose is what I learned from my friend who got acce
 
 I strongly recommended that for those of you with the hunger, the passion, the drive to change your future to go out to the ocean of scholarships with everything you got and I believe you are going to catch at least one fish before the sun sets in the evening.
 
-Thanks for reading to the end. Please, any comments/suggestions are welcomed.
+Thanks for reading to the end. Please, any comments/suggestions are welcome.
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://github.us4.list-manage.com/subscribe/post?u=ca4847e09fa3eca66eff34e12&amp;id=cf9e9cda45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Join me let's grow together</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ca4847e09fa3eca66eff34e12_cf9e9cda45" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 <div class="fb-comments" data-href="https://beltus.github.io/vision/blog/breaking-process/" data-width="550" data-numposts="10"></div>

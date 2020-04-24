@@ -9,15 +9,15 @@ categories: [Blog] #[tutorials]
 excerpt : "
 Some fundamental techniques I am convicted you can take advantage of to learn a new language quickly and efficiently while having fun."
 header :
-    overlay_image: "https://beltus.github.io/vision/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/images/l0.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/scholarship_small.jpg"
 comments : true
 toc: true
 toc_sticky: true
 ---
 
 ## Introduction
-![](https://beltus.github.io/vision/images/l0.jpg)
+![Photo by Ben White on Unsplash](https://beltus.github.io/vision/assets/images/scholarship.jpg)
 
 If you are reading this, then for some specific reason you wish to dive in to the seemingly "daunting" yet exciting process of learning a new language. Is it English, German, Spanish? I don't know and right now it doesn't really matter which of the languages you want to learn because, what I am about to share with you applies to all languages, so stay with me a little longer.
 
@@ -31,19 +31,19 @@ So now, with that out of the way, let's get the ball rolling. Below are four thi
 
 ## 1. Take a Trip.
 
-![](https://beltus.github.io/vision/images/l1.jpg)
+![](https://beltus.github.io/vision/assets/images/l1.jpg)
 
 How fast do you want to learn this new language? 4 months?. 9 months? or 1 year? Then here is what you must do. Get your travel bag-pack and move to an environment where you know this language is spoken the most. You got to inundate yourself in it. You have to be in a place where almost everyone speaks this language. Everywhere you turn your ears should pick up sound waves that correspond to this alien language. This way, you will inherently force yourself to learn so fast that, your brain will have no choice but to start making sense out of the chaos. I call this ***making use of our survival instincts***. This is precisely how I was able to fluently speak French within 4 months and the Turkish language with 7 months. I moved from my hometown-Bamenda in Cameroon to the capital city Yaounde(90% french speakers). Later I then moved to Istanbul-Turkey where I learned the Turkish language.
 
 ## 2. Buy a Tiny Notebook.
 
-![](https://beltus.github.io/vision/images/l2.jpg)
+![](https://beltus.github.io/vision/assets/images/l2.jpg)
 
 We had this beautiful smart lady from Mongolia in our class who in her free-time kept starring at her little notebook where she had written words, phrases and so much more. I even met her coincidentally inside the bus but she didn't recognize I was the one sitting next to her until I said ***merhaba*** (meaning *Hello/Hi* in English). In less than 2 months, she could speak Turkish so fluently that the rest of us, had no choice than to listen and watch in admiration when she started speaking. We could not even understand more than 70% of what she was saying. That is how good she was. The magic was in her *tiny little notebook* which she carried with her everywhere she went. Get your own little notebook today and write down new words you come across daily in the language you are learning. In your time of relaxation or anytime you want during the day, browse through it and as you do this your brain will automatically and permanently save this in memory without stress or much effort. Keep jotting down words and sentences daily on your notebook and you will be amazed not only on how much you have learned but also on how much you can remember.
 
 ## 3. Find a Friend.
 
-![](https://beltus.github.io/vision/images/l3.jpg)
+![](https://beltus.github.io/vision/assets/images/l3.jpg)
 
 ***Gabriel:*** *Beltus trust me. If you want to learn Turkish language so quickly get a Turkish girlfriend bro.*
 
@@ -53,12 +53,12 @@ Its actually hard to admit but it turns out Gabriel was right. While I was strug
 
 ## 4. Watch Movies and Listen to Music.
 
-![](https://beltus.github.io/vision/images/l4.jpg)
+![](https://beltus.github.io/vision/assets/images/l4.jpg)
 When I asked a friend of mine from Albania who I play table tennis with, how many months he attended the Turkish course to be able to speak Turkish like a native speaker, I was mind-blown by his response. He said he had never seen the four walls of a Turkish language class. He spent his time in Albania before moving to Istanbul, watching Turkish TV shows and movies and listening to some beautiful heart-touching music. I followed his foot-steps and it tremendously improved my listening and also speaking ability. You can do the same to any new language you want to learn. Watch the movies with subtitles to widen your vocabulary and at the same time, your ears will rapidly adapt to the accent of the native speakers.
 
 ## 5. Download and Install Applications.
 
-![](https://beltus.github.io/vision/images/app.jpg)
+![](https://beltus.github.io/vision/assets/images/app.jpg)
 
 I was so unlucky to have come across this amazing application called [Anki](https://www.ankiapp.com/) later than sooner while watching a youtube video of Professor Trefor Bazett. He recommended this app to help memorize words in a really fun and effective way. I decided to give it a try and was mind-blown by the results. Based on my personal experience with using this app not only to improve on my turkish language skills but to also to increase my english language vocabulary, I can say it tops the chart compared to others I tried in the past. There are hundreds of apps out there such as [Duolingo](https://www.duolingo.com/) and even free video lessons for learning new languages. Explore these apps and see what works best for you then stick with that. The secret is to **HAVE FUN** while learning. Remember, language ain't mathematics.
 
@@ -69,6 +69,26 @@ Focus on the price. Happy learning. Cheers!!!
 
 Hopefully, you enjoyed reading this article as much I did enjoy writing it. Feel free to read more articles, comment, share, make suggestions.
 
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://github.us4.list-manage.com/subscribe/post?u=ca4847e09fa3eca66eff34e12&amp;id=cf9e9cda45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Join me let's grow together</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ca4847e09fa3eca66eff34e12_cf9e9cda45" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 
 <div class="fb-comments" data-href="https://beltus.github.io/vision/blog/2020-102-15-learning-new-language/" data-width="550" data-numposts="10"></div>

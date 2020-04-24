@@ -1,16 +1,15 @@
 ---
 layout: single
 published: true
-title: Face and Eye Detection Using HAARCASCADE Classifier
+title: Face and Eye using HAARCASCADE Classifier
 collection: cv
 author_profile: false
 read_time: true
 categories: [project] #[tutorials]
-excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some
-rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
+excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
 header :
-    overlay_image: "https://beltus.github.io/vision/images/face.png"
-    teaser: "https://beltus.github.io/vision/images/face.png"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    teaser: "https://beltus.github.io/vision/assets/images/face.png"
 comments : true
 toc: true
 toc_sticky: true
@@ -81,6 +80,7 @@ eyeCascade = cv2.CascadeClassifier(eyePath)
 ```
 We will be using pre-trained Haar cascade models of opencv, so we specify the paths to where his cascade classifiers for both the faces and the eyes
 lives using the code lines above. This classifier is serialized as an XML file. You can download the XML files from [opencv github repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+
 The *cv2.CascadeClassifier()* method is used to deserialize the classifier, load it into memory, and allows us to detect faces and eyes in images as we will see in the next step.
 
 # Step 3: Detection of Faces in Image.
@@ -95,7 +95,7 @@ plt.figure(figsize =(14, 10)),
 plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
 ```
 The image is shown below
-![image](https://beltus.github.io/vision/images/kid.png)
+![image](https://beltus.github.io/vision/assets/images/kid.png)
 
 To detect the faces in the image, we then call the *faceCascade.detectMultiScale()* method.
 
@@ -118,7 +118,7 @@ To give you an idea of what is going on here, the arguments of the  *detectMulti
 The function returns a list of turple. Each turple with x,y coordinates of detected face and width and height of the detected face.
 The *cv2.rectangle* function then draws the bounding boxes on the around the detected faces in the image and the output displayed as can be seen below
 
-![image](https://beltus.github.io/vision/images/kid_me.png)
+![image](https://beltus.github.io/vision/assets/images/kid_me.png)
 
 #Step 4: Detection of Eyes in Image
 For the detection of eyes we focus on the regions of the image where a face has been already detected. The code snippets are well commented to explain every line of code.
@@ -214,7 +214,7 @@ Here is the complete code for this with explicit comment easy to understand
 
 ```python
 #path to video file
-vidPath = '/home/beltus/Desktop/vision/images/video.mp4'
+vidPath = '/home/beltus/Desktop/vision/assets/images/video.mp4'
 
 # Get video supplied by user.
 camera = cv2.VideoCapture(vidPath);
@@ -256,3 +256,24 @@ camera.release();
 cv2.detroyAllWindows();
 
 ```
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://github.us19.list-manage.com/subscribe/post?u=00674d30e54f543be88bd1cd3&amp;id=15a6483334" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Join me let's grow to together</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_00674d30e54f543be88bd1cd3_15a6483334" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
