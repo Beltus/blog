@@ -46,8 +46,9 @@ This strategy I'm about to propose is what I learned from my friend who got acce
 
 I strongly recommended that for those of you with the hunger, the passion, the drive to change your future to go out to the ocean of scholarships with everything you got and I believe you are going to catch at least one fish before the sun sets in the evening.
 
-Thanks for reading to the end. Please, any comments/suggestions are welcomed.
+Thanks for reading to the end. Please, any comments/suggestions are welcome.
 
+Before you leave, I have a special exclusive offer just for you. Subscribe now by entering your email below to instantly receive a copy of >>***The secrets of Acing your scholarship Interviews.***
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">

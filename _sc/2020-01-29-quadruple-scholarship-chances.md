@@ -67,6 +67,8 @@ I hope this information is helpful to you and wish you all success in pursuing y
 > HAPPY FISHING GUYS…
 
 
+Before you leave, I have a special exclusive offer just for you. Subscribe now by entering your email below to instantly receive a copy of >>***The secrets of Acing your scholarship Interviews.***
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
