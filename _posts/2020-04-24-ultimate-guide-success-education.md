@@ -21,7 +21,7 @@ toc_sticky: true
 
 ## Introduction.
 
-We don't fail because we aren't smart enough. We fail cause we think we ain't smart enough. We fail because no one ever thought us how to succeed.
+We don't fail because we aren't smart enough. We fail because we think we ain't smart enough. We fail because no one ever thought us how to succeed.
 
 To succeed in education is a process. Some students are lucky enough to have figured it out earlier in their lives by themselves or with the help of someone else. For me, I was lucky to have been surrounded by hard-working sisters in my early years of college who held my hand and thought me how to study and succeed in my studies.
 
@@ -155,7 +155,7 @@ Thanks for reading!
 <div id="mc_embed_signup">
 <form action="https://github.us4.list-manage.com/subscribe/post?u=ca4847e09fa3eca66eff34e12&amp;id=cf9e9cda45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join me let's grow together</label>
+	<label for="mce-EMAIL">Subscribe to stay updated!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ca4847e09fa3eca66eff34e12_cf9e9cda45" tabindex="-1" value=""></div>

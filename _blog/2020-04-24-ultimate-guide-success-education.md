@@ -21,7 +21,7 @@ toc_sticky: true
 
 ## Introduction.
 
-We don't fail because we aren't smart enough. We fail cause we think we ain't smart enough. We fail because no one ever thought us how to succeed.
+We don't fail because we aren't smart enough. We fail because we think we ain't smart enough. We fail because no one ever thought us how to succeed.
 
 To succeed in education is a process. Some students are lucky enough to have figured it out earlier in their lives by themselves or with the help of someone else. For me, I was lucky to have been surrounded by hard-working sisters in my early years of college who held my hand and thought me how to study and succeed in my studies.
 
@@ -34,7 +34,7 @@ It's time to put things back into perspective and become the person you were mea
 If you want to compete as a student and be unstoppable, then by reading this post you will be on the right track to changing your story.
 
 
-In today's article, I am going to share with you techniques that if applied will drastically increase your success rate not only in education but in life. So make sure you read to the end.
+In today's article, I am going to share with you techniques that if applied will ***drastically increase your success rate**** not only in education but in life. So make sure you read to the end.
 
 with that out of the way, let's dive right in.
 
@@ -50,7 +50,7 @@ So he said, "*To be a great writer you have to thrive in the middle when writing
 
 I paraphrase his statement by saying;
 
-"*To succeed in your education as a student you have to thrive in the middle of the semester term*."
+"***To succeed in your education as a student you have to thrive in the middle of the semester term***."
 
 Here is what always happens. At the beginning of every semester, students are fired up and filled with tremendous energy. They are ready to put in all they got. Unfortunately, that momentum rapidly dies down as the semester progresses towards the middle.
 
@@ -58,7 +58,7 @@ Average students tend to lose motivation, get exhausted and that makes all the d
 
 It is like running a 2000km marathon. Those who eventually win are the runners who are consistent throughout the entire race.
 
-Hence, If you want to succeed you have to maintain your pace. At the very beginning of the semester, be conscious of the battle in the middle of the semester and save some energy for that time because you are going to need it.
+Hence, If you want to succeed you have to ***maintain your pace***. At the very beginning of the semester, be conscious of the battle in the middle of the semester and save some energy for that time because you are going to need it.
 
 Yes, it's hard to maintain keep going steadily. It still is for me --- every time. But don't panic or do anything rash, like surrendering or losing motivation. Remember that the real fight is in the middle not at the end.
 
@@ -91,7 +91,7 @@ With that knowledge, you can then focus on working on your weaknesses while bols
 
 Note that the process of getting to know yourself is a continuous journey because you will definitely encounter new challenges in your life that will push to the limit.
 
-Remember, You are your greatest enemy. The battle is between you and yourself. It's time to make yourself your greatest friend. One step at a time.
+Remember, ***You are your greatest enemy***. The battle is between you and yourself. It's time to make yourself your greatest friend. One step at a time.
 
 ## 3\. Enjoy the Process.
 
@@ -155,7 +155,7 @@ Thanks for reading!
 <div id="mc_embed_signup">
 <form action="https://github.us4.list-manage.com/subscribe/post?u=ca4847e09fa3eca66eff34e12&amp;id=cf9e9cda45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join me let's grow together</label>
+	<label for="mce-EMAIL">Subscribe to stay updated!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ca4847e09fa3eca66eff34e12_cf9e9cda45" tabindex="-1" value=""></div>

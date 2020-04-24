@@ -14,9 +14,6 @@ layouts_gallery:
 
 I present to you the articles I have written so far in diverse topics. For easy accessibility, the articles have been grouped into different categories - click to open any category of your choice. Take your time to explore which ever suits your needs and then come back to get some more. I hope you enjoy reading these...
 
-## Articles Grouped by Category
-
-{% include gallery id="layouts_gallery" class="full" layout="half"%}
 
 ## List of all Articles
 List of all the articles in this blog is provided below.
@@ -29,6 +26,11 @@ List of all the articles in this blog is provided below.
   {% endfor %}
 </div>
 
+## Articles Grouped by Category
+
+{% include gallery id="layouts_gallery" class="full" layout="half"%}
+
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -39,7 +41,7 @@ List of all the articles in this blog is provided below.
 <div id="mc_embed_signup">
 <form action="https://github.us4.list-manage.com/subscribe/post?u=ca4847e09fa3eca66eff34e12&amp;id=cf9e9cda45" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join me let's grow together</label>
+	<label for="mce-EMAIL">Subscribe to stay updated!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ca4847e09fa3eca66eff34e12_cf9e9cda45" tabindex="-1" value=""></div>
