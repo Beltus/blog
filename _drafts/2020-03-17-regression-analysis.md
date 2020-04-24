@@ -229,7 +229,7 @@ The hypothesis of SVM outputs a 1 for positive class and zero for negative class
 
 Similarity functions for example Kernels(e.g Gaussian kernels ) can be used with SVMs to develop complex non-linear SVM models. It is based on selecting random points called landmarks on our training datasets and then, generating new features , f, based on the gaussian distribution equation
 f = exp( - (x-l).^2 / 2*(sigma).^2); where l = vector of random landmarks and x = training example.
-Based on the number of landmarks, for each training example for evaluate f, then use that in our hypothesis to train and predict our model.
+Based on the number of landmarks, for each training example we evaluate f, then use that in our hypothesis to train and predict our model.
 
 The idea of using kernels is just to create new features using our original training examples then train an SVM classifier using these new features instead
 of the original training dataset features.
@@ -262,3 +262,101 @@ If n is small and m is very large e.g (n = 1 -1000, m = 50000+), its smart to us
 For all the above cases, neural networks tend to work well. Just a little bit slower.
 
 ## Week 8 Highlights
+
+## Unsupervised Learning
+
+Clustering algorithm are popularly used for unsupervised machine learning task.
+
+K-means clustering algorithm is the most used clustering algorithm. Its inner workings is based on 2 main steps,that are iterative.
+
+Cluster Assignment step which assigns training examples to each clusters based on proximity of training example to cluster.
+
+Move cluster centroid step which relocates each centroid to the average or mean of its cluster subset.
+
+Then again we perform cluster assignment step and so on.
+
+The initialization of cluster centroids is done by assigning k-cluster centroids to randomly chosen k-training examples.
+
+## Dimensionality Reduction is another type of unsupervised learning algorithm. The most common dimensionality reduction algorithm is Principal Component Analysis(PCA)
+
+PCA aims at finding a lower k-dimensional feature hyperplane (surface) on which to project the training examples of higher dimension in such a way as to minimize the squared projection error(distance from each training example to the projection surface)
+
+In choosing the number of principal components k for PCA. it is good practice to choose smallest value of k for which 99%of the variance is retained.
+
+We apply PCA in supervised learning problems with very large number of features. This is applied only to the input training set of your dataset and not on the cross validation or test set of the dataset. PCA finds a mapping from training example x(i) to z(i), where z(i) is the new feature vector obtained after running PCA. So PCA can be considered a preprocessing for supervised learning algorithms.
+
+PCA has two major applications,
+#### 1. Compression: To reduce the memory/disk to store data and speed up learning algorithms
+
+#### 2. Visualization applications where number of principal components k can be 1, 2 or 3 for easy visualization.
+
+
+
+## WEEK 9  HIGHLIGHTS
+
+Anomaly Detection is mostly used in Fraud detection. Here we use our dataset to build a probabilistic model. Then use that to detect
+any abnormal or fraudulent activities.
+Manufacturing also using Anomaly detection to determine if their products are faulty or not.
+
+Monitoring computers or servers in a datacenter.
+Gaussian distribution is used for anomaly detection where we estimate
+the mean and variance of the distribution using the training set data
+
+
+In an anomaly detection algorithm, we estimate the average(mean) and variance of individual features in our dataset which gives us the model parameters. Given a new example example, we simply compute the probability , p(x) using the gaussian distribution parameters by the estimated mean and variance. if p(x) < epsilon , then we say it is anomalous. p(x) is calculated based on the assumption of the independence of features. i.e p(x) is the product of probability of each feature.
+
+In building Anomaly detection systems, the dataset is often skewed so, we recline from using classification accuracy as a performance metric which can be very high. Its preferably to use F1-score metric
+
+We use Anomaly detection instead of supervised learning alorithm when we have very very few positive examples
+examples(anomalous) and lots of negative examples(normal). Makes it challenging for the learning algorithm to learn from such very small examples.
+
+When interested in capturing some correlation between features we
+can use a multivariate Gaussian model estimate the parameters(mean vector and covariance matrix)
+
+## Recommender Systems
+Lets take the example of content-based recommender system. We have collected information of the ratings given by users after watching certain movies on our website.
+Recommender system takes this information, and tries to predict the possible rating value a user could have given to a movie he hasn't watch yet.
+Based on the estimated rating value, the system decides to suggest propose this movie to you.
+
+## Collaborative Filtering for Recommender systems
+This  method used to automatically learn relevant features for a recommender system. In collaborative Filtering algorithm, given model parameters(thetas) for each user
+, we get features relevant features by minimizing the cost function wrt to the features. These features can then be used to minimize the cost function for the
+model parameters for each user. This iterative process increases the performance of the model. This minimization is done more effficiently by simultaneaously minimizing
+both cost functions.
+
+##Note that in a recommender system each user has its own unique set of model parameters(thetas). So the number of users equals the number of linear regression
+models that have to be trained.
+
+low rank matrix factorization is just a synonym for the Collaborative filtering algorithm. The matrix of predictions can be obtained by X * THETA_transpose.
+
+## Finding related products using the low rank matrix factorization matrix.
+If a user just watched movie i, and we wanna recommend 5 other similar movies to this user, we simply, find 5 movies with least least feature difference with the xi(feature vector of xi) i.e
+
+(xi - xj)
+
+Final note. Collaborative filtering algorithm's objective is to use the ratings for every customer i and learn a set of features X, which it then uses uses to learn the model parameters for each user. With these parameters. Based on these learned features X, and parameters, theta, the recommender can predict the ratings for movies without any ratings. Also, the learned parameters can be used to compare features of the different movies and based on difference and then recommend movies to its users.
+
+Mean Normalization is sometimes used to enhance performace of model espeacially when there exist users without no ratings for products.
+
+
+## WEEK 10 HIGHLIGHTS
+
+##### Large Scale Machine learning
+
+As the size of training dataset increases to millions of examples, gradient descent i.e batch gradient descent algorithm for finding best model parameters becomes
+very inefficient due to computational time involved. Stochastic Gradient Descent algorithm is prefered in such cases as it is much faster. In SGD, we shuffle training data, the update the model parameters for each training example contrary to Gradient descent where a single update involves going thru entire dataset.
+
+* Mini-batch gradient descent uses a mini-batch size, b, of our training dataset in each iteration to update model parameters.Contrast to SGD that uses a single example.
+
+## Map Reduce - Data parallelism Approach
+A very large training dataset is split into k-subsets and each machine computes the partial sum over a subset. A centralized machine then combines the results from the multiple computers and then perform model parameter updates. Map reduce is also possible for multicore machines, where parallelism is done across the different cores.
+
+### WEEk 11 HIGHLIGHTS
+
+Machine learning pipeline for real projects with the example of a photo OCR(optical character recognition)
+Getting lots of data by artificial synthetic methods. This helps improve the performance of
+your model only when the model has a low bias. Low bias can be seen via plotting learning curves.
+## Note for machine learning problems it is important to first of check using Learning
+curves is ur model is suffering from low bias using learning curves. Then second, ask the question, what will it take to get 10-times of more data than what you currently have.
+
+Ceiling analysis use to estimate error of each block of a project pipeline
