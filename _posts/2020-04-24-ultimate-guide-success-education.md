@@ -21,9 +21,9 @@ toc_sticky: true
 
 ## Introduction.
 
-We don't fail because we aren't smart enough. We fail because we think we ain't smart enough. We fail because no one ever thought us how to succeed.
+We don't fail because we aren't smart enough. We fail because we think we ain't smart enough. We fail because no one ever taught us how to succeed.
 
-To succeed in education is a process. Some students are lucky enough to have figured it out earlier in their lives by themselves or with the help of someone else. For me, I was lucky to have been surrounded by hard-working sisters in my early years of college who held my hand and thought me how to study and succeed in my studies.
+To succeed in education is a process. Some students are lucky enough to have figured it out earlier in their lives by themselves or with the help of someone else. For me, I was lucky to have been surrounded by hard-working sisters in my early years of college who held my hand and taught me how to study and succeed in my studies.
 
 If you have been failing in your courses and exams for so long that you believe you are not smart enough?
 
@@ -134,7 +134,7 @@ Don't be an isolated lake because you might dry out soon. Join forces with other
 
 ### **The Takeaway.**
 
-In this article, I talked about important techniques you can incorporate in your life as a student and change F-grades to A-grades.
+In this article, I talked about important techniques you can incorporate in your life as a student and transform your F-grades to A-grades.
 
 My hope is that you give yourself the opportunity to be better, succeed, and make yourself proud.
 
