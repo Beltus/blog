@@ -25,9 +25,7 @@ We don't fail because we aren't smart enough. We fail because we think we ain't 
 
 To succeed in education is a process. Some students are lucky enough to have figured it out earlier in their lives by themselves or with the help of someone else. For me, I was lucky to have been surrounded by hard-working sisters in my early years of college who held my hand and taught me how to study and succeed in my studies.
 
-If you have been failing in your courses and exams for so long that you believe you are not smart enough?
-
-It's time to put things back into perspective and become the person you were meant to be. Those excuses you tell yourself for not succeeding in school, are just lies that make you sleep well at night.
+If you have been failing in your courses and exams for so long that you believe you are not smart enough, then it's time to put things back into perspective and become the person you were meant to be. Those excuses you tell yourself for not succeeding in school, are just lies that make you sleep well at night.
 
 İts time to stop and take back control of the wheel of your life.
 
