@@ -60,7 +60,7 @@ It is like running a 2000km marathon. Those who eventually win are the runners w
 
 Hence, If you want to succeed you have to maintain your pace. At the very beginning of the semester, be conscious of the battle in the middle of the semester and save some energy for that time because you are going to need it.
 
-Yes, it's hard to maintain keep going steadily. It still is for me --- every time. But don't panic or do anything rash, like surrendering or losing motivation. Remember that the real fight is in the middle not at the end.
+Yes, it's hard to maintain your speed and keep going steadily. It still is for me --- every time. But don't panic or do anything rash, like surrendering or losing motivation. Remember that the real fight is in the middle not at the end.
 
 Towards the end of every semester, while everyone is fighting to cross the finish line, you will be at the other side celebrating.
 
