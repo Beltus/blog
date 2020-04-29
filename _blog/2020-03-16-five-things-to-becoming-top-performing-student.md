@@ -7,7 +7,7 @@ author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
-Genuises are not born they are made and you can be one."
+Geniuses are not born they are made and you can be one."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://beltus.github.io/vision/assets/images/man_head_down_small.jpg"
