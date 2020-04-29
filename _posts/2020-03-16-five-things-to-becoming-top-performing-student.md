@@ -18,7 +18,7 @@ toc_sticky: true
 
 ![](https://beltus.github.io/vision/assets/images/man_head_down.jpg)
 
-> Genuises are not born they are made and you can be one
+> Geniuses are not born they are made and you can be one
 
 Before you read the next sentence in this article, take a second and let the meaning of the quote above sink-in deep into your subconscious.
 

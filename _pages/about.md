@@ -6,7 +6,7 @@ header:
 ---
 # Hello Everyone - Meet Beltus Nkwawir
 
-I'm currently a Computer Science graduate student at Istanbul Technical University whose passion and research interests are directed towards image processing, computer vision, Machine Learning and Deep Learning.
+I'm currently a Computer Science postgraduate student at Istanbul Technical University whose passion and research interests are directed towards image processing, computer vision, Machine Learning and Deep Learning.
 
 I hold a bachelors degree in Telecommunications Engineering from the University of Buea.
 
