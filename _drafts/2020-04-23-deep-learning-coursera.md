@@ -1,6 +1,6 @@
 ## My Take About the Course
 
-I like the fact it was designed with python with an inbuilt ipython notebook. This removes the stress of setting up a python environment for beginners. 
+I like the fact it was designed with python with an inbuilt ipython notebook. This removes the stress of setting up a python environment for beginners.
 
 
 
@@ -74,7 +74,7 @@ We want to find W and b that minimizes the cost function.
 ## Note this One Step of Gradient Descent
 For each model parameter W(i) , we compute the average(sum / m) of the partial derivative of the Loss function(dJ/dW(i)) with respect to W(i) for all training examples.
 
-We also compute the partial derivative of loss function (dJ/db) wrt to the bias, b.
+We also compute the partial derivative of cost function (dJ/db) wrt to the bias, b.
 
 Then we update the model parameters by computing
 
@@ -87,3 +87,18 @@ After this we perform the next iteration of Gradient Descent
 
 *** dW1 is the average of the derivative of the feature 1 of all examples.
 *** dw2 = is the average of the derivative of the features 2 of all examples.
+
+
+
+## WEEK 3 HIGHLIGHTS
+
+
+In neural networks, we dont count input layer as a layer. So a 2 layer NN has 1 hidden layer and 1 output layer
+Vectorization in Neural Networks
+
+## Activations functions in Neural networks
+1. Sigmoid function
+2. Tanh fucntion which ranges from 1 to -1. This function is preferred to sigmoid fucntion. So generally,
+we use the tanh activation function for the hidden layers and then sigmoid activation for the output layer since it outputs 0 and 1 similar to labels, y in
+binary classification
+3. Rectified Linear Unit. 

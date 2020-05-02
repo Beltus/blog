@@ -45,7 +45,7 @@ Here is something you need to understand. Every subject you will come across has
 
 The challenge here becomes ***how to find the correct technique to study each course?*** Unfortunately, there isn't a single formula to do this as it all depends on the course. However, here are some the tips you can apply
 
-> * If the course includes mathematical equations you should solve lots of examples
+> * If the course includes mathematical equations, then you should solve lots of examples
 > * If its only text, like literature, get a highlighter and underline important phrases
 > * If its Programming, you will definitely need to practice on writing more codes.
 > * Some fields of study might require you to memorize lots of words. Make the effort to learn some memorization techniques.

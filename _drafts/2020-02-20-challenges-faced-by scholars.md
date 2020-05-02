@@ -25,10 +25,15 @@ Dont stay indoors. Go out into the city even if you have no one to go with and s
 ## Cultural differences
 
 
+## Educational System.
+
 ## Be Openminded
 Saves you alot of unnecessary stress.
 
 ## Respect Religious Differences.
 
 
-## 
+## Racial Discrimination.
+
+You will definitely be discriminated upon by some lunatics. There is nothing you can do about. The problem is how you react to it.
+Knowing this might happen and it will probably maybe more often than you think, make
