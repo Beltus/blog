@@ -83,7 +83,7 @@ Guard your ears diligently as they are the gateway to your mind. Filter what get
 
 > Garbage in, Garbage out
 
-### **2\. Develop a new skill.**
+## **2\. Develop a new skill.**
 
 ![](https://cdn-images-1.medium.com/max/800/1*S_w1IXsLxMUkb0wDESD5Cg.jpeg)
 
@@ -155,7 +155,7 @@ There are a lot more but from my experience, the above list provides great conte
 
 It doesn't matter what you are learning as long as you are learning something new then you are growing. Knowledge has never been useless.
 
-### The Takeaway
+## The Takeaway
 
 It is one of the most challenging times of our lives we are going through at the moment. It is super important that we do not get distracted by the chaos around us. We need to focus on certain aspects of our lives.
 
