@@ -1,13 +1,13 @@
 ---
 layout: single
 published: true
-title: Four Things to Do as a Student During Times of Uncertainty.
+title: Four Things to Do as a Student at Times of Uncertainty.
 collection: sc
 author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
-There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
+How to Rise beyond the circumstances you find yourself in more powerful than ever."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*4lOndtfBCLTCFCUP4IrCbw.jpeg"
@@ -22,7 +22,7 @@ toc_sticky: true
 ![](https://cdn-images-1.medium.com/max/800/1*4lOndtfBCLTCFCUP4IrCbw.jpeg)
 
 
-We are living in an endless nightmare where everyone is struggling to survive for as long as they possibly can.COVID19 patients gasping for oxygen while the doctors are working tirelessly round the clock to keep patients alive.
+We are living in an endless nightmare where everyone is struggling to survive for as long as they possibly can. COVID19 patients gasping for oxygen while the doctors are working tirelessly round the clock to keep patients alive.
 
 Since schools were shut down due to the outbreak of the novel coronavirus, a significant majority of the global population has been stuck home with limited movement around for months.
 
@@ -169,13 +169,9 @@ I leave you with this quote.
 
 Stay safe and never stop growing.
 
-*This article is originally posted on my* [*blog*](https://beltus.github.io/vision/blog/)*.*
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/beltus/)
+Thanks for reading and if you enjoyed this article, take 5-seconds of your time to enter your email below and never miss an article.
 
 
-
-Thanks for reading and if you enjoyed this article, take 5-seconds to enter your email below and never miss an article.
 
 
 <!-- End of article template -->
@@ -201,3 +197,6 @@ Thanks for reading and if you enjoyed this article, take 5-seconds to enter your
 
 <!--End mc_embed_signup-->
 <div class="fb-comments" data-href="https://beltus.github.io/vision/blog/quadruple-chances/" data-width="550" data-numposts="10"></div>
+
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/beltus/) , [Instagram](https://www.instagram.com/j_beltus/)

@@ -1,7 +1,7 @@
 ---
 layout: single
 published: true
-title: The secret of Quadrupling your Chances of Landing your Dream Scholarship.
+title: How to stay Motivated.
 collection: sc
 author_profile: true
 read_time: true
@@ -21,8 +21,13 @@ toc_sticky: true
 
 
 
+1. Learn to rest not to quit.
 
+2. Look Within
 
+3. Make a Bet
+
+4.
 
 
 

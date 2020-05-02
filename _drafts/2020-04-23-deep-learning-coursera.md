@@ -101,4 +101,4 @@ Vectorization in Neural Networks
 2. Tanh fucntion which ranges from 1 to -1. This function is preferred to sigmoid fucntion. So generally,
 we use the tanh activation function for the hidden layers and then sigmoid activation for the output layer since it outputs 0 and 1 similar to labels, y in
 binary classification
-3. Rectified Linear Unit. 
+3. Rectified Linear Unit(ReLu) has gain alot of popularity for hidden layers and is commonly used.
