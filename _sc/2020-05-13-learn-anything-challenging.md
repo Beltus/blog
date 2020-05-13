@@ -2,7 +2,6 @@
 layout: single
 published: true
 title: How to Learn Anything Challenging
-
 collection: sc
 author_profile: true
 read_time: true
@@ -18,7 +17,7 @@ toc: true
 toc_sticky: true
 ---
 
-## How to Learn Anything Challenging
+# How to Learn Anything Challenging
 
 ![](https://cdn-images-1.medium.com/max/800/1*chzeIszudlOkUVyRZQp74w.jpeg)
 
@@ -176,9 +175,14 @@ Secondly, always remember your brain needs time to make the necessary connection
 
 The last point I mentioned, was to ensure that, you always have a pen and paper by your side. When you face a challenging concept, leave the pc for a while and pick up your pen and paper. Go old school.
 
-Thanks for reading and if you found this article helpful don't forget to subscribe below and leave a comment.
+Thanks for reading and if you enjoyed reading this article, here is a list of other articles I recommend you check out.
+ > * https://beltus.github.io/vision/sc/2020-04-24-ultimate-guide-success-education/
+* https://beltus.github.io/vision/sc/2020-05-01-things-to-do-times-uncertainty/
+* https://beltus.github.io/vision/sc/2020-03-16-five-things-to-becoming-top-performing-student/
+* https://beltus.github.io/vision/sc/2020-01-29-quadruple-scholarship-chances/
 
 
+Don't forget to subscribe and never miss new articles.
 <!-- End of article template -->
 
 <!-- Begin Mailchimp Signup Form -->
