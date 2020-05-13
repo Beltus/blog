@@ -102,3 +102,17 @@ Vectorization in Neural Networks
 we use the tanh activation function for the hidden layers and then sigmoid activation for the output layer since it outputs 0 and 1 similar to labels, y in
 binary classification
 3. Rectified Linear Unit(ReLu) has gain alot of popularity for hidden layers and is commonly used.
+
+Non-linear activation functions are critical for deep NNs because, the help the network learn more interesting features. Linear activation functions if used results only in the linear combination inputs.
+
+### Random Initialization
+It is important to randomly initialize the weights of the NN with very small values. Initializing to zero, is not advisable as the computated activation values of neurons remain thesame resulting in a model that doesnt learn with increase number of iterations.
+
+
+###WEEK 4 HIGHLIGHTS
+## Hyperparameters of Deep Learning Neural networks
+
+*Learning parameter
+* Number of iterations in the gradient Descent
+* Number of layers in model
+* Number of units per layers

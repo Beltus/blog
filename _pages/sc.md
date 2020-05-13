@@ -1,5 +1,5 @@
 ---
-title: "Scholarship Related Articles"
+title: "Education and Personal Development Related Articles"
 layout: single
 permalink: /sc/
 author_profile: true
@@ -10,7 +10,7 @@ entries_layout: grid
 classes: wide
 ---
 
-In this page, you will find a list all the articles related to scholarship applications and educational life of students. I hope this helps you to achieve your dreams. Have fun reading and don't forget to come back for more...
+In this page, you will find a list all the articles related to education such as scholarships and studying techniques and also personal development in life. I hope this helps you become the better and achieve your dreams. Have fun reading and don't forget to come back for more...
 
 
 <div class="grid__wrapper">
