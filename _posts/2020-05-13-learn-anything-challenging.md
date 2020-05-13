@@ -81,13 +81,13 @@ Stay with me here a little longer, this article is not about physics.
 
 The breaking down process begins by you asking very simple questions like:
 
-*What do* ***F , M*** *and* ***A*** *stand for?* 
+> What do* ***F , M*** and ***A*** *stand for? 
 
-You will find the simplified answer to be** *Force, Mass of an object, and Acceleration.* **Okay cool!
+You will find the simplified answer to be ***Force, Mass of an object, and Acceleration.*** Okay cool!
 
 But wait, *what the hell is Acceleration?* Good question. So you break it down again. 
 
-*Acceleration = Velocity / time. *
+> Acceleration = Velocity / time. 
 
 Alright, I don't need to study physics to know what ***time*** means. Great!
 
