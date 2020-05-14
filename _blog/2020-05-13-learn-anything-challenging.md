@@ -25,7 +25,7 @@ toc_sticky: true
 
 Do me a favor: think back to a day you tried to read or learn something you believed was **freaking challenging**. What do you see?
 
-You probably sat there, staring at the same page for hours, trying to understand what the hell you were reading. You read it over and over again until you lose count.
+You probably sat there, staring at the same page for hours, trying to understand what the hell you were reading. You read it over and over again until you lost count.
 
 Frustration sets in and later, anger slowly finds its way into your mind. You angrily get up, disappointed at yourself. You look at yourself in the mirror and think you must be the dumbest individual to have ever lived.
 
