@@ -176,10 +176,12 @@ Secondly, always remember your brain needs time to make the necessary connection
 The last point I mentioned, was to ensure that, you always have a pen and paper by your side. When you face a challenging concept, leave the pc for a while and pick up your pen and paper. Go old school.
 
 Thanks for reading and if you enjoyed reading this article, here is a list of other articles I recommend you check out.
- > * https://beltus.github.io/vision/sc/2020-04-24-ultimate-guide-success-education/
-* https://beltus.github.io/vision/sc/2020-05-01-things-to-do-times-uncertainty/
-* https://beltus.github.io/vision/sc/2020-03-16-five-things-to-becoming-top-performing-student/
-* https://beltus.github.io/vision/sc/2020-01-29-quadruple-scholarship-chances/
+
+* [The Ultimate Guide to Success in Education.](https://beltus.github.io/vision/sc/2020-04-24-ultimate-guide-success-education/)
+* [Four things to Do as a Student at Times of Uncertainty](https://beltus.github.io/vision/sc/2020-05-01-things-to-do-times-uncertainty/)
+* [Five Things to Do to Become a Top-Performing Student](https://beltus.github.io/vision/sc/2020-03-16-five-things-to-becoming-top-performing-student/)
+* [The Secret if Quadrupling your Chances of Landing your Dream Scholarship](https://beltus.github.io/vision/sc/2020-01-29-quadruple-scholarship-chances/)
+
 
 
 Don't forget to subscribe and never miss new articles.
