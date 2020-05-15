@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt : "A gentle comprehensive introduction to the concept of machine learning for anyone wishing to have a glimpse of what machine learning is."
 header :
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/ml.png"
+    teaser: "https://cdn-images-1.medium.com/max/800/1*rgr_UVVil3yW3ByxyX00ew.png"
 
 comments: true
 toc: true
@@ -18,7 +18,7 @@ toc_sticky: true
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
 
-![](https://beltus.github.io/vision/assets/images/ml.png)
+![](https://cdn-images-1.medium.com/max/800/1*rgr_UVVil3yW3ByxyX00ew.png)
 
 It is mind-blowing and fascinating how every part of our daily lives is being affected by machine learning driven applications and most of us go by our mundane life routines oblivious to this. Yet, to the average non-computer science or tech guys, at the mention of machine learning and deep learning in a conversation, they totally zoom out to this seemingly **esoteric concept**.
 
@@ -43,7 +43,7 @@ Just as the name machine learning suggest:
 Basically Machine learning can be categorized into supervised and unsupervised learning.
 
 ## 1 . Supervised Machine Learning.
-![](https://beltus.github.io/vision/assets/images/super1.jpg)
+![](https://cdn-images-1.medium.com/max/800/1*QBU299rVUhUvh1Mey4KF2w.jpeg)
 
 Supervised machine learning involves the training of computer system using data that is explicitly **Labeled**. Labeled data here means that the input and desired output (target) is known. The machine learning algorithm (model) learns from this labeled data through an iterative process which then enables it to perform future predictions.
 
@@ -54,7 +54,7 @@ Since this is an introduction to machine learning, I have tried to keep the expl
 
 ## 2. Unsupervised Machine Learning Algorithms
 
-![](https://beltus.github.io/vision/assets/images/super2.png)
+![](https://cdn-images-1.medium.com/max/800/1*--uTgnqvscJqg1acuqqd5Q.png)
 
 I came up with this analogy to help you better understand unsupervised learning.
 >Think of unsupervised learning algorithm like a completely blind person that has been asked to plunge his hand into a bowl containing different types of fruits and separate these fruits into their different groups. Key point to note here is that he has no idea about the fruits. Maybe he will group them based on shape, size or whatever I don't know.
@@ -72,22 +72,22 @@ Enough about Elephants. If you are still with me, then, let's get back to some a
 I am confident most of you are oblivious of how your day-to-day lives are being affected by machine learning driven applications. So let me shine some light on the most common applications whose backbone is machine learning.
 
 ### 1. Google Maps
-![](https://beltus.github.io/vision/assets/images/super3.jpeg)
+![](https://cdn-images-1.medium.com/max/600/1*Z9ny2RHdLVE9XgxKD8R7eA.jpeg)
 
 Oh the amazing google maps is the first application that comes to mind. Google Map uses Machine Learning and Big Data couple for traffic estimation.
 
 ### 2. FaceBook Face Recognition
-![](https://beltus.github.io/vision/assets/images/super4.png)
+![](https://cdn-images-1.medium.com/max/800/1*JEXPSKSZyva-ffOkiWdL6w.png)
 
 Yes facebook too!. Facebook uses machine learning for **automatic friend tagging and friend suggestions**. So now you know why "Estella" was suggested to you as a friend by facebook.
 
 ### 3. Online Video Streaming.
-![](https://beltus.github.io/vision/assets/images/super5.jpg)
+![](https://cdn-images-1.medium.com/max/800/1*1UcE_0pfUwYnqtTkAEkEsg.jpeg)
 
 If you are a fan of Netflix then you should know Netflix algorithms constantly gathers massive amounts of data about your various activities such as pause, rewind, or fast forward, the day you watch shows/movies (, date and time you watch, ratings and searches, browsing /scrolling behaviour and a lot more and by using their **Recommender system**, and powerful machine learning algorithms they are able to keep you glued to your screens.
 
 ### 4. Google translate.
-![](https://beltus.github.io/vision/assets/images/super6.jpg)
+![](https://cdn-images-1.medium.com/max/800/1*6A-QTGYj6ArwbHOUZmzTLQ.jpeg)
 
 Can't count the number of times google translate saved my life in Istanbul. It uses Natural Language Processing Techniques to improve translation between text
 
