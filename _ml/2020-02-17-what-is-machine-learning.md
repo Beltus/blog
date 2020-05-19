@@ -8,7 +8,7 @@ read_time: true
 categories: [Blog] #[tutorials]
 excerpt : "A gentle comprehensive introduction to the concept of machine learning for anyone wishing to have a glimpse of what machine learning is."
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*rgr_UVVil3yW3ByxyX00ew.png"
 
 comments: true

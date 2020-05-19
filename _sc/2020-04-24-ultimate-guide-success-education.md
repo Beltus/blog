@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt: "
 What you need to do to ensure that your success in education is guaranteed"
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*G1ifZtCS7SuhXDXoRNIUvA.jpeg"
 comments: true
 toc: true

@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt : "
 A **game-changer** for every student out there who is about beginning his quest for a scholarship."
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/p1.jpeg"
 comments : true
 toc: true

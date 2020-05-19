@@ -10,7 +10,7 @@ excerpt: "
 How frustrated and disappointed do you ever get when you try to learn something new 
 and your brain just can't seem to get it? Change that today."
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*chzeIszudlOkUVyRZQp74w.jpeg"
 comments: true
 toc: true

@@ -8,7 +8,7 @@ read_time: true
 categories: [Blog] #[tutorials]
 excerpt : "Lets explore the COVID-19 dataset and others with interestingly simple yet powerful techniques."
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/covid_small.jpg"
 
 comments: true

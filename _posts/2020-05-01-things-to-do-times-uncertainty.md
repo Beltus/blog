@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt: "
 How to Rise beyond the circumstances you find yourself in more powerful than ever."
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*4lOndtfBCLTCFCUP4IrCbw.jpeg"
 
 comments: true

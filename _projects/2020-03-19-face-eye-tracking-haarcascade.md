@@ -8,7 +8,7 @@ read_time: true
 categories: [project] #[tutorials]
 excerpt : " This project is a fun and exciting computer vision project for anyone out there wishing to have a taste of what computer vision is. Who knows? Your journey might start here."
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/eye.jpg"
 comments : true
 toc: true

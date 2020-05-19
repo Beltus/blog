@@ -8,7 +8,7 @@ read_time: true
 categories: [project] #[tutorials]
 excerpt : "If you have always been wondering how facebook is able to identify and draw boxes around all the faces in a post or how some rectangular boxes mysterious appear around faces when you are about taking a selfie, then please, allow me demystify it for you in this exceedingly simply article"
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/face.png"
 comments : true
 toc: true

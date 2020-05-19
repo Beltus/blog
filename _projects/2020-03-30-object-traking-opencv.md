@@ -8,7 +8,7 @@ read_time: true
 categories: [project] #[tutorials]
 excerpt : " Learn how to track any object using your webcam or any video clip in 5 minutes."
 header :
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/object_small.jpg"
 comments : true
 toc: true

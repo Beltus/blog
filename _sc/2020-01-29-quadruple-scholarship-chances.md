@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt: "
 There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://cdn-images-1.medium.com/max/800/1*l9La4SoBS2-yDkLtW1ZlIw.jpeg"
 comments: true
 toc: true

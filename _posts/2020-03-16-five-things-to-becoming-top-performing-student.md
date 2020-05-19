@@ -9,7 +9,7 @@ categories: [Blog] #[tutorials]
 excerpt: "
 Geniuses are not born they are made and you can be one."
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
+    overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
     teaser: "https://beltus.github.io/vision/assets/images/man_head_down_small.jpg"
 comments: true
 toc: true
