@@ -7,9 +7,9 @@ header:
      image: "https://cdn-images-1.medium.com/max/800/1*dJevYvXpMboY7_OlYmNWQw.jpeg"
 layouts_gallery:
   - url: https://beltus.github.io/vision/ml/
-    image_path: /assets/images/ml.jpg
+    image_path: https://cdn-images-1.medium.com/max/800/1*2TOOMsFHjdPv0FGnvLF-hQ.jpeg
   - url: https://beltus.github.io/vision/sc/
-    image_path: /assets/images/education.jpg
+    image_path: https://cdn-images-1.medium.com/max/800/1*rGWbXgg85MG50_OPeoyWiQ.jpeg
 ---
 
 I present to you the articles I have written so far in diverse topics. For easy accessibility, the articles have been grouped into different categories - click to open any category of your choice. Take your time to explore which ever suits your needs and then come back to get some more. I hope you enjoy reading these...

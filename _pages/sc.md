@@ -4,7 +4,7 @@ layout: single
 permalink: /sc/
 author_profile: true
 header:
-  image: 'https://beltus.github.io/vision/assets/images/education.jpg'
+  image: 'https://cdn-images-1.medium.com/max/800/1*rGWbXgg85MG50_OPeoyWiQ.jpeg'
 
 entries_layout: grid
 classes: wide
