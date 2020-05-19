@@ -31,11 +31,6 @@ List of all the articles in this blog is provided below.
   {% endfor %}
 </div>
 
-## Articles Grouped by Category
-
-<div class = "grid__wrapper">
-{% include gallery id="layouts_gallery" class="full" layout="half"%}
-</div>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
