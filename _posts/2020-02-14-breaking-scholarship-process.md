@@ -10,7 +10,7 @@ excerpt : "
 A **game-changer** for every student out there who is about beginning his quest for a scholarship."
 header :
     overlay_image: "https://cdn-images-1.medium.com/max/800/1*DCBjoqo3lLcxuthD_cEKQA.png"
-    teaser: "https://beltus.github.io/vision/assets/images/p1.jpeg"
+    teaser: "https://cdn-images-1.medium.com/max/800/1*Fj_mT9JWTpC-h1yAUlq5NA.jpeg"
 comments : true
 toc: true
 toc_sticky: true
@@ -24,13 +24,13 @@ Different countries, universities, scholarship organizations and foundations hav
 
 ## 1. Direct Link.
 
-![](https://beltus.github.io/vision/assets/images/p2.png)
+![](https://cdn-images-1.medium.com/max/800/1*SrzKbqf5gMluwe9fzmaVsg.png)
 
 The simplest and most straight forward scholarship applications out there you are going to come across are those in which the ***application for the scholarship*** is directly linked with ***admission into the university of your choice***. In these types of scholarships, all you need to do is ***sign up*** to create an account and fill out the required information. If you are awarded the scholarship, you have automatically been admitted into the university. Typical examples of these type of scholarship include the [***Turkish government scholarship***](https://turkiyeburslari.gov.tr/) among others.
 
 ## 2. Indirect Link.
 
-![](https://beltus.github.io/vision/assets/images/p3.jpg)
+![](https://cdn-images-1.medium.com/max/800/1*dtzTdsK3X59BojN1ed3YPA.jpeg)
 
 This type of scholarship application procedure is exactly where students get a little confused on how to go about it because it is a 2 step process.
 
