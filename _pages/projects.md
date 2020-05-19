@@ -3,7 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 header:
-  image: "/assets/images/projects.jpg"
+  image: "https://cdn-images-1.medium.com/max/800/1*fDjB0qHOLNYAOldppdoMRg.jpeg"
 ---
 Here is an introduction to some of the projects I have been able to go through over the past months.
 For more information visit my github page for codes
