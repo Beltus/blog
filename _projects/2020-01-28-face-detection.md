@@ -256,7 +256,6 @@ camera.release();
 cv2.detroyAllWindows();
 
 ```
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -265,15 +264,15 @@ cv2.detroyAllWindows();
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://github.us19.list-manage.com/subscribe/post?u=00674d30e54f543be88bd1cd3&amp;id=15a6483334" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://github.us18.list-manage.com/subscribe/post?u=af24155f302fd6d6bb6913dc9&amp;id=7833f07b03" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Join me let's grow to together</label>
+	<label for="mce-EMAIL">Join me let's grow together!</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_00674d30e54f543be88bd1cd3_15a6483334" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_af24155f302fd6d6bb6913dc9_7833f07b03" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 
-<!--End mc_embed_signup-->
+<!-- End Mailchimp Signup Form -->
