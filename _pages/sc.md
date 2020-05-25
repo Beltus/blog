@@ -4,7 +4,7 @@ layout: single
 permalink: /sc/
 author_profile: true
 header:
-  image: 'https://cdn-images-1.medium.com/max/800/1*rGWbXgg85MG50_OPeoyWiQ.jpeg'
+  image: 'https://cdn-images-1.medium.com/max/800/1*FSLQnQvh0cDqWFmldTfe7Q.png'
 
 entries_layout: grid
 classes: wide
