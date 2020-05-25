@@ -116,3 +116,62 @@ It is important to randomly initialize the weights of the NN with very small val
 * Number of iterations in the gradient Descent
 * Number of layers in model
 * Number of units per layers
+
+
+### COURSE 2: IMPROVING DEEP NEURAL NETWORKS
+
+In machine learning it is advicable to always split your dataset to train-dev-test set.
+This gives you an unbiased estimate of the model performance.
+
+In some cases, if your model is trained with for example,a set of images that are cleaner and well organised, than
+the actual images that will be tested with the model after deployment. This can result in a huge test error.
+The advice here is to train your model with the test set , however the dev set should be the same as the test set.
+
+## Bias and Variance in Deep Learning.
+
+Bias and variance terms stem from the train and dev errors. If you have a low training error, and high dev error, then your model has a high variance and hence overfitting. If your model has a high train error and high dev error, then it has low variance and high bias and therefore underfitting.
+High train and dev-error implies that your model has high variance and high bias. Conversely, low train and low-dev error results low bias and low variance
+
+##Technical Steps to Diagnose DL
+After building ur DL, check if you have high bias i.e high training error. If yes, you can then follow some steps to reduce this error.
+After lowering the training error, check if your model has high variance, by testing error on dev set. if yes, follow certain steps towards reducing high variance.
+The methods to lowering these bias and variance can be quite different.
+
+In DL, the L2 norm of the cost function J, which is often multiplied with (lambda/ 2m) is called the Frobenius norm and not L2, as it is made
+up of the sum of weight matrices for all layers in the network.
+
+###Note: Why and how Does L2 Regularization affect the values of the model parameters or Weights.
+
+When L2 regularization is added to the cost function, this regularization contributes to positively to the partial derivatives of the cost function wrt to the weights.
+So during backpropagation and parameter update phase, W =  W - alpha(dW), where dW = dW(with regularization) + lambda/m * W. Hence, this helps to drive the update parameter
+faster to zero. The larger the lambda the faster weights decay or go to zero.
+
+## How regularization Prevents overfitting
+In addition, to the explanation above. If the regularization term is large, Z = Weights x A + bias will be small leading to activation function(tanh) being Linear
+and not capturing complex structures.
+
+## Drop Out regularization
+Drop out is a technique for regularization in deep learning. Most common technique for implementing dropout is the inverted technique.
+Remember during testing dropout should be deactivated. As this can randomize your output and you don't want this.
+
+Other method of regularization include data augmentation but distorting training examples by maybe rotations functions.
+Also we have early stopping technique.
+
+## Normalization of Input Features.
+This makes it easier for the cost function J  to be optimized.i.e gradient descent easily converge.
+
+## Vanishing and Exploding Gradients.
+Deep learning models suffer from the problem of vanishing and exploding gradients.
+* If the initial weights are slightly greater than 1 or the Identity matrix, for very deep neural networks, then the weights tend to grow exponentially.
+* If the initial weights are slightly less than 1 or ID matrix for very deep neural networks, then the weights tend to decrease exponentially.
+
+Some techniques exist to help to mitigate the vanishing and exploding problem of weights in DL neural NETWORKS
+* By setting the variance of the weights to (2 / n) where n is the number of neurons for that particular layer, and then using it to randomly initialize
+the weights,  helps prevent weights from Exploding or vanishing.
+* Also, based on the activation used such as sigmoid, tanh or Relu, the variance expression changes.
+* Xavier initialization is another technique used to mitigate this problem.
+* He initialization is another technique used for Initialization
+* The method of initialization affects the performance of the DL
+
+We use Gradient Checking only for debugging purposes. This helps to know if your backpropagation implementation is correctly implemented.
+Gradient checking doesnt work with dropout.
