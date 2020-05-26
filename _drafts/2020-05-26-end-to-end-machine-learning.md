@@ -10,10 +10,10 @@ excerpt: "
 Consider this article your cheatsheet for machine learning concepts and implementation tips."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/school_small.jpg"
+    teaser: "https://cdn-images-1.medium.com/max/2560/1*ZTSPd7GOziRlmceUxjIk9w.jpeg"
 comments: true
-toc: true
-toc_sticky: true
+toc:
+toc_sticky:
 ---
 
 
