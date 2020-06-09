@@ -125,12 +125,12 @@ This gives you an unbiased estimate of the model performance.
 
 In some cases, if your model is trained with for example,a set of images that are cleaner and well organised, than
 the actual images that will be tested with the model after deployment. This can result in a huge test error.
-The advice here is to train your model with the test set , however the dev set should be the same as the test set.
+The advice here is to train your model with the train set , however the dev set should be the same as the test set.
 
 ## Bias and Variance in Deep Learning.
 
 Bias and variance terms stem from the train and dev errors. If you have a low training error, and high dev error, then your model has a high variance and hence overfitting. If your model has a high train error and high dev error, then it has low variance and high bias and therefore underfitting.
-High train and dev-error implies that your model has high variance and high bias. Conversely, low train and low-dev error results low bias and low variance
+High train and dev-error implies that your model has low variance and high bias. Conversely, low train and low-dev error results low bias and low variance
 
 ##Technical Steps to Diagnose DL
 After building ur DL, check if you have high bias i.e high training error. If yes, you can then follow some steps to reduce this error.
@@ -143,7 +143,7 @@ up of the sum of weight matrices for all layers in the network.
 ###Note: Why and how Does L2 Regularization affect the values of the model parameters or Weights.
 
 When L2 regularization is added to the cost function, this regularization contributes to positively to the partial derivatives of the cost function wrt to the weights.
-So during backpropagation and parameter update phase, W =  W - alpha(dW), where dW = dW(with regularization) + lambda/m * W. Hence, this helps to drive the update parameter
+So during backpropagation and parameter update phase, W =  W - alpha(dW), where dW = dW(without regularization) + lambda/m * W. Hence, this helps to drive the update parameter
 faster to zero. The larger the lambda the faster weights decay or go to zero.
 
 ## How regularization Prevents overfitting
@@ -152,7 +152,7 @@ and not capturing complex structures.
 
 ## Drop Out regularization
 Drop out is a technique for regularization in deep learning. Most common technique for implementing dropout is the inverted technique.
-Remember during testing dropout should be deactivated. As this can randomize your output and you don't want this.
+Remember during testing, dropout should be deactivated. As this can randomize your output and you don't want this.
 
 Other method of regularization include data augmentation but distorting training examples by maybe rotations functions.
 Also we have early stopping technique.
@@ -175,3 +175,78 @@ the weights,  helps prevent weights from Exploding or vanishing.
 
 We use Gradient Checking only for debugging purposes. This helps to know if your backpropagation implementation is correctly implemented.
 Gradient checking doesnt work with dropout.
+
+## Week 2
+
+For very very large dataset, we implement mini-batch gradient algorithm instead of the normal batch gradient descent. This increasing the speed of computing the
+model parameters, by splitting the dataset into mini-batches. For each mini-batch, the weights of the model are updated contrary to batch case where weights are
+only updated after going through the entire dataset.
+
+* ## Choosing Mini-batch Sizes
+If your training examples, m < 2000, just implement the batch gradient descent. If m > 2000, then you can choose mini-batch size to be powers of 2 such as
+64, 128, 256, 512, 1024.
+
+## Gradient Descent with Momentum
+In this algorithm, the weights and biases of the gradient descent algorithm are updated using the exponentially weighted average of the computed Gradients
+instead of using the computed gradients directly. This helps to speed up gradient descent algorithm.
+i.e  dW and db is computed, then Vdw = beta * Vdw + (1-beta)*dW; Vdb = beta * Vdb + (1 - beta)*db ;
+
+  then W = W - alpha * Vdw; b = b - alpha * vdb
+
+beta is normally  = 0.9
+This technique permits gradient descent to converge faster in a smooth pattern.
+For implementation bias correction is often ignored(dont worry about it)
+
+
+## RMSProp (Root mean square Prop) optimization algorithm
+This is another algorithm that can also be used to speed up or optimize batch, SGD and mini batch gradient descent algorithm.
+Here we compute the weight and bias gradients dW and dB;
+then we compute; Sdw = beta * Sdw + (1-beta)* square(dW) ; Sdb = beta * Sdb + (1-beta)*square(dB)
+then update weights and bias with; W = W - alpha * (dW / sqrt(Sdw + epsilon)) ; b = b - alpha * (dB / sqrt(Sdb + epsilon))
+
+beta is normally = 0.999 ; epsilon = 10^-8
+
+## Adam Optimization
+This is an optimization algorithm that simply combines the exponentially weighted average and RMSprop algorithm in order to
+speed up mini-batch gradient descent algorithm.
+## Note:
+* The beta hyperparameters of the 2 algorithms are different.
+* Bias correction is implemented in Adam optimization
+
+So in Adam optimization, we compute Vdw, Vdb , Sdw, Sdb and then Vdwc, Vdbc , Sdwc, Sdbc (bias corrected terms)
+Finally update weights and bias as follows:
+W = W - alpha * Vdwc / sqrt(Sdwc + epsilon) ; b = b - alpha * Vdbw / sqrt(Sdbw + epsilon)
+
+Adam means Adaptive moment estimation
+
+
+* Learning rate decay is also a method that is often used to speed up learning algorithm by slowly decreasing learning rate over time.
+alpha =    (1 / (1 - decay_rate * epoch_num)) * alpha
+
+
+## Week 3
+
+Hyperparameters tuning
+
+Batch normalization is the process for which the Z-values of the neurons of the layers in a neural network are normalized by computing the mean and standard deviations.
+In batch norm after computing mean and standard deviation we do perform another computation before fitting these final values to the NN
+This helps to speed up the learning algorithm.
+
+Generally after computing Z, we compute batch norm to Z then we pass the final values to activation function. i.e batch norm occurs between Z and activation.
+
+using batch norm eliminates the bias, b terms of your NN. i.e you can set bias = 0
+Batch norm has a slight regularization effect.
+* Note that batch norm is implemented over each mini-batch
+
+## Batch Norm during test time
+Since mean and std deviation is computed for each minibatch during training, using these values during testing with just a single unseen example is incorrect.
+Hence, during testing, we compute new mean and standard deviation which is exponentially weighted averages of the means and standard deviations from the minibatches during training. This is then used for normalization and hence finally prediction.
+
+## Multiclass Classification.
+In DL NNs, we use softmax activation function at the final output layer to compute the probability that the input X belongs to one of the classes in the dataset.
+Softmax activation function has a unique property that it's input is a vector and its output is a vector of same dimension(probabilities). This is contrary to
+sigmoid activation that outputs a real number.
+A SOFTMAX layer generalizes SIGMOID to when there are more than two classes.
+
+## Introduction to Deep learning frameworks:
+Some of the mst popular include, Tensorflow, keras, caffe, pytorch, theanos,
