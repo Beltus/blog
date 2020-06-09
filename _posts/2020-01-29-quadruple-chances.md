@@ -70,7 +70,7 @@ Specifically for scholarships related to academics like **undergraduate, graduat
 For example, roughly between the months of ***November and February*** you will notice a significant number of scholarships open, especially for the Fall semester of the coming academic year. However, you will, of course, find scholarships randomly distributed throughout the calendar. So, by keeping this in mind, you can be getting your motivation letter written and other documents ready while waiting for such hot periods.
 
 ## 4. Everything Counts.
-https://cdn-images-1.medium.com/max/800/1*BV2g8zLqIaSoAsnW3wtlWg.jpeg
+![](https://cdn-images-1.medium.com/max/800/1*BV2g8zLqIaSoAsnW3wtlWg.jpeg)
 
 When applying for a scholarship, everything counts. I mean **everything**. From the **little volunteering service** you did back in high-school to being an **active member of your school association**.
 
