@@ -105,7 +105,7 @@ I hope this information is helpful to you and wish you all success in pursuing y
 > HAPPY FISHING GUYS…
 
 
-Before you leave, don't forget to subscribe below and receive latest updates on my articles.
+Before you leave, don't forget to subscribe below and receive a free copy of the **Secrets of Nailing your Scholarship Interviews** delivered directly to your inbox.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">

@@ -1,11 +1,3 @@
-## My Take About the Course
-
-I like the fact it was designed with python with an inbuilt ipython notebook. This removes the stress of setting up a python environment for beginners.
-
-
-
-
-
 
 # Neural Networks and Deep Learning Course.
 
@@ -109,7 +101,7 @@ Non-linear activation functions are critical for deep NNs because, the help the 
 It is important to randomly initialize the weights of the NN with very small values. Initializing to zero, is not advisable as the computated activation values of neurons remain thesame resulting in a model that doesnt learn with increase number of iterations.
 
 
-###WEEK 4 HIGHLIGHTS
+### WEEK 4 HIGHLIGHTS
 ## Hyperparameters of Deep Learning Neural networks
 
 *Learning parameter
@@ -118,7 +110,7 @@ It is important to randomly initialize the weights of the NN with very small val
 * Number of units per layers
 
 
-### COURSE 2: IMPROVING DEEP NEURAL NETWORKS
+## COURSE 2: IMPROVING DEEP NEURAL NETWORKS
 
 In machine learning it is advicable to always split your dataset to train-dev-test set.
 This gives you an unbiased estimate of the model performance.
@@ -176,7 +168,7 @@ the weights,  helps prevent weights from Exploding or vanishing.
 We use Gradient Checking only for debugging purposes. This helps to know if your backpropagation implementation is correctly implemented.
 Gradient checking doesnt work with dropout.
 
-## Week 2
+# Week 2
 
 For very very large dataset, we implement mini-batch gradient algorithm instead of the normal batch gradient descent. This increasing the speed of computing the
 model parameters, by splitting the dataset into mini-batches. For each mini-batch, the weights of the model are updated contrary to batch case where weights are
@@ -250,3 +242,18 @@ A SOFTMAX layer generalizes SIGMOID to when there are more than two classes.
 
 ## Introduction to Deep learning frameworks:
 Some of the mst popular include, Tensorflow, keras, caffe, pytorch, theanos,
+
+
+
+
+
+
+## Course 3: STRUCTURING MACHINE LEARNING PROJECTS
+
+In the evaluation of a machine learning model, it might not be sufficient to evaluate the model using only one single row number metric such as accuracy or F1-Score.
+In such cases, it is important to set up optimizing metric(e.g accuracy) and satisficing metric(minimizing running time).
+
+
+Note: When developing ML models, make sure that,your train and dev sets come from thesame distribution. If not, your model will perform terribly on the dev set or test set.
+
+Split your training data into Train/Dev/Test sets. In modern day deep learning, we use more samples for training and very small proportion is set for Dev and Test sets. For examples if we have a dataset of 1.000.000 datapoints, we can set 98% for training, 1% for Dev and 1% for Test set. This is because deep learning model have so much hunger for data.
