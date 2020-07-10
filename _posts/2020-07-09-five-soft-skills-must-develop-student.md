@@ -3,7 +3,7 @@ layout: single
 published: true
 title: Five Golden Soft Skills Every Student Should Develop.
 collection: sc
-author_profile: 
+author_profile:
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
@@ -21,7 +21,7 @@ toc_sticky: true
 Photo by [Quino Al](https://unsplash.com/@quinoal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/skills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## Introduction
-The world we live in today is a fierce competition and only the best stand a chance of winning. If you ain't ready, it's going to be a rather grueling and ferocious battle.
+In this era of accelerated change, overwhelming complexities, tremendous competition, only the best stand a chance of winning. If you ain't ready, it's going to be a rather grueling and ferocious battle.
 
 The question becomes, how can you ensure that you are one step ahead before the war even begins?
 
