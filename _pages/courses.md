@@ -46,7 +46,7 @@ Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/mach
 
  Check out my article summarizing the entire course in just 25 minutes [<i class="fas fa-link" aria-hidden="true"></i>](https://medium.com/towards-artificial-intelligence/an-end-to-end-comprehensive-summary-of-machine-learning-df30fa149c94)
 
- -----------------------------------------------------------
+ ----------------------------------------------------------------------------------------
 
 
 ### <a name="Deep-Learning-Specialization"></a>Deep Learning Specialization | Deeplearning.ai
@@ -56,9 +56,9 @@ Tools: Jupyter Notebook , Python, Tensorflow
 Skill Gained: Tensorflow, Convolutional Neural Network, Artificial Neural Network, Deep Learning
 ,Backpropagation,Python Programming, Hyperparameter, Hyperparameter Optimization, Machine Learning, Inductive Transfer, Multi-Task Learning, Facial Recognition System
 
-#### General Specialization Outline: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/specializations/deep-learning)
+### General Specialization Outline: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/specializations/deep-learning)
 
-#### Course 1: Deep Learning and Neural Networks[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+### Course 1: Deep Learning and Neural Networks[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
  Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
@@ -71,10 +71,54 @@ Skill Gained: Tensorflow, Convolutional Neural Network, Artificial Neural Networ
 
 
 
-#### Course 2: Improving Deep Neural Networks: Hyperparameters tuning, Regularization and Optimization[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+### Course 2: Improving Deep Neural Networks: Hyperparameters tuning, Regularization and Optimization[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
  Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
  * Week 1:  Practical aspects Deep Learning
  * Week 2: Optimization algorithms
  * Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+
+Improving Deep Neural Networks Course Certificate [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/records/8HA7P38D8JQQ)
+
+### Course 3: Structuring Machine Learning Projects.[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+
+  Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+
+  * Week 1:  Machine Learning Strategy - Part 1
+  * Week 2: Machine Learning Strategy - Part 2
+
+  Structuring Machine Learning Projects Course Certificate (- Currently Enrolled) [<i class="fas fa-link" aria-hidden="true"></i>]()
+
+### Course 4: Convolutional Neural Networks[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+  * Week 1:  Foundations of Convolutional Neural Networks
+  * Week 2: Deep convolutional models: case studies
+  * Week 3: Object detection
+  * Week 4: Special applications: Face recognition & Neural style transfer
+
+Convolutional Neural Networks Course Certificate (- Incomplete) [<i class="fas fa-link" aria-hidden="true"></i>]()
+
+----------------------------------------------------------------------------------
+
+
+## AWS Machine Learning Foundations Course[<i class="fas fa-link" aria-hidden="true"></i>](https://www.udacity.com/)
+
+Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+  * Software Engineering Practices Part 1 and 2
+  * Introduction to Object-Oriented Programming
+  * Machine Learning with AWS DeepComposer
+  * Diving Deeper into Machine Learning
+
+AWS Machine Learning Foundation Course Certificate (- Currently Enrolled) [<i class="fas fa-link" aria-hidden="true"></i>]()
+
+------------------------------------------------------------------------------------------
+
+### <a name="Machine-Learning"></a>Introduction to Computer Science and Programming in Python | MIT OpenCourseware
+
+Syllabus: [<i class="fas fa-paperclip"></i>](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/)
+
+------------------------------------------------------------------------------------------
