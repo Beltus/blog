@@ -257,3 +257,5 @@ In such cases, it is important to set up optimizing metric(e.g accuracy) and sat
 Note: When developing ML models, make sure that,your train and dev sets come from thesame distribution. If not, your model will perform terribly on the dev set or test set.
 
 Split your training data into Train/Dev/Test sets. In modern day deep learning, we use more samples for training and very small proportion is set for Dev and Test sets. For examples if we have a dataset of 1.000.000 datapoints, we can set 98% for training, 1% for Dev and 1% for Test set. This is because deep learning model have so much hunger for data.
+
+In computer vision task, we can use human level error as a proxy for Bayes optimal error.

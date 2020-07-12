@@ -10,8 +10,8 @@ entries_layout: grid
 classes: wide
 ---
 
-Machine Learning articles can be found here with links to my Github page as well. Feel
-free to check up any topic that piques your interest in machine learning.
+Welcome to the Machine Learning section of this blog. Feel
+free to check up any topic that piques your interest in machine learning and don't stop until you are saturated...
 
 
 <div class="grid__wrapper">
