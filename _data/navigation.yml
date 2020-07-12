@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "Courses"
     url: /courses/
+  - title: "Books"
+      url: /books/
   - title: "About"
     url: /about/
   - title: "Search"
