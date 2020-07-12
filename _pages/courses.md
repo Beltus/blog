@@ -4,8 +4,8 @@ layout: single
 permalink: /courses/
 author_profile: true
 header:
-    image: "https://beltus.github.io/vision/assets/images/ml_long.jpg"
-    caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
+    image: "https://beltus.github.io/vision/assets/images/course.jpg"
+    caption: "Photo by [ASTERISK](https://unsplash.com/@asteriskyg) on [Unsplash](https://unsplash.com)"
 
 
 entries_layout: grid
