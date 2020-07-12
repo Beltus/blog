@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 header:
     image: "https://beltus.github.io/vision/assets/images/book.jpg"
-    caption: "Photo by [Susan Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com)"
+    caption: "Photo by [ASTERISK](https://unsplash.com/@asteriskyg) on [Unsplash](https://unsplash.com)"
 
 entries_layout: grid
 classes: wide
