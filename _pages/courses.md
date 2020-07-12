@@ -1,7 +1,7 @@
 ---
 title: "Courses"
 layout: single
-permalink: /cs/
+permalink: /courses/
 author_profile: true
 header:
     image: "https://beltus.github.io/vision/assets/images/ml_long.jpg"
