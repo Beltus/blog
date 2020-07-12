@@ -49,7 +49,7 @@ Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/mach
  -----------------------------------------------------------
 
 
- ## <a name="Deep-Learning-Specialization"></a>Deep Learning Specialization | Deeplearning.ai [<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/account/accomplishments/specialization/AEE26XQ29CD5)
+### <a name="Deep-Learning-Specialization"></a>Deep Learning Specialization | Deeplearning.ai
 
 Tools: Jupyter Notebook , Python, Tensorflow
 
@@ -58,7 +58,7 @@ Skill Gained: Tensorflow, Convolutional Neural Network, Artificial Neural Networ
 
 #### General Specialization Outline: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/specializations/deep-learning)
 
- ### Course 1: Deep Learning and Neural Networks[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+#### Course 1: Deep Learning and Neural Networks[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
  Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 
@@ -71,7 +71,7 @@ Skill Gained: Tensorflow, Convolutional Neural Network, Artificial Neural Networ
 
 
 
- ### Course 2: Improving Deep Neural Networks: Hyperparameters tuning, Regularization and Optimization[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+#### Course 2: Improving Deep Neural Networks: Hyperparameters tuning, Regularization and Optimization[<i class="fas fa-link" aria-hidden="true"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
  Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 
