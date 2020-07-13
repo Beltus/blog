@@ -24,6 +24,8 @@ Here you will find a list of some of my most favorite books that have drasticall
 - The Alchemist by *Paul Coelho*
 - The Seven Habits of Highly Effective People by *Stephen R. Covey*
 - The Road Less Traveled by *M.Scott Peck*
+- The Four Hour Work Week by *Tim Ferris*
+- The 100 absolute unbreakable laws of business success by *Brian Tracy*
 
 ## Current Book I am Reading.
 - The Miracle Morning by *Hal Elrod.* Expected Date of Completion 17-07-2020

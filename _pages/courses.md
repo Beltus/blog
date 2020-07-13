@@ -104,7 +104,8 @@ Convolutional Neural Networks Course Certificate (- Incomplete) [<i class="fas f
 ----------------------------------------------------------------------------------
 
 
-## AWS Machine Learning Foundations Course[<i class="fas fa-link" aria-hidden="true"></i>](https://www.udacity.com/)
+
+### <a name="AWS-Machine-Learning"></a>AWS Machine Learning Foundations Course[<i class="fas fa-link" aria-hidden="true"></i>](https://www.udacity.com/)
 
 Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 
@@ -115,6 +116,8 @@ Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/conv
 
 AWS Machine Learning Foundation Course Certificate (- Currently Enrolled) [<i class="fas fa-link" aria-hidden="true"></i>]()
 
+
+
 ------------------------------------------------------------------------------------------
 
 ### <a name="Machine-Learning"></a>Introduction to Computer Science and Programming in Python | MIT OpenCourseware
@@ -122,3 +125,16 @@ AWS Machine Learning Foundation Course Certificate (- Currently Enrolled) [<i cl
 Syllabus: [<i class="fas fa-paperclip"></i>](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/syllabus/)
 
 ------------------------------------------------------------------------------------------
+
+
+
+### <a name="AWS-Machine-Learning"></a>AWS Machine Learning Foundations Course[<i class="fas fa-link" aria-hidden="true"></i>](https://www.udacity.com/)
+
+Syllabus: [<i class="fas fa-paperclip"></i>](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+  * Software Engineering Practices Part 1 and 2
+  * Introduction to Object-Oriented Programming
+  * Machine Learning with AWS DeepComposer
+  * Diving Deeper into Machine Learning
+
+AWS Machine Learning Foundation Course Certificate (- Currently Enrolled) [<i class="fas fa-link" aria-hidden="true"></i>]()
