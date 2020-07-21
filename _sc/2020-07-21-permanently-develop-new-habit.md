@@ -141,7 +141,7 @@ Please Don't!! Stay committed, you almost there.
 
 During my uncomfortable phase of doing pushups, my arms and collar bones did not hurt any more hours after finishing the routine. However, I still dreaded the exercise every time I wanted to start. It was the same experience I had waking up early.
 
-### Phase 3: 21- 30 Days
+## Phase 3: 21- 30 Days
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*jVBtzfnj7KszhTn27B5uJQ.jpeg)
