@@ -81,7 +81,7 @@ Your chest, your knee, every muscle, and fiber of your body hurts. You are in ex
 
 You simply **quit.** You tell yourself it's too hard, it's not worth it and scuttle back home with your tail between your legs in utter frustration and disappointment.
 
-The real question to ask yourself is; **What did you expect?** To run like **Usain Bolt** after one year of no sports? Common! Who're you kidding?
+The real question to ask yourself is; **What did you expect?** To run like **Usain Bolt** after one year of no sports? Come on! Who're you kidding?
 
 Now, here is the ultimate game-changer approach to creating a new habit that has revolutionized the way I develop new habits and I believe it will also transform how you approach the development of your own new habits. 
 
