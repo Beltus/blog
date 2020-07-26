@@ -10,7 +10,7 @@ entries_layout: grid
 classes: wide
 ---
 
-Here is a list all the articles related to personal development and education I hope this helps you become the better and achieve your dreams. Have fun reading and don't forget to come back for more...
+Here is a list all the articles related to personal development and education. I hope this helps you become the best version of yourself and achieve your dreams. Have fun reading and don't forget to come back for more...
 
 
 <div class="grid__wrapper">
