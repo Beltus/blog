@@ -1,4 +1,4 @@
----
+bother---
 layout: single
 published: true
 title: Forget about Motivation. Here is what you need...
@@ -28,7 +28,7 @@ Or you wake up one morning so pumped up with energy that you decide to engage in
 
 I'm guessing you are smiling right now because you know pretty well what I'm talking about. In fact, I have done it countless times in the past.
 
-It became so normal that whenever I feel motivated I just tell myself it's going to pass anytime soon. So why even border to start working on a project when you just going to abandon it in a few minutes or days?
+It became so normal that whenever I feel motivated I just tell myself it's going to pass anytime soon. So why even bother to start working on a project when you just going to abandon it in a few minutes or days?
 
 It is pretty clear that motivation is super important to get us started, but it fails every time to get us across to the finish line. 
 
