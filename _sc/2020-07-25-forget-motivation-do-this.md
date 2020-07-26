@@ -135,8 +135,7 @@ For anyone wishing to be part of this prestigious group of committed readers fro
 
 ### Thanks for Reading!
 
-If you found this article helpful, feel free to reach out and connect with me...
-
+If you found this article helpful, feel free to **subscribe** below and never miss another article. Also feel free to reach out and connect with me...
 1.  You can follow me on **Medium** [here](https://medium.com/@nkwawirbeltus).
 2.  Follow me on **LinkedIn** [here](https://www.linkedin.com/in/beltus/).
 3.  Visit my website; [**beltus.github.io**](https://beltus.github.io/vision/blog/) for more interesting posts.
