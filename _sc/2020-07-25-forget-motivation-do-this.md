@@ -7,12 +7,12 @@ author_profile: true
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "
-There are millions of fishes in the sea but not everyone who goes fishing is able to catch one."
+If you have been relying on motivation to get things done but you never do, let's change that."
 header:
     overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
     teaser: "https://cdn-images-1.medium.com/max/2560/1*YgZn2BgVi0SxeT7D_J88RQ.jpeg"
 comments: true
-toc: 
+toc:
 toc_sticky:
 ---
 
