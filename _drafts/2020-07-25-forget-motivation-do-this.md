@@ -127,7 +127,7 @@ The concept of accountability that I shared with you in this article is a powerf
 
 If you loved reading this article, then you should definitely check out my recent article on how to permanently create a new habit based on what I learned from Hal Elrod.
 
-Try to use the accountability technique and please come back and share with us your stories of how it is has helped you to complete any task.
+Try to use the accountability technique and please come back and share with us your stories of how it has helped you to complete any task.
 
 For anyone wishing to be part of this prestigious group of committed readers from around the globe, feel free to contact me on any of the social media platforms.
 

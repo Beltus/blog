@@ -99,13 +99,13 @@ You need to put yourself in a situation where you are accountable to someone or 
 
 > But how can I get an accountability partner?
 
-Getting an accountability partner is super easy. I don't even want you to do that. I want you to get an **accountability group.** Look it easy to call your accountability partner and convince him/her that, you need a two weeks break and he/she will definitely understand.
+Getting an accountability partner is super easy. I don't even want you to do that. I want you to get an **accountability group.** Look, it's easy to call your accountability partner and convince him/her that, you need a two weeks break and he/she will definitely understand.
 
 But convincing a group of people that truly depend on you is way more challenging and that is what I want you to do. If you are dead serious about completing any project, get a freaking accountability group, and see the magic.
 
 Let's say for example you have decided to **learn how to create websites.** You had tried several times but you always gave up. Here is how you can hack your mind and get it done in less time than you ever thought possible.
 
-Find a small organization in your locality. Explain to them how the world has become a global village and organizations like their all have websites. Make them see the importance of a website and then offer to create one for them for **FREE!!. No charge. Nadar. Sifir.**
+Find a small organization in your locality. Explain to them how the world has become a global village and organizations like theirs all have websites. Make them see the importance of a website and then offer to create one for them for **FREE!!. No charge. Nadar. Sifir.**
 
 Next, give them a deadline of 2 weeks or a maximum of a month. Set a specific date and time. Let them know you are going to update them weekly, then get to work.
 
