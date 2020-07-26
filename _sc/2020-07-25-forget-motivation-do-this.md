@@ -73,7 +73,9 @@ For those who were bold enough to join, I warmly welcomed them and set the follo
 
 These rules were meant to reinforce the concept of accountability. I knew that, by stating your name and posting the above information for everyone to see, you become obligated to do it. It's like making a deal or signing a contract. No one wants to be a fraud or liar or pretender or anything bad. 
 
-Now, fast forward 3 weeks later. I completed a 500-page book in just 8 days and I am almost done reading my second book. My book reading club members especially those who started the same day with me, are all reading their second books at the moment of writing this article.
+Now, fast forward 3 weeks later. I completed a 500-page book in 8 days and I have just finished reading my second book **The Four-Hour Work Week** by Tim Ferris this morning before completing this article.
+
+My book reading club members especially those who started the same day with me, are almost done reading their second books as well as I write this article today.
 
 Remember that, these are normal guys and gals that could not even commit to reading 5 pages of a book a day, now some of them even surprised me by reading up to 60 pages some days. It is simply unbelievable.
 
@@ -125,7 +127,7 @@ You need an external driving force that will continuously push you even when you
 
 The concept of accountability that I shared with you in this article is a powerful preemptive technique that is going to ensure that you get through the stormy days of your awesome project and to the very end.
 
-If you loved reading this article, then you should definitely check out my recent article on how to permanently create a new habit based on what I learned from Hal Elrod.
+If you loved reading this article, then you should definitely check out my recent article on [**how to permanently create a new habit**](https://beltus.github.io/vision/sc/2020-07-21-permanently-develop-new-habit/) based on what I learned from Hal Elrod.
 
 Try to use the accountability technique and please come back and share with us your stories of how it is has helped you to complete any task.
 

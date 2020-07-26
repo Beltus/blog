@@ -125,7 +125,7 @@ You need an external driving force that will continuously push you even when you
 
 The concept of accountability that I shared with you in this article is a powerful preemptive technique that is going to ensure that you get through the stormy days of your awesome project and to the very end.
 
-If you loved reading this article, then you should definitely check out my recent article on how to permanently create a new habit based on what I learned from Hal Elrod.
+If you loved reading this article, then you should definitely check out my recent article on [**how to permanently create a new habit**](https://beltus.github.io/vision/sc/2020-07-21-permanently-develop-new-habit/) based on what I learned from Hal Elrod.
 
 Try to use the accountability technique and please come back and share with us your stories of how it is has helped you to complete any task.
 
