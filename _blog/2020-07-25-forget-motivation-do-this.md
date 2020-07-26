@@ -48,7 +48,7 @@ Before you continue reading this article, I want you to put this in mind. **Moti
 
 The answer is simple. It is **Accountability** and I am going to show you how shortly in this article. 
 
-Hal in his book suggested to his readers to each get what he calls an **accountability partner** to practice the lessons of the miracle morning with. It can be a friend, colleague, or even your dog if you are leaving on an isolated island in outer space(just kidding!)
+Hal in his book suggested to his readers to each get what he calls an **accountability partner** to practice the lessons of the miracle morning with. It can be a friend, colleague, or even your dog if you are living on an isolated island in outer space(just kidding!)
 
 ![](https://cdn-images-1.medium.com/max/800/1*fK09W596NqClK7TeLfHY9A.jpeg)
 
