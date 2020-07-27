@@ -1,4 +1,4 @@
-bother---
+---
 layout: single
 published: true
 title: Forget about Motivation. Here is what you need...
@@ -67,13 +67,16 @@ For those who were bold enough to join, I warmly welcomed them and set the follo
 1.  Choose a book you love to read.
 2.  Calculate the number of chapters or pages in the book
 3.  State the number of chapters or pages you will be reading daily
-4.  State the date you going to begin reading
+4.  State the date you're going to begin reading
 5.  Calculate the end date of completing the book
 6.  Post it in the group.
 
 These rules were meant to reinforce the concept of accountability. I knew that, by stating your name and posting the above information for everyone to see, you become obligated to do it. It's like making a deal or signing a contract. No one wants to be a fraud or liar or pretender or anything bad. 
 
-Now, fast forward 3 weeks later. I completed a 500-page book in just 8 days and I am almost done reading my second book. My book reading club members especially those who started the same day with me, are all reading their second books at the moment of writing this article.
+
+Now, fast forward 3 weeks later. I completed a 500-page book in 8 days and I have just finished reading my second book **The Four-Hour Work Week** by Tim Ferris this morning before completing this article.
+
+My book reading club members especially those who started the same day with me, are almost done reading their second books as well as I write this article today.
 
 Remember that, these are normal guys and gals that could not even commit to reading 5 pages of a book a day, now some of them even surprised me by reading up to 60 pages some days. It is simply unbelievable.
 
