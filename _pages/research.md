@@ -1,7 +1,7 @@
 ---
 title: "Books"
 layout: single
-permalink: /research/
+permalink: 
 author_profile: true
 header:
     image: "https://beltus.github.io/vision/assets/images/data.jpeg"
