@@ -23,6 +23,10 @@ Here you will find articles ranging from Artificial Intelligence topics to Educa
 ## List of all Articles
 List of all the articles in this blog is provided below.
 
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/af24155f302fd6d6bb6913dc9/39a2cace563d54e7d3d151992.js");</script>
+
+
 <div class="grid__wrapper">
   {% assign collection = 'blog' %}
   {% assign posts = site[collection] | reverse %}
