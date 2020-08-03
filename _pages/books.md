@@ -27,10 +27,10 @@ Here you will find a list of some of my most favorite books that have drasticall
 - The Four Hour Work Week by *Tim Ferris*
 - The 100 absolute unbreakable laws of business success by *Brian Tracy*
 - The Miracle Morning by *Hal Elrod*.
-
+- Eat that Frog by *Brian Tracy.*
 
 ## Current Book I am Reading.
-- Eat that Frog by *Brian Tracy.* Reading it for the second time. Expected Date of Completion 30-07-2020
+- On Writing Well by *Wiliam Zinsser.* Expected Date of Completion 11-08-2020
 
 ## Which Book to Read Next?
 At the moment, I don't know. I would love to know some of the books that have changed your lives. Please, share with me at the comments section of this page.
