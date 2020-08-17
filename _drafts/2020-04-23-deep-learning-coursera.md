@@ -48,7 +48,7 @@ To train the parameters W and b of the logistic regression model, we need to fir
 
 We can define a Loss function, L(y, y_hat) for a single training example as
 
-L(y, y_hat) = -(ylog(y) + (1 - y)*log(1 - y_hat))
+L(y, y_hat) = -(ylog(y) + (1 - y_hat)*log(1 - y_hat))
 
 and the cost function is the average error over the entire training Examples
 J(W, b) = 1 / m * sum(L(y, y_hat))
@@ -90,15 +90,15 @@ Vectorization in Neural Networks
 
 ## Activations functions in Neural networks
 1. Sigmoid function
-2. Tanh fucntion which ranges from 1 to -1. This function is preferred to sigmoid fucntion. So generally,
+2. Tanh fucntion which ranges from 1 to -1. This function is preferred to sigmoid function. So generally,
 we use the tanh activation function for the hidden layers and then sigmoid activation for the output layer since it outputs 0 and 1 similar to labels, y in
 binary classification
 3. Rectified Linear Unit(ReLu) has gain alot of popularity for hidden layers and is commonly used.
 
-Non-linear activation functions are critical for deep NNs because, the help the network learn more interesting features. Linear activation functions if used results only in the linear combination inputs.
+Non-linear activation functions are critical for deep NNs because, they help the network learn more interesting features. Linear activation functions if used results only in the linear combination inputs.
 
 ### Random Initialization
-It is important to randomly initialize the weights of the NN with very small values. Initializing to zero, is not advisable as the computated activation values of neurons remain thesame resulting in a model that doesnt learn with increase number of iterations.
+It is important to randomly initialize the weights of the NN with very small values. Initializing to zero, is not advisable as the computed activation values of neurons remain the same resulting in a model that doesn't learn with increase number of iterations.
 
 
 ### WEEK 4 HIGHLIGHTS
@@ -112,20 +112,20 @@ It is important to randomly initialize the weights of the NN with very small val
 
 ## COURSE 2: IMPROVING DEEP NEURAL NETWORKS
 
-In machine learning it is advicable to always split your dataset to train-dev-test set.
+In machine learning it is advisable to always split your data set to train-dev-test set.
 This gives you an unbiased estimate of the model performance.
 
-In some cases, if your model is trained with for example,a set of images that are cleaner and well organised, than
+In some cases, if your model is trained with for example,a set of images that are cleaner and well organized, than
 the actual images that will be tested with the model after deployment. This can result in a huge test error.
 The advice here is to train your model with the train set , however the dev set should be the same as the test set.
 
 ## Bias and Variance in Deep Learning.
 
 Bias and variance terms stem from the train and dev errors. If you have a low training error, and high dev error, then your model has a high variance and hence overfitting. If your model has a high train error and high dev error, then it has low variance and high bias and therefore underfitting.
-High train and dev-error implies that your model has low variance and high bias. Conversely, low train and low-dev error results low bias and low variance
+High train and dev-error implies that your model has low variance and high bias. Conversely, low train and low-dev error results low bias and low variance which is preferable
 
 ##Technical Steps to Diagnose DL
-After building ur DL, check if you have high bias i.e high training error. If yes, you can then follow some steps to reduce this error.
+After building ur DL model, check if you have high bias i.e high training error. If yes, you can then follow some steps to reduce this error.
 After lowering the training error, check if your model has high variance, by testing error on dev set. if yes, follow certain steps towards reducing high variance.
 The methods to lowering these bias and variance can be quite different.
 
@@ -170,7 +170,7 @@ Gradient checking doesnt work with dropout.
 
 # Week 2
 
-For very very large dataset, we implement mini-batch gradient algorithm instead of the normal batch gradient descent. This increasing the speed of computing the
+For very very large dataset, we implement mini-batch gradient algorithm instead of the normal batch gradient descent. This increases the speed of computing the
 model parameters, by splitting the dataset into mini-batches. For each mini-batch, the weights of the model are updated contrary to batch case where weights are
 only updated after going through the entire dataset.
 
@@ -250,6 +250,7 @@ Some of the mst popular include, Tensorflow, keras, caffe, pytorch, theanos,
 
 ## Course 3: STRUCTURING MACHINE LEARNING PROJECTS
 
+
 In the evaluation of a machine learning model, it might not be sufficient to evaluate the model using only one single row number metric such as accuracy or F1-Score.
 In such cases, it is important to set up optimizing metric(e.g accuracy) and satisficing metric(minimizing running time).
 
@@ -259,3 +260,31 @@ Note: When developing ML models, make sure that,your train and dev sets come fro
 Split your training data into Train/Dev/Test sets. In modern day deep learning, we use more samples for training and very small proportion is set for Dev and Test sets. For examples if we have a dataset of 1.000.000 datapoints, we can set 98% for training, 1% for Dev and 1% for Test set. This is because deep learning model have so much hunger for data.
 
 In computer vision task, we can use human level error as a proxy for Bayes optimal error.
+
+The Baye's optimal error is the best possible theoretical error that a model can ever attain but can't surpass
+
+Human error percentage gives you an idea of how much you can improve your model performance. So, for example, if humans get a 1% error and your model
+get 8% training error, then there is room for improvement of your model. In contrary, if human level error was 7.5% and your model percentage was 8% then your model is actually
+doing pretty well.
+Based on these analysis you can then focus on using either bias tactics or variance tactics to mitigate and improve the performance of the model.
+
+Human level error gives us a proxy or aproximate of what Baye's optimal error can be.
+The difference between the human level error and training error is called the measure of avoidable bias
+The difference between train and dev error gives you an idea of variance.
+
+The main thing to note here, is that, in the previous course, we usually compare training error to 0% but here, we are comparing it to human level performance that
+can be zero or non-zero. Remember human error performance can be surpassed and it is just a rough estimate of Baye's optimal error
+
+## How to Improve Model Performance
+There are 2 fundamental assumptions to consider whenever you buid a supervised learning model
+1. That it fits the training set pretty well i.e achieves low avoidable bias
+2. That the training performance generalizes well on the dev and test set.
+
+In order to reduce Avoidable bias i.e error between human level error and training error do the following:
+1. Train a bigger network
+2. Train better/ longer optimization algorithms by maybe applying momentum, RMSPRob or AdamProb
+
+In order to reduce Variance i.e the error between training and dev set, try the following:
+1. Use more data for training
+2. Applying regularization techniques e.g L2, Drop out, Data augmentation
+3. Search for a better NN architecture / hyperparameters better suited for the problem
