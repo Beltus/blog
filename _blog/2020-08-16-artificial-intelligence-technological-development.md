@@ -17,7 +17,7 @@ toc_sticky: true
 ---
 
 
-### Artificial Intelligence and Technological Development.
+# Artificial Intelligence and Technological Development.
 
 ![](https://cdn-images-1.medium.com/max/1200/0*otY1Gyxgq3Lm4V-W.jpg)
 
@@ -29,7 +29,7 @@ source: <http://enterprisetalk.ondot.media/tech-trends/ai/human-intelligence-can
 -   Brief History of Artificial Intelligence
 -   Sub-sections of Artificial Intelligence
 -   Leading Companies in Artificial Intelligence Today
--   Major Industries Artificial Intelligenhttps://beltus.github.io/vision/assets/images/school_small.jpgce is Transforming Today
+-   Major Industries Artificial Intelligence is Transforming Today
 -   Artificial Intelligence existing in our Everyday Life
 -   Future of Artificial Intelligence
 
@@ -217,19 +217,6 @@ If you found this article helpful, feel free to reach out and connect with me...
 *This is the first of a multi-part series explaining the fundamentals of deep learning by long-time tech journalist...*blogs.nvidia.com](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/ "https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/")[](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 <https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/#1d5277db403c>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

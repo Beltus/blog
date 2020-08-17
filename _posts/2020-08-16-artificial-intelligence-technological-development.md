@@ -17,7 +17,7 @@ toc_sticky: true
 ---
 
 
-### Artificial Intelligence and Technological Development.
+# Artificial Intelligence and Technological Development.
 
 ![](https://cdn-images-1.medium.com/max/1200/0*otY1Gyxgq3Lm4V-W.jpg)
 
@@ -29,7 +29,7 @@ source: <http://enterprisetalk.ondot.media/tech-trends/ai/human-intelligence-can
 -   Brief History of Artificial Intelligence
 -   Sub-sections of Artificial Intelligence
 -   Leading Companies in Artificial Intelligence Today
--   Major Industries Artificial Intelligenhttps://beltus.github.io/vision/assets/images/school_small.jpgce is Transforming Today
+-   Major Industries Artificial Intelligence is Transforming Today
 -   Artificial Intelligence existing in our Everyday Life
 -   Future of Artificial Intelligence
 
