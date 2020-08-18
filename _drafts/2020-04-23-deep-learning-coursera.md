@@ -268,7 +268,7 @@ get 8% training error, then there is room for improvement of your model. In cont
 doing pretty well.
 Based on these analysis you can then focus on using either bias tactics or variance tactics to mitigate and improve the performance of the model.
 
-Human level error gives us a proxy or aproximate of what Baye's optimal error can be.
+Human level error gives us a proxy or approximate of what Baye's optimal error can be.
 The difference between the human level error and training error is called the measure of avoidable bias
 The difference between train and dev error gives you an idea of variance.
 
@@ -276,7 +276,7 @@ The main thing to note here, is that, in the previous course, we usually compare
 can be zero or non-zero. Remember human error performance can be surpassed and it is just a rough estimate of Baye's optimal error
 
 ## How to Improve Model Performance
-There are 2 fundamental assumptions to consider whenever you buid a supervised learning model
+There are 2 fundamental assumptions to consider whenever you build a supervised learning model
 1. That it fits the training set pretty well i.e achieves low avoidable bias
 2. That the training performance generalizes well on the dev and test set.
 
@@ -288,3 +288,22 @@ In order to reduce Variance i.e the error between training and dev set, try the 
 1. Use more data for training
 2. Applying regularization techniques e.g L2, Drop out, Data augmentation
 3. Search for a better NN architecture / hyperparameters better suited for the problem
+
+
+### WEEK 2
+
+#### Error analysis
+* Always examine the dev set to see the class images that are being misclassified by your model. This will give you an idea of the particular class that is misclassified most and improve on that  class.
+
+You can use a spreadsheet to make notes of the number of dogs or cats that are being misclassified in the dev set. Then compute the percentages. Also, check number of the images are blurry and kinda indistinguishable. So your columns can be labelled Dogs, Cats, Blurry, Instagram-like filtered Images, Comments.
+
+###Cleaning up Incorrectly Labeled data
+
+* DL models are very robust to random errors but it is not robust to systematic errors e.g if a model keeps misclasifying white dogs as cats, then this is a problem.
+
+#####Advice from Andrew Ng.
+Build your first ML or DL system quick and then reiterate. Do this by doing the following:
+1. Setup train/dev/test sets and metric
+2. Build initial system quickly
+3. 
+2.
