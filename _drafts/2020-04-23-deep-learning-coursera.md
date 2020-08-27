@@ -305,5 +305,175 @@ You can use a spreadsheet to make notes of the number of dogs or cats that are b
 Build your first ML or DL system quick and then reiterate. Do this by doing the following:
 1. Setup train/dev/test sets and metric
 2. Build initial system quickly
-3. 
-2.
+3. Use Bias/Variance analysis and error analysis to prioritize the next step.
+
+##### Training and Testing on Different Distributions.
+IF your train and dev set are from different sources and hence different distributions, then you...
+Option 1:  Combine them and then shuffle to make them same. Then split into train/dev/test set. This is not recommended
+
+Option 2: Consider we 200.000 cat images from web for training and 10.000 cat images from mobile phones making them 2 different distributions; So we can use 205000 cat images for training, 2500 for dev from mobile app and 25000 cat images from mobile app for test set. This is recommended.
+
+
+### Bias / Variance Mismatched Problems
+
+* The difference between human error and training set error gives avoidable bias estimated
+* The difference between training set erro and training-dev set error (from same distribution as trianing set), gives the variance.
+* The difference between the training-dev set error and the dev set error gives us an idea of data mismatch
+* The difference between dev set error and the test set error gives an idea of the degree of overfitting.
+
+
+#### Addressing Data Mismatch
+* Data mismatch comes from the fact that, training set comes from a different distribution different from Dev and Test set.
+
+To address this, we try to make training data similar to dev set by finding more data. This is can be done by artificial  synthesize data. Artificial data synthesis works in speech recognition, computer vision etc
+
+#### Transfer LEARNING
+
+
+The concept of training a ANN for a different task and the using the pretrained weights to train a different ANN for a completely different task.
+
+The process of training the first ANN is called Pretraining and the augmented NN is called Fine tuning.
+
+This is usually done by taking out the last layer of the pretraining network and then attaching the new dataset to that layer while using the pretraining weights.
+
+
+Using a pretrain network is good because, the pretrain model already understands what for example images or voice are, before you use it for your application in an image or speech recognition system.
+
+When does transfer learning make sense?
+
+* Task A and B have thesame input e.g images or voice
+* You hae a lot more data for Task A than Task B
+* Low level features from A could be helpful for learning B
+
+#### Multitask Level
+Here we try to predict multiple objects at thesame time for one single input. E.g an image having multiple labels like a car, pedestrian, traffic sign.
+i.e you train one neural network to do four things and not seperate four networks.
+
+### End to End Deep Learning.
+It simply bypasses the normal machine learning process of feature extraction and then identifying for example an object. That is, it simply uses alot of data to directly train model from input to output. It learns a direct mapping from input to output.
+
+###Pros of End to End Deep learning/
+* Let the data speak i.e
+* no design of hand crafted Features
+
+###Cons
+* Needs alot of data
+* Excludes potentially useful hand design components
+
+
+
+
+COURSE 4: CONVOLUTIONAL NEURAL NETWORKS
+
+### Computer Vision problems
+1. Image classification e.g detect if an image has a cat
+2. Object Detection e.g SDC by detects and draws boxes around detected objects and multiple objects can be detected
+3. Neural Style Transfer e.g Having a content and style by painting the content image in the style of the style image
+
+In CNN, the filters are considered as parameters that the model can learn and then convolve with the image to learn the more complicated features that are a better representation of the image than hand crafted filters such as sobel filter for edge detection.
+
+Convolutional operation without padding results in the image shrinking. Also, lots of information is being lost at the edges of the images. To fix this, we apply padding to the image before applying convolution operation.
+Normally we pad with zeros.
+For example;  we have an image of n X n dimensions to convolve with a filter of f X f dimensions. Without padding the resulting image will be of dimension, n - f + 1 X n - f + 1
+
+With a padding, p = 1, the dimensions of the output image then becomes; n + 2p - f + 1 X n + 2p - f + 1 ; which maintains the dimensions of the original image.
+
+* Valid Convolution Padding means no padding before Convolution
+* Same Convolution Padding means output size equals input size.
+
+Given the filter size, we can solve for p in the equation n + 2p - f + 1 = n ; to know the number of padding to add to the input image
+
+Strided CONVOLUTION
+
+This is when we shift the filter by a number equal to or different from one during the convolution operation.
+
+So let's calculate output image Sizes
+Let stride s, and padding be p. input size image is n x n and filter, f x f , then output convolved image will be of dimension [(n + 2p - f + 1 )/s  + 1 ] X  [(n + 2p - f + 1 ) / s  + 1 ]/ 2
+If the filter size f x f is even, always round down the padding number.
+
+For RGB images with 3 channels, the filter used for convolution too has to match the number of channels of the image. For example convolving a 6 x 6 x 3 image with a 3 x 3 x 3 filter results in a 4 X 4 image. Not a 4 X 4 X 3 image. Each image channel is convolved with its corresponding filter and then, they're are all summed up to give a single number in the convolved image.
+
+In order to detect different types of edges such as detecting vertical edges, horizontal edges, 45-degrees etc, in an image, we apply the the corresponding filters to this image and then stack each output from each filter convolution to have your final image.
+
+For example, let nc = number of channel or depth, so convolution operation with n X n X nc image with f X f X nc results  in n - f + 1 X n - f + 1 X nc* where nc* is the number of filters.
+
+* As a rule, if you have r - number of filters, then you're convolution output image will have a ( n X n X r) dimensions. Where n = height and width of image after convolution.
+
+####The below paragraph is wrt to a Convolutional Layer
+
+* The analogy of CNN to ANN, is that, the filters in CNN represent the weight matrix in ANN. i.e the number of parameters in a single layer. For example, Given 10 filters that are 3 X 3 X 3 in one layer of  a neural network, the number of parameters in that layer is ( 3 * 3 * 3 + bias) * 10 = 28*10 = 280
+
+Notice that, irrespective of the size of the input image, the number of parameters remain fixed at 280 and can be used to detect vertical edges, horizontal edges etc. This makes cNNs less prune to overfitting
+
+### Pooling layers - Max Pooling layer
+
+*It kinda helps to filter out and keep the most important features in our image while reducing the size of image and therefore complexity. The output size of the max pooling layer is computed using same formula above of convolution operation.
+
+For an input image with nc number channels, the maxpool output layer will have same number of channels, nc. Max pool computation is done independently on each of the channels of the input image.
+
+Another type of pooling is called the Average pooling where the average of each square section of input image is computed and outputed.
+* In Pooling, there are no parameters to learn. There are just hyperparameters that you set.
+
+* A layer in a ConNet is defined as Conv layer + Pool layer as a single layer. Sometimes, conv layer and pool layers are regarded as seperate layers
+
+As you go deeper in a CNN, the height and width of the input image decreases. While the number of channels increases. This is general pattern. Also, one or more conv layer followed by pool layers and then one or more conv layer and then pool layer, then fully connected layer and finally softmax. this is another pattern.
+
+Advantages of Conv layers to Fully connected layers is parameter sharing and sparsity of connections
+
+
+### Note that the filter dimensions has to match the number of channels in the image it is being convolved with. However, the output dimensions of the image is dependent on the number of filters used.
+
+### WEEK 2
+
+## Classic Network Architecture
+Some classic Neural Networks include LeNet-5 , AlexNet, VGG
+
+* LeNet-5 was aimed at identifying handwritten digits. This had
+K parameters.
+* AlexNet was similar to LeNet but much bigger. And was used to detect many objects and had about million parameters
+* VGG-16 uses the "same padding" so the image size doesnt decrease as we go deeper into the network, after a convolution operation. This is contrary to the 2 above networks that use "valid padding".
+ in VGG means the network has 16 layers with weights in the architecture. We also have VGG-19 which is bigger than VGG-16
+
+
+ ### ResNets - Residual NETWORKS
+
+ In ResNet, the activation - a[l], of a layer doesnt follow the sequential flow, instead it skips the linear block and moves to a much deep level of the model. It's normally added after the linear part but before the ReLu part. So it's known as skip connection or short cut. Which helps train much deeper networks
+
+ Using 1 X 1 Convolution or Network in Network can help you to strink number of the channels in a NN. Just like pooling layers strinks the width and height of the image
+
+
+#### Inception Network Motivation
+Cost of convolution is measured by mutiplying the output dimensions with the filter dimensions.
+Bottle neck layers using  1 X 1 convolution reduces the computational cost. This is implemented in the Inception module.
+
+####Advice for implementation
+
+Always google implementation of architectures open-source code to modify and achieve your own computer vision tasks.
+
+### Transfer LEARNING
+
+* Always download pre-trained weights to use that as a good initialization to your own network and safe you time. i.e transfer learning. Download both code and weights that have been trained on different networks.
+sometimes the outputs of these networks can have the output 1000 outputs of the softmax layer. So for your problem, you can remove this softmax layer and replace with your own softmax with maybe just 2 outputs. We then freeze the remaining layers. You do when you have small data set for your original problem.
+
+For the case of larger data set, you can freeze fewer layers and then increase the number of layers your train on top of that using your own data set.
+
+But if you have so much data you can use the thesame architecture and train it from scratch using your own dataset and change the softmax layer to match your problem. Remember this will take more time.
+
+Generally, always consider transfer learning in computer vision task.
+
+
+### Data augmentation
+
+It's a technique used to improve performance of computer vision task. Having more data in computer vision makes performance better. Data augmentation is true even in the case where you're using transfer learning and pre-trained weights.
+
+##### Common Data Augmentation methods
+* Mirroring
+* Random Cropping. Mirroring and random Cropping are the most commonly used methods.
+* Sometimes we use rotation, shearing or local warping.
+* Color Shifting : changing the color channels of the image.
+
+Also, check opensource code to see how people implement data augmentation
+
+### Tips for Doing well on Benchmarks/winning Competitions
+1. Ensemble: Train several networks e.g 7 neural networks independently and average their outputs(y_hat)
+2. Multi-crop at test time: Run a classifier on multiple versions of test images and average results.
