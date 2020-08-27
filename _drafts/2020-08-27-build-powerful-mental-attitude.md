@@ -3,13 +3,13 @@ layout: single
 published: true
 title: How to Build a Powerful Optimistic Mental Attitude.
 collection: sc
-author_profile: true
+author_profile: false
 read_time: true
 categories: [Blog] #[tutorials]
 excerpt: "It only takes four simple steps"
 header:
-    overlay_image: "https://beltus.github.io/vision/assets/images/galaxy.png"
-    teaser: "https://beltus.github.io/vision/assets/images/school_small.jpg"
+    overlay_image: "https://beltus.github.io/vision/assets/images/galaxynew.jpg"
+    teaser: "https://cdn-images-1.medium.com/max/2600/1*eRJB4yWutktPNMhzyUYKLw.jpeg"
 comments: true
 toc: true
 toc_sticky: true
