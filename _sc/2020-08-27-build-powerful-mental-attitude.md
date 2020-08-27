@@ -4,7 +4,7 @@ published: true
 title: How to Build a Powerful Optimistic Mental Attitude.
 collection: sc
 author_profile: false
-read_time: true
+read_time: false
 categories: [Blog] #[tutorials]
 excerpt: "It only takes four simple steps"
 header:
@@ -22,7 +22,7 @@ toc_sticky: false
 
 Photo by [Madhav Rajesh](https://unsplash.com/@madhav_rajesh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/crazy-face?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-You might be going through the worse time of your life right now. Or maybe you went through some gloomy incident in the past, that shattered your life into pieces like the remains of a wine glass fired into a solid-wall. 
+You might be going through the worse time of your life right now or maybe you went through some gloomy incident in the past, that shattered your life into pieces like the remains of a wine glass fired into a solid-wall. 
 
 It could be depression, fear of expression, fear of criticism by family, fear of starting that project that can change your life forever, or loss of a significant person in your life.
 
