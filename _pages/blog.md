@@ -6,13 +6,13 @@ title: "List of Articles"
 header:
      image: "https://cdn-images-1.medium.com/max/800/1*dJevYvXpMboY7_OlYmNWQw.jpeg"
 layouts_gallery:
-  - url: https://beltus.github.io/vision/ml/
-    image_path: https://cdn-images-1.medium.com/max/800/1*2TOOMsFHjdPv0FGnvLF-hQ.jpeg
   - url: https://beltus.github.io/vision/sc/
     image_path: https://cdn-images-1.medium.com/max/800/1*btSkbsTKQSgTciaJBWL8xw.png
+  - url: https://beltus.github.io/vision/ml/
+    image_path: https://cdn-images-1.medium.com/max/800/1*2TOOMsFHjdPv0FGnvLF-hQ.jpeg
 ---
 
-I have only 2 things I can offer you in this blog.  
+I have only 2 things I can offer you on this blog.  
 1. If you're interested in becoming the best version of yourself through continuous self-improvement, then I got you.
 
 2. If you have even the tiniest curiosity for Artificial Intelligence and Machine learning related concepts, then you're at the right place.
