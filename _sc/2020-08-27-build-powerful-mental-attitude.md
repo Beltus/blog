@@ -70,7 +70,7 @@ For example, let's imagine, the Love of your life, suddenly called you and said 
 
 Here is a possible silver lining. At least you'll get to sleep peacefully without someone snoring in your ears like a pig in labor. That counts for something right? Keep searching for more good and soon you're going to start feeling good.
 
-But this is enough to become a powerful optimist.
+But this isn't enough to become a powerful optimist.
 
 ## 2\. Seek the Valuable Lesson in Every Setback and Difficulty.
 
