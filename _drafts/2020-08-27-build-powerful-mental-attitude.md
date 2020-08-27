@@ -16,9 +16,6 @@ toc_sticky: true
 ---
 
 
-
-
-
 # How to Build a Powerful Optimistic Mental Attitude.
 
 ![](https://cdn-images-1.medium.com/max/2600/1*eRJB4yWutktPNMhzyUYKLw.jpeg)

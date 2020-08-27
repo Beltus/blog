@@ -12,7 +12,10 @@ layouts_gallery:
     image_path: https://cdn-images-1.medium.com/max/800/1*btSkbsTKQSgTciaJBWL8xw.png
 ---
 
-Here you will find articles ranging from Artificial Intelligence topics to Education to Self-Development grouped into their respective categories. Have fun reading and make sure you come back for more...
+I have only 2 things I can offer you in this blog.  
+1. If you're interested in becoming the best version of yourself through continuous self-improvement, then I got you.
+
+2. If you have even the tiniest curiosity for Artificial Intelligence and Machine learning related concepts, then you're at the right place.
 
 ## Articles Grouped by Category
 
