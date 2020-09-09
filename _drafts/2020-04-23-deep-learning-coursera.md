@@ -477,3 +477,24 @@ Also, check opensource code to see how people implement data augmentation
 ### Tips for Doing well on Benchmarks/winning Competitions
 1. Ensemble: Train several networks e.g 7 neural networks independently and average their outputs(y_hat)
 2. Multi-crop at test time: Run a classifier on multiple versions of test images and average results.
+
+
+### WEEK 3
+#### Object Detection
+* Image classification simply tells you if there is a particular object in the image of not e.g car in image
+* Image Classification with Localization is the problem is localizing an object(i.e, where in the picture is the detected object) in an image and drawing bounding box around the object.
+* Detection is when u can have various instances of different objects with bounding boxes around objects
+
+* In a CNN, the model can use a softmax layer to output the label of the output class(e.g car, pedestrian, motocycle). In classification with Localization the output label, further outputs the object bounding box location(bx, by, bh, bw), where (bx, by) specifies the center of the detected object and (bh, bw) specifies height and width of the object based on the percentage of the entire height and width of the image respectively.
+
+### Formal Definition of y_output of cNN
+The output y, is a vector y = [Pc, bx,by,bh,bw, c1, c2, c3, c4, ..]. where Pc is 1 or 0 if there is an object detected or not. For example y = [1 , bx,by,bh,bw, 1 , 0, 0, 0], means that an object is detected and c1 = 1 means an object of class 1(e.g car) is detected. If Pc = 0 , then y = [0, ?, ? , ? , ? ,,,] for don't cares.
+
+
+### Landmark Detections
+*This is we're interested in detecting some important key points also called landmarks of an object using the CNN. e.g for a face you can have landmarks specifying key points of the face e.g eye, mouth, nose. So for example, a the CNN network can be trained to output whether there is a face or not together with key landmarks of the face. e,g y = [face, l1x, l1y, l2x, l2y , .... , l64x, l64y]
+These are the building blocked of instagram or snapchat fliters used to draw crowns on the face or warp the face, etc.
+
+* To train such a model, we need a labeled dataset of landmarks where the key landmarks have been laborious annotated. Using this, you can pass in your detected landmarks and hence detect parts of the face or maybe key body parts knee, chest any object of interest. So, NN can be used to annotate the pose of the person.
+
+## Note: To achieve this, the identity of landmarks must be consistent across all the images. i.e landmark 1(l1x, l1y) should always be for example the left corner of the eye across all images

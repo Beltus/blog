@@ -16,8 +16,6 @@ toc_sticky: false
 ---
 
 
-# How to Build a Powerful Optimistic Mental Attitude.
-
 ![](https://cdn-images-1.medium.com/max/2600/1*eRJB4yWutktPNMhzyUYKLw.jpeg)
 
 Photo by [Madhav Rajesh](https://unsplash.com/@madhav_rajesh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/crazy-face?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

@@ -28,9 +28,11 @@ Here you will find a list of some of my most favorite books that have drasticall
 - The 100 absolute unbreakable laws of business success by *Brian Tracy*
 - The Miracle Morning by *Hal Elrod*.
 - Eat that Frog by *Brian Tracy.*
+- On Writing Well by *Wiliam Zinsser.*
+- The Art of Getting Money by T.P Barnum
 
 ## Current Book I am Reading.
-- On Writing Well by *Wiliam Zinsser.* Expected Date of Completion 11-08-2020
+- Mastery by *Robert Greene* Expected Date of Completion 19-09-2020
 
 ## Which Book to Read Next?
 At the moment, I don't know. I would love to know some of the books that have changed your lives. Please, share with me at the comments section of this page.
